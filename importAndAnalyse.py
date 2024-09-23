@@ -43,5 +43,5 @@ for fixture in sorted_fixtures:
 print('\n Spreadsheet format \n')
 
 for fixture in sorted_fixtures:
-    if fixture['home_team'].startswith('U'):
+    if fixture['home_team'].startswith('U') and 'Postponed' not in fixture['notes']:
         print(f"{fixture['fixtype']}, {fixture['date']}, {fixture['home_team']}, {fixture['away_team']}, Hillside, {fixture['competition']}")        
