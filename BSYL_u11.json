@@ -5,7 +5,8 @@
         "time": "10:30",
         "home_team": "Shine Saints U11 Juniors",
         "away_team": "U11 Greens",
-        "competition": "U11s D Autumn Development"
+        "competition": "U11s D Autumn Development",
+        "notes": ""
     },
     {
         "date": "28/09/24",
@@ -13,7 +14,8 @@
         "time": "10:30",
         "home_team": "U11 Blacks",
         "away_team": "Wessex Wanderers U11",
-        "competition": "U11s C Autumn Development"
+        "competition": "U11s C Autumn Development",
+        "notes": ""
     },
     {
         "date": "28/09/24",
@@ -21,7 +23,8 @@
         "time": "10:30",
         "home_team": "Clifton United U11 Colts",
         "away_team": "U11 Greens",
-        "competition": "U11s D Autumn Development"
+        "competition": "U11s D Autumn Development",
+        "notes": ""
     },
     {
         "date": "05/10/24",
@@ -29,7 +32,8 @@
         "time": "10:30",
         "home_team": "Swiss Valley Rangers U11 Eagles",
         "away_team": "U11 Blacks",
-        "competition": "U11s C Autumn Development"
+        "competition": "U11s C Autumn Development",
+        "notes": ""
     },
     {
         "date": "05/10/24",
@@ -37,6 +41,7 @@
         "time": "10:30",
         "home_team": "U11 Greens",
         "away_team": "Bishop Road Buccaneers U11 Gold",
-        "competition": "U11s D Autumn Development"
+        "competition": "U11s D Autumn Development",
+        "notes": ""
     }
 ]
