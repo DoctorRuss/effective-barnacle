@@ -1,23 +1,5 @@
 [
     {
-        "date": "28/09/24",
-        "fixtype": "Cup",
-        "time": "10:30",
-        "home_team": "U15 Blacks",
-        "away_team": "FC United U15",
-        "competition": "U15s Plate_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "28/09/24",
-        "fixtype": "Cup",
-        "time": "10:30",
-        "home_team": "U15 Reds",
-        "away_team": "Port of Bristol U15",
-        "competition": "U15s Cup_2024 - 2025",
-        "notes": ""
-    },
-    {
         "date": "05/10/24",
         "fixtype": "L",
         "time": "10:30",
