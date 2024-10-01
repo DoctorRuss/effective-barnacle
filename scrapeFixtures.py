@@ -95,7 +95,7 @@ if __name__ == "__main__":
     severnvalley = 'https://fulltime.thefa.com/fixtures.html?selectedSeason=153093739&selectedFixtureGroupAgeGroup=12&selectedFixtureGroupKey=&selectedDateCode=all&selectedClub=780282713&selectedTeam=&selectedRelatedFixtureOption=3&selectedFixtureDateStatus=&selectedFixtureStatus=&previousSelectedFixtureGroupAgeGroup=12&previousSelectedFixtureGroupKey=&previousSelectedClub=&itemsPerPage=500'
     scrapeFixtures(severnvalley, f"SVYL_u11")
     combination = 'https://fulltime.thefa.com/fixtures.html?selectedSeason=726305118&selectedFixtureGroupAgeGroup=0&selectedFixtureGroupKey=&selectedDateCode=all&selectedClub=735841389&selectedTeam=&selectedRelatedFixtureOption=3&selectedFixtureDateStatus=&selectedFixtureStatus=&previousSelectedFixtureGroupAgeGroup=&previousSelectedFixtureGroupKey=&previousSelectedClub=&itemsPerPage=250'
-    scrapeFixtures(combination, f"FCL_u18')
+    scrapeFixtures(combination, f"FCL_u18")
 
     # Print the grouped fixtures by date
     #sorted_dates = sorted(fixtures_by_date.keys(), key=lambda d: datetime.strptime(d, date_format))
