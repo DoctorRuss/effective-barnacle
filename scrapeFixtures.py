@@ -79,14 +79,19 @@ if __name__ == "__main__":
     # age group 8 is u15, through to age group 12 is u11
     for age in {8,10,11,12}:
         # URL of the webpage you want to scrape
-        print(f"Age group u{23-age}")
+        print(f"BSYL, Age group u{23-age}")
         url = f'https://fulltime.thefa.com/fixtures.html?selectedSeason=595674523&selectedFixtureGroupAgeGroup={age}&selectedFixtureGroupKey=&selectedDateCode=all&selectedClub=272311862&selectedTeam=&selectedRelatedFixtureOption=3&selectedFixtureDateStatus=&selectedFixtureStatus=&previousSelectedFixtureGroupAgeGroup={age}&previousSelectedFixtureGroupKey=&previousSelectedClub=&itemsPerPage=5000'
         scrapeFixtures(url, f"BSYL_u{23-age}")
     for age in {7,8,9,10,11}:
         # URL of the webpage you want to scrape
-        print(f"Age group u{23-age}")
+        print(f"Avon Youth League, age group u{23-age}")
         url = f'https://fulltime.thefa.com/fixtures.html?selectedSeason=224185215&selectedFixtureGroupAgeGroup={age}&selectedFixtureGroupKey=&selectedDateCode=all&selectedClub=71590072&selectedTeam=&selectedRelatedFixtureOption=3&selectedFixtureDateStatus=&selectedFixtureStatus=&previousSelectedFixtureGroupAgeGroup={age}&previousSelectedFixtureGroupKey=&previousSelectedClub=&itemsPerPage=5000'
         scrapeFixtures(url, f"AYL_u{23-age}")
+    for age in {12,13}:
+        # URL of the webpage you want to scrape
+        print(f"Hanham Minor League, age group u{23-age}")
+        url = f'https://fulltime.thefa.com/fixtures.html?selectedSeason=349469407&selectedFixtureGroupAgeGroup={age}&selectedFixtureGroupKey=&selectedDateCode=all&selectedClub=103988540&selectedTeam=&selectedRelatedFixtureOption=3&selectedFixtureDateStatus=&selectedFixtureStatus=&previousSelectedFixtureGroupAgeGroup={age}&previousSelectedFixtureGroupKey=&previousSelectedClub=&itemsPerPage=5000'
+        scrapeFixtures(url, f"HML_u{23-age}")
     severnvalley = 'https://fulltime.thefa.com/fixtures.html?selectedSeason=153093739&selectedFixtureGroupAgeGroup=12&selectedFixtureGroupKey=&selectedDateCode=all&selectedClub=780282713&selectedTeam=&selectedRelatedFixtureOption=3&selectedFixtureDateStatus=&selectedFixtureStatus=&previousSelectedFixtureGroupAgeGroup=12&previousSelectedFixtureGroupKey=&previousSelectedClub=&itemsPerPage=500'
     scrapeFixtures(severnvalley, f"SVYL_u11")
 
