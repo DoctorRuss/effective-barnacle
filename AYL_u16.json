@@ -36,6 +36,69 @@
         "notes": "Postponed"
     },
     {
+        "date": "13/10/24",
+        "fixtype": "CC",
+        "time": "14:00",
+        "home_team": "Bitton Youth U16",
+        "away_team": "Almondsbury United Youth U16",
+        "competition": "U16 Boys",
+        "notes": ""
+    },
+    {
+        "date": "13/10/24",
+        "fixtype": "CC",
+        "time": "14:00",
+        "home_team": "Mangotsfield United Youth U16 Eagles",
+        "away_team": "Bristol Central Youth U16",
+        "competition": "U16 Boys",
+        "notes": ""
+    },
+    {
+        "date": "13/10/24",
+        "fixtype": "CC",
+        "time": "14:00",
+        "home_team": "Mangotsfield United Youth U16 Falcons",
+        "away_team": "Bristol Rovers Supporters Youth U16",
+        "competition": "U16 Boys",
+        "notes": ""
+    },
+    {
+        "date": "13/10/24",
+        "fixtype": "CC",
+        "time": "14:00",
+        "home_team": "U16 Colts",
+        "away_team": "Thornbury Town Youth U16 Falcons",
+        "competition": "U16 Boys",
+        "notes": ""
+    },
+    {
+        "date": "13/10/24",
+        "fixtype": "CC",
+        "time": "14:00",
+        "home_team": "Shine Saints Youth U16 Athletic",
+        "away_team": "Longwell Green Sports Youth U16 Athletic",
+        "competition": "U16 Boys",
+        "notes": ""
+    },
+    {
+        "date": "13/10/24",
+        "fixtype": "CC",
+        "time": "14:00",
+        "home_team": "Shirehampton Colts Youth U16 Reds",
+        "away_team": "Hallen Youth U16",
+        "competition": "U16 Boys",
+        "notes": ""
+    },
+    {
+        "date": "13/10/24",
+        "fixtype": "CC",
+        "time": "14:00",
+        "home_team": "St Nicholas Youth U16 Boys",
+        "away_team": "U16",
+        "competition": "U16 Boys",
+        "notes": ""
+    },
+    {
         "date": "20/10/24",
         "fixtype": "L",
         "time": "14:00",
