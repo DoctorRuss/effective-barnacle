@@ -3,7 +3,7 @@
         "date": "06/10/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16",
+        "home_team": "Rockleaze Rangers Youth U16",
         "away_team": "Whitchurch Sports Junior Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": ""
@@ -13,7 +13,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Yate United Youth U16",
-        "away_team": "U16 Colts",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
         "notes": ""
     },
@@ -21,7 +21,7 @@
         "date": "13/10/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16 Colts",
+        "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Clifton United Youth U16",
         "competition": "U16 Div 4",
         "notes": "Postponed"
@@ -30,34 +30,7 @@
         "date": "13/10/24",
         "fixtype": "CC",
         "time": "14:00",
-        "home_team": "Bitton Youth U16",
-        "away_team": "Almondsbury United Youth U16",
-        "competition": "U16 Boys",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Mangotsfield United Youth U16 Eagles",
-        "away_team": "Bristol Central Youth U16",
-        "competition": "U16 Boys",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Mangotsfield United Youth U16 Falcons",
-        "away_team": "Bristol Rovers Supporters Youth U16",
-        "competition": "U16 Boys",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "U16 Colts",
+        "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Thornbury Town Youth U16 Falcons",
         "competition": "U16 Boys",
         "notes": ""
@@ -66,26 +39,8 @@
         "date": "13/10/24",
         "fixtype": "CC",
         "time": "14:00",
-        "home_team": "Shine Saints Youth U16 Athletic",
-        "away_team": "Longwell Green Sports Youth U16 Athletic",
-        "competition": "U16 Boys",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Shirehampton Colts Youth U16 Reds",
-        "away_team": "Hallen Youth U16",
-        "competition": "U16 Boys",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
         "home_team": "St Nicholas Youth U16 Boys",
-        "away_team": "U16",
+        "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Boys",
         "notes": ""
     },
@@ -93,7 +48,7 @@
         "date": "20/10/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16",
+        "home_team": "Rockleaze Rangers Youth U16",
         "away_team": "Bitton Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": ""
@@ -103,7 +58,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Whitchurch Sports Junior Yth U16 Rangers",
-        "away_team": "U16 Colts",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
         "notes": ""
     },
@@ -111,7 +66,7 @@
         "date": "10/11/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16",
+        "home_team": "Rockleaze Rangers Youth U16",
         "away_team": "Mangotsfield United Youth U16 Eagles",
         "competition": "U16 Div 1 (White)",
         "notes": ""
@@ -120,7 +75,7 @@
         "date": "10/11/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16 Colts",
+        "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Ashton FC U16 Colts",
         "competition": "U16 Div 4",
         "notes": ""
@@ -130,7 +85,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Shirehampton Colts Youth U16 Blacks",
-        "away_team": "U16 Colts",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
         "notes": ""
     },
@@ -138,7 +93,7 @@
         "date": "24/11/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16",
+        "home_team": "Rockleaze Rangers Youth U16",
         "away_team": "Bath City Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": ""
@@ -148,7 +103,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Saltford Youth U16",
-        "away_team": "U16 Colts",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
         "notes": ""
     },
@@ -157,7 +112,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Bristol Central Youth U16",
-        "away_team": "U16",
+        "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": ""
     },
@@ -165,7 +120,7 @@
         "date": "01/12/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16 Colts",
+        "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Bristol Spartak Youth U16",
         "competition": "U16 Div 4",
         "notes": ""
@@ -174,7 +129,7 @@
         "date": "08/12/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16",
+        "home_team": "Rockleaze Rangers Youth U16",
         "away_team": "Brislington Junior Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": ""
@@ -184,7 +139,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Warmley Rangers Youth U16 Youth",
-        "away_team": "U16 Colts",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
         "notes": ""
     },
@@ -192,7 +147,7 @@
         "date": "15/12/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16",
+        "home_team": "Rockleaze Rangers Youth U16",
         "away_team": "Avon Athletic Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": ""
@@ -201,7 +156,7 @@
         "date": "15/12/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16 Colts",
+        "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Warmley Rangers Youth U16 Spartans",
         "competition": "U16 Div 4",
         "notes": ""
@@ -211,7 +166,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Whitchurch Sports Junior Youth U16",
-        "away_team": "U16",
+        "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": ""
     },
@@ -219,7 +174,7 @@
         "date": "12/01/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16 Colts",
+        "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Yate United Youth U16",
         "competition": "U16 Div 4",
         "notes": ""
@@ -228,7 +183,7 @@
         "date": "19/01/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16",
+        "home_team": "Rockleaze Rangers Youth U16",
         "away_team": "Longwell Green Sports Youth U16 Athletic",
         "competition": "U16 Div 1 (White)",
         "notes": ""
@@ -238,7 +193,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Clifton United Youth U16",
-        "away_team": "U16 Colts",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
         "notes": ""
     },
@@ -247,7 +202,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Bitton Youth U16",
-        "away_team": "U16",
+        "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": ""
     },
@@ -255,7 +210,7 @@
         "date": "26/01/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16 Colts",
+        "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Whitchurch Sports Junior Yth U16 Rangers",
         "competition": "U16 Div 4",
         "notes": ""
@@ -265,7 +220,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Mangotsfield United Youth U16 Eagles",
-        "away_team": "U16",
+        "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": ""
     },
@@ -274,7 +229,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Ashton FC U16 Colts",
-        "away_team": "U16 Colts",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
         "notes": ""
     },
@@ -282,7 +237,7 @@
         "date": "09/02/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16 Colts",
+        "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Shirehampton Colts Youth U16 Blacks",
         "competition": "U16 Div 4",
         "notes": ""
@@ -292,7 +247,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Avon Athletic Youth U16",
-        "away_team": "U16",
+        "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": ""
     },
@@ -301,7 +256,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Warmley Rangers Youth U16 Spartans",
-        "away_team": "U16 Colts",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
         "notes": ""
     },
@@ -310,7 +265,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Longwell Green Sports Youth U16 Athletic",
-        "away_team": "U16",
+        "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": ""
     },
@@ -318,7 +273,7 @@
         "date": "16/03/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U16",
+        "home_team": "Rockleaze Rangers Youth U16",
         "away_team": "Bristol Central Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": ""

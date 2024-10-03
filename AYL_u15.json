@@ -4,7 +4,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Hutton Juniors Youth U15 Wanderers",
-        "away_team": "U15",
+        "away_team": "Rockleaze Rangers Youth U15",
         "competition": "U15 Div 2",
         "notes": ""
     },
@@ -13,60 +13,15 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Bristol Rovers Supporters Youth U15",
-        "away_team": "U15 Colts",
+        "away_team": "Rockleaze Rangers Youth U15 Colts",
         "competition": "U15 Div 5",
-        "notes": ""
-    },
-    {
-        "date": "06/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Longwell Green Sports Youth U15 Juniors",
-        "away_team": "St Aldhelms Juniors Youth U15",
-        "competition": "U15 Boys",
-        "notes": ""
-    },
-    {
-        "date": "06/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Port of Bristol Youth U15 Purple",
-        "away_team": "Longwell Green Sports Youth U15 Saints",
-        "competition": "U15 Boys",
-        "notes": ""
-    },
-    {
-        "date": "06/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Shine Saints Youth U15 Colts",
-        "away_team": "Longwell Green Sports Youth U15 Youth",
-        "competition": "U15 Boys",
-        "notes": ""
-    },
-    {
-        "date": "06/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Southmead CS Athletic Youth U15",
-        "away_team": "Frampton Youth U15",
-        "competition": "U15 Boys",
-        "notes": ""
-    },
-    {
-        "date": "06/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "St Vallier Youth U15 Yellow",
-        "away_team": "Bristol Central Youth U15 Cowboys",
-        "competition": "U15 Boys",
         "notes": ""
     },
     {
         "date": "13/10/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U15",
+        "home_team": "Rockleaze Rangers Youth U15",
         "away_team": "Bitton Youth U15 Red",
         "competition": "U15 Div 2",
         "notes": ""
@@ -75,133 +30,16 @@
         "date": "13/10/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U15 Colts",
+        "home_team": "Rockleaze Rangers Youth U15 Colts",
         "away_team": "Nailsea Athletic Junior Youth U15",
         "competition": "U15 Div 5",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Ashcott Youth U16",
-        "away_team": "Bath City Youth U16",
-        "competition": "U16 Boy's Shield_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Ashton FC U16 Juniors",
-        "away_team": "Winscombe Junior Youth U16 Winscombe Sat",
-        "competition": "U16 Boy's Shield_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Bath City Youth U16 Romans",
-        "away_team": "Whitchurch Sports Junior Youth U16",
-        "competition": "U16 Boy's Shield_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Bishops Lydeard Youth U16",
-        "away_team": "Keynsham Town Junior Youth U16 Juniors",
-        "competition": "U16 Boy's Shield_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Brislington Junior Youth U16",
-        "away_team": "Tone Youth U16 Hornets",
-        "competition": "U16 Boy's Shield_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Fry Club JFC U16 Juniors",
-        "away_team": "Freshford United (Youth) U16",
-        "competition": "U16 Boy's Shield_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Haywood U16 Rangers",
-        "away_team": "Larkhall Athletic Youth U16 Eagles",
-        "competition": "U16 Boy's Shield_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Highridge United Youth U16",
-        "away_team": "Chilcompton Sports Youth U16",
-        "competition": "U16 Boy's Shield_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Isle Of Wedmore FC  U16 Herons",
-        "away_team": "Backwell Athletic Junior Youth U16 (Sun)",
-        "competition": "U16 Boy's Shield_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Minehead AFC Youth U16",
-        "away_team": "Purnell Sports Youth U16",
-        "competition": "U16 Boy's Shield_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Wells City Youth U16",
-        "away_team": "Nailsea United Junior Youth U16",
-        "competition": "U16 Boy's Shield_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Wembdon Junior Youth U16 Dragons",
-        "away_team": "Hutton Juniors Youth U16",
-        "competition": "U16 Boy's Shield_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "13/10/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Westfield Youth U16",
-        "away_team": "Portishead Town Youth U16 Juniors",
-        "competition": "U16 Boy's Shield_2024 - 2025",
         "notes": ""
     },
     {
         "date": "20/10/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U15",
+        "home_team": "Rockleaze Rangers Youth U15",
         "away_team": "Stockwood Wanderers Youth U15",
         "competition": "U15 Div 2",
         "notes": ""
@@ -211,7 +49,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Bristol Central Youth U15 Cowboys",
-        "away_team": "U15",
+        "away_team": "Rockleaze Rangers Youth U15",
         "competition": "U15 Div 2",
         "notes": ""
     },
@@ -219,43 +57,16 @@
         "date": "10/11/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U15 Colts",
+        "home_team": "Rockleaze Rangers Youth U15 Colts",
         "away_team": "Park Knowle Youth U15",
         "competition": "U15 Div 5",
-        "notes": ""
-    },
-    {
-        "date": "10/11/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Bristol Central Youth U15",
-        "away_team": "St Nicholas Youth U15 Boys Black",
-        "competition": "U15 Boys",
-        "notes": ""
-    },
-    {
-        "date": "10/11/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Downend Saints Youth U15 Orange",
-        "away_team": "Bitton Youth U15 Red",
-        "competition": "U15 Boys",
-        "notes": ""
-    },
-    {
-        "date": "10/11/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Longwell Green Sports Youth U15",
-        "away_team": "Shine Saints Youth U15 Juniors",
-        "competition": "U15 Boys",
         "notes": ""
     },
     {
         "date": "17/11/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U15 Colts",
+        "home_team": "Rockleaze Rangers Youth U15 Colts",
         "away_team": "Bristol Spartak Youth U15",
         "competition": "U15 Div 5",
         "notes": ""
@@ -265,7 +76,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Ashton FC U15 Youth",
-        "away_team": "U15",
+        "away_team": "Rockleaze Rangers Youth U15",
         "competition": "U15 Div 2",
         "notes": ""
     },
@@ -273,7 +84,7 @@
         "date": "24/11/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U15 Colts",
+        "home_team": "Rockleaze Rangers Youth U15 Colts",
         "away_team": "Warmley Rangers Youth U15 Greens",
         "competition": "U15 Div 5",
         "notes": ""
@@ -283,7 +94,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Purnell Sports Youth U15",
-        "away_team": "U15",
+        "away_team": "Rockleaze Rangers Youth U15",
         "competition": "U15 Div 2",
         "notes": ""
     },
@@ -291,7 +102,7 @@
         "date": "08/12/24",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U15",
+        "home_team": "Rockleaze Rangers Youth U15",
         "away_team": "St Vallier Youth U15 Youth",
         "competition": "U15 Div 2",
         "notes": ""
@@ -301,7 +112,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Keynsham Town Junior Youth U15 Colts",
-        "away_team": "U15",
+        "away_team": "Rockleaze Rangers Youth U15",
         "competition": "U15 Div 2",
         "notes": ""
     },
@@ -310,7 +121,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Mangotsfield United Youth U15",
-        "away_team": "U15 Colts",
+        "away_team": "Rockleaze Rangers Youth U15 Colts",
         "competition": "U15 Div 5",
         "notes": ""
     },
@@ -319,7 +130,7 @@
         "fixtype": "Cup",
         "time": "14:00",
         "home_team": "St Nicholas Youth U15 Boys Black",
-        "away_team": "U15",
+        "away_team": "Rockleaze Rangers Youth U15",
         "competition": "U15 Cup_2024 - 2025",
         "notes": ""
     },
@@ -327,7 +138,7 @@
         "date": "12/01/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U15",
+        "home_team": "Rockleaze Rangers Youth U15",
         "away_team": "Hutton Juniors Youth U15 Wanderers",
         "competition": "U15 Div 2",
         "notes": ""
@@ -336,7 +147,7 @@
         "date": "12/01/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U15 Colts",
+        "home_team": "Rockleaze Rangers Youth U15 Colts",
         "away_team": "Bristol Rovers Supporters Youth U15",
         "competition": "U15 Div 5",
         "notes": ""
@@ -346,7 +157,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Bitton Youth U15 Red",
-        "away_team": "U15",
+        "away_team": "Rockleaze Rangers Youth U15",
         "competition": "U15 Div 2",
         "notes": ""
     },
@@ -355,7 +166,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Stockwood Wanderers Youth U15",
-        "away_team": "U15",
+        "away_team": "Rockleaze Rangers Youth U15",
         "competition": "U15 Div 2",
         "notes": ""
     },
@@ -363,7 +174,7 @@
         "date": "02/02/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U15",
+        "home_team": "Rockleaze Rangers Youth U15",
         "away_team": "Bristol Central Youth U15 Cowboys",
         "competition": "U15 Div 2",
         "notes": ""
@@ -373,7 +184,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Park Knowle Youth U15",
-        "away_team": "U15 Colts",
+        "away_team": "Rockleaze Rangers Youth U15 Colts",
         "competition": "U15 Div 5",
         "notes": ""
     },
@@ -382,7 +193,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Bristol Spartak Youth U15",
-        "away_team": "U15 Colts",
+        "away_team": "Rockleaze Rangers Youth U15 Colts",
         "competition": "U15 Div 5",
         "notes": ""
     },
@@ -390,7 +201,7 @@
         "date": "02/03/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U15",
+        "home_team": "Rockleaze Rangers Youth U15",
         "away_team": "Keynsham Town Junior Youth U15 Colts",
         "competition": "U15 Div 2",
         "notes": ""
@@ -399,7 +210,7 @@
         "date": "02/03/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "U15 Colts",
+        "home_team": "Rockleaze Rangers Youth U15 Colts",
         "away_team": "Mangotsfield United Youth U15",
         "competition": "U15 Div 5",
         "notes": ""
@@ -409,7 +220,7 @@
         "fixtype": "L",
         "time": "14:00",
         "home_team": "St Vallier Youth U15 Youth",
-        "away_team": "U15",
+        "away_team": "Rockleaze Rangers Youth U15",
         "competition": "U15 Div 2",
         "notes": ""
     }
