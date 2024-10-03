@@ -45,3 +45,12 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+
+    - name: Run script to append CSV to Google Sheets
+      run: |
+        echo "${{ secrets.GOOGLE_SHEETS_CREDENTIALS }}" > google_sheets_credentials.json
+        python push_to_sheets.py
+      env:
+        SHEET_ID: "your_google_sheet_id"
+        SHEET_NAME: "Sheet1"
+        CSV_FILE: "output.csv"
