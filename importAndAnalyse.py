@@ -1,6 +1,7 @@
 import json
 from datetime import datetime
 import os
+import csv
 
 # Dictionary to group fixtures by date
 date_format = "%d/%m/%y"
@@ -18,6 +19,17 @@ def sortAndPrintFixtures(fixtures):
     for fixture in sorted_fixtures:
         if 'Postponed' not in fixture['notes'] and fixture['home_team'].startswith('Rockleaze'):
             print(f"{fixture['fixtype']}, {fixture['date']}, {fixture['home_team'].removeprefix('Rockleaze Rangers ').removeprefix('Youth ')}, {fixture['away_team']}, Hillside, {fixture['competition']}")        
+
+def sortAndSaveFixtures(fixtures, filename):    
+    # Sort the fixtures by date
+    sorted_fixtures = sorted(fixtures, key=lambda x: datetime.strptime(x['date'], date_format))
+    # Print the grouped fixtures by date
+    with open(filename, 'w', newline='') as csvfile:
+        spamwriter = csv.writer(csvfile, delimiter=',',
+                            quotechar='|', quoting=csv.QUOTE_MINIMAL)
+        for fixture in sorted_fixtures:
+            if 'Postponed' not in fixture['notes'] and fixture['home_team'].startswith('Rockleaze'):
+                spamwriter.writerow([fixture['fixtype'], fixture['date'], fixture['home_team'].removeprefix('Rockleaze Rangers ').removeprefix('Youth '), fixture['away_team'], "Hillside", fixture['competition'], fixture['notes']])
     
 # Read each JSON file and aggregate the data
 
@@ -36,8 +48,10 @@ for filename in os.listdir(directory):
 
 print('\nSaturday Spreadsheet format \n')
 sortAndPrintFixtures(saturday_fixtures)
+sortAndSaveFixtures(saturday_fixtures, "Saturday.csv")
 print('\nSunday Spreadsheet format \n')
 sortAndPrintFixtures(sunday_fixtures)
+sortAndSaveFixtures(sunday_fixtures, "Sunday.csv")
 
 # Optional: Save the aggregated fixtures to a new JSON file
 #with open('aggregated_fixtures.json', 'w') as json_file:
