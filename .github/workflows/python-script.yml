@@ -49,8 +49,6 @@ jobs:
     - name: Run script to append CSV to Google Sheets
       run: |
         echo "${{ secrets.GOOGLE_SHEETS_CREDENTIALS }}"  > google_sheets_credentials.json
-        python push_to_sheets.py 
+        python push_to_sheets.py "${{ secrets.SHEET_ID }}" "SundayFixtures"
       env:
-        SHEET_ID: "${{ secrets.SHEET_ID }}"
-        SHEET_NAME: "SundayFixtures"
         CSV_FILE: "output.csv"

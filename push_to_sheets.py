@@ -39,4 +39,4 @@ if __name__ == "__main__":
     CSV_FILE = "output.csv"  # The CSV file generated from your script
     CREDENTIALS_FILE = "google_sheets_credentials.json"  # Path to the downloaded JSON file
     
-    update_google_sheet(CSV_FILE, sys.argv[1], SHEET_NAME, CREDENTIALS_FILE)
+    update_google_sheet(CSV_FILE, sys.argv[1], sys.argv[2], CREDENTIALS_FILE)
