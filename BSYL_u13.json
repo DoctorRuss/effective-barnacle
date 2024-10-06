@@ -1,23 +1,5 @@
 [
     {
-        "date": "05/10/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Port of Bristol U13 Whites",
-        "away_team": "Rockleaze Rangers U13 Greens",
-        "competition": "U13B",
-        "notes": ""
-    },
-    {
-        "date": "05/10/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U13 Blues",
-        "away_team": "Southmead CS Athletic  U13",
-        "competition": "U13B",
-        "notes": ""
-    },
-    {
         "date": "12/10/24",
         "fixtype": "L",
         "time": "10:30",
