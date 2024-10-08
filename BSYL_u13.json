@@ -3,15 +3,6 @@
         "date": "12/10/24",
         "fixtype": "L",
         "time": "10:30",
-        "home_team": "Golden Hill Sonics U13",
-        "away_team": "Rockleaze Rangers U13 Blues",
-        "competition": "U13B",
-        "notes": "Postponed"
-    },
-    {
-        "date": "12/10/24",
-        "fixtype": "L",
-        "time": "10:30",
         "home_team": "Rockleaze Rangers U13 Greens",
         "away_team": "Brunel Bantams U13",
         "competition": "U13B",
@@ -38,7 +29,7 @@
     {
         "date": "19/10/24",
         "fixtype": "L",
-        "time": "10:30",
+        "time": "09:00",
         "home_team": "Rockleaze Rangers U13 Blues",
         "away_team": "Ashley Down U13 Wanderers",
         "competition": "U13B",
@@ -50,6 +41,15 @@
         "time": "10:30",
         "home_team": "Wessex Wanderers U13",
         "away_team": "Rockleaze Rangers U13 Greens",
+        "competition": "U13B",
+        "notes": ""
+    },
+    {
+        "date": "02/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Golden Hill Sonics U13",
+        "away_team": "Rockleaze Rangers U13 Blues",
         "competition": "U13B",
         "notes": ""
     },
