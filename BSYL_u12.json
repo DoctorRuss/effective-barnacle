@@ -1,23 +1,5 @@
 [
     {
-        "date": "12/10/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U12 Reds",
-        "away_team": "4fourthefuture U12",
-        "competition": "U12A",
-        "notes": ""
-    },
-    {
-        "date": "12/10/24",
-        "fixtype": "Cup",
-        "time": "10:30",
-        "home_team": "Wessex Wanderers U12 Colts",
-        "away_team": "Rockleaze Rangers U12 Blacks",
-        "competition": "U12s Cup_2024 - 2025",
-        "notes": ""
-    },
-    {
         "date": "19/10/24",
         "fixtype": "L",
         "time": "10:30",
