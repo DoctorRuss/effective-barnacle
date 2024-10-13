@@ -1,5 +1,59 @@
 [
     {
+        "date": "08/09/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Chilcompton Sports Youth U10",
+        "away_team": "Rockleaze Rangers Youth U10",
+        "competition": "U10 Group 5",
+        "score": "X - X"
+    },
+    {
+        "date": "15/09/24",
+        "fixtype": "Cup",
+        "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U10",
+        "away_team": "Red Falcon Club Youth U10",
+        "competition": "U10 Autumn Cup_2024 - 2025",
+        "score": "9 - 6"
+    },
+    {
+        "date": "22/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "St Vallier Youth U10",
+        "away_team": "Rockleaze Rangers Youth U10",
+        "competition": "U10 Autumn Cup_2024 - 2025",
+        "score": "5 - 10"
+    },
+    {
+        "date": "29/09/24",
+        "fixtype": "Cup",
+        "time": "12:00",
+        "home_team": "Rockleaze Rangers Youth U10",
+        "away_team": "Coalpit Heath Youth U10",
+        "competition": "U10 Autumn Cup_2024 - 2025",
+        "score": "10 - 1"
+    },
+    {
+        "date": "06/10/24",
+        "fixtype": "Cup",
+        "time": "12:00",
+        "home_team": "Rockleaze Rangers Youth U10",
+        "away_team": "Mangotsfield United Youth U10 United",
+        "competition": "U10 Autumn Cup_2024 - 2025",
+        "score": "3 - 7"
+    },
+    {
+        "date": "13/10/24",
+        "fixtype": "L",
+        "time": "12:00",
+        "home_team": "Rockleaze Rangers Youth U10",
+        "away_team": "Fry Club JFC U10 Juniors",
+        "competition": "U10 Group 5",
+        "score": "Postponed\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tP - P"
+    },
+    {
         "date": "13/10/24",
         "fixtype": "L",
         "time": "12:00",

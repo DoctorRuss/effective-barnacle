@@ -1,12 +1,93 @@
 [
     {
-        "date": "13/10/24",
+        "date": "01/09/24",
+        "fixtype": "Cup",
+        "time": "14:00",
+        "home_team": "Almondsbury United Youth U16",
+        "away_team": "Rockleaze Rangers Youth U16",
+        "competition": "U16 Cup_2024 - 2025",
+        "score": "2 - 1"
+    },
+    {
+        "date": "01/09/24",
+        "fixtype": "Cup",
+        "time": "14:00",
+        "home_team": "Shine Saints Youth U16 Athletic",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
+        "competition": "U16 Trophy_2024 - 2025",
+        "score": "1 - 4"
+    },
+    {
+        "date": "08/09/24",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Bath City Youth U16",
+        "away_team": "Rockleaze Rangers Youth U16",
+        "competition": "U16 Div 1 (White)",
+        "score": "0 - 3"
+    },
+    {
+        "date": "08/09/24",
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Rockleaze Rangers Youth U16 Colts",
-        "away_team": "Clifton United Youth U16",
+        "away_team": "Saltford Youth U16",
         "competition": "U16 Div 4",
-        "notes": "Postponed"
+        "score": "2 - 2"
+    },
+    {
+        "date": "15/09/24",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Bristol Spartak Youth U16",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
+        "competition": "U16 Div 4",
+        "score": "4 - 2"
+    },
+    {
+        "date": "22/09/24",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Brislington Junior Youth U16",
+        "away_team": "Rockleaze Rangers Youth U16",
+        "competition": "U16 Div 1 (White)",
+        "score": "2 - 5"
+    },
+    {
+        "date": "22/09/24",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Rockleaze Rangers Youth U16 Colts",
+        "away_team": "Warmley Rangers Youth U16 Youth",
+        "competition": "U16 Div 4",
+        "score": "2 - 2"
+    },
+    {
+        "date": "29/09/24",
+        "fixtype": "Cup",
+        "time": "14:00",
+        "home_team": "Rockleaze Rangers Youth U16 Colts",
+        "away_team": "Clifton United Youth U16",
+        "competition": "U16 Trophy_2024 - 2025",
+        "score": "2 - 6"
+    },
+    {
+        "date": "06/10/24",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Rockleaze Rangers Youth U16",
+        "away_team": "Whitchurch Sports Junior Youth U16",
+        "competition": "U16 Div 1 (White)",
+        "score": "3 - 1"
+    },
+    {
+        "date": "06/10/24",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Yate United Youth U16",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
+        "competition": "U16 Div 4",
+        "score": "4 - 3"
     },
     {
         "date": "13/10/24",
@@ -15,7 +96,7 @@
         "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Thornbury Town Youth U16 Falcons",
         "competition": "U16 Boys",
-        "notes": ""
+        "score": "0 - 4"
     },
     {
         "date": "13/10/24",
@@ -24,7 +105,16 @@
         "home_team": "St Nicholas Youth U16 Boys",
         "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Boys",
-        "notes": ""
+        "score": "2 - 7"
+    },
+    {
+        "date": "13/10/24",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Rockleaze Rangers Youth U16 Colts",
+        "away_team": "Clifton United Youth U16",
+        "competition": "U16 Div 4",
+        "notes": "Postponed"
     },
     {
         "date": "20/10/24",

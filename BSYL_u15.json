@@ -1,5 +1,95 @@
 [
     {
+        "date": "07/09/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U15 Reds",
+        "away_team": "Port of Bristol U15",
+        "competition": "U15B",
+        "score": "1 - 6"
+    },
+    {
+        "date": "07/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Cotham Tigers U15",
+        "away_team": "Rockleaze Rangers U15 Blacks",
+        "competition": "U15s Plate_2024 - 2025",
+        "score": "3 - 2"
+    },
+    {
+        "date": "14/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U15 Blacks",
+        "away_team": "Bradley Stoke U15 Gold",
+        "competition": "U15s Plate_2024 - 2025",
+        "score": "3 - 6"
+    },
+    {
+        "date": "14/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U15 Reds",
+        "away_team": "Tyrone Mings Academy U15 Avalanche",
+        "competition": "U15s Cup_2024 - 2025",
+        "score": "2 - 2 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 1-1)"
+    },
+    {
+        "date": "21/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Bishop Road Buccaneers U15",
+        "away_team": "Rockleaze Rangers U15 Reds",
+        "competition": "U15s Cup_2024 - 2025",
+        "score": "3 - 2 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-0)"
+    },
+    {
+        "date": "21/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Portishead Town U15 Sparks",
+        "away_team": "Rockleaze Rangers U15 Blacks",
+        "competition": "U15s Plate_2024 - 2025",
+        "score": "7 - 1 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 5-0)"
+    },
+    {
+        "date": "28/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U15 Blacks",
+        "away_team": "FC United U15",
+        "competition": "U15s Plate_2024 - 2025",
+        "score": "7 - 1"
+    },
+    {
+        "date": "28/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U15 Reds",
+        "away_team": "Port of Bristol U15",
+        "competition": "U15s Cup_2024 - 2025",
+        "score": "5 - 9"
+    },
+    {
+        "date": "05/10/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U15 Reds",
+        "away_team": "Frampton Rangers U15",
+        "competition": "U15B",
+        "score": "3 - 4 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 1-2)"
+    },
+    {
+        "date": "05/10/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U15 Blacks",
+        "away_team": "Shirehampton Colts U15",
+        "competition": "U15s Plate_2024 - 2025",
+        "score": "Home Walkover\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tH - W"
+    },
+    {
         "date": "19/10/24",
         "fixtype": "L",
         "time": "10:30",

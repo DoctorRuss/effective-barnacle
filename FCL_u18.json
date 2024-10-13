@@ -1,12 +1,57 @@
 [
     {
+        "date": "15/09/24",
+        "fixtype": "L",
+        "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U18 Youth",
+        "away_team": "Henbury Youth U18",
+        "competition": "Division 2",
+        "score": "3 - 1"
+    },
+    {
+        "date": "22/09/24",
+        "fixtype": "L",
+        "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U17 Youth",
+        "away_team": "Saltford Youth U18",
+        "competition": "Division 2",
+        "score": "7 - 1"
+    },
+    {
+        "date": "29/09/24",
+        "fixtype": "L",
+        "time": "16:00",
+        "home_team": "Bromley Heath United Youth U18",
+        "away_team": "Rockleaze Rangers Youth U17 Youth",
+        "competition": "Division 2",
+        "score": "1 - 0"
+    },
+    {
+        "date": "29/09/24",
+        "fixtype": "CC",
+        "time": "16:00",
+        "home_team": "Bristol Manor Farm Youth U18",
+        "away_team": "Rockleaze Rangers Youth U18 Youth",
+        "competition": "U18 Shield",
+        "score": "7 - 1"
+    },
+    {
+        "date": "06/10/24",
+        "fixtype": "L",
+        "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U17 Youth",
+        "away_team": "Rockleaze Rangers Youth U18 Youth",
+        "competition": "Division 2",
+        "score": "4 - 4"
+    },
+    {
         "date": "13/10/24",
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Brislington Junior Youth U18 a",
         "away_team": "Rockleaze Rangers Youth U17 Youth",
         "competition": "Division 2",
-        "notes": ""
+        "score": "6 - 3 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 3-2)"
     },
     {
         "date": "20/10/24",
