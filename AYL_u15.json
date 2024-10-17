@@ -108,6 +108,15 @@
         "score": "4 - 7"
     },
     {
+        "date": "10/11/24",
+        "fixtype": "CC",
+        "time": "14:00",
+        "home_team": "Rockleaze Rangers Youth U15",
+        "away_team": "Stonehouse Town Youth U15",
+        "competition": "U15 Boys",
+        "score": "Home Walkover\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tH - W"
+    },
+    {
         "date": "20/10/24",
         "fixtype": "L",
         "time": "14:00",
@@ -132,15 +141,6 @@
         "home_team": "Rockleaze Rangers Youth U15 Colts",
         "away_team": "Park Knowle Youth U15",
         "competition": "U15 Div 5",
-        "notes": ""
-    },
-    {
-        "date": "10/11/24",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Rockleaze Rangers Youth U15",
-        "away_team": "Stonehouse Town Youth U15",
-        "competition": "U15 Boys",
         "notes": ""
     },
     {
