@@ -32,9 +32,6 @@ jobs:
     - name: Run scrape script
       run: python scrapeFixtures.py
 
-    - name: Run aggregation script
-      run: python importAndAnalyse.py
-
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
@@ -45,6 +42,9 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+
+    - name: Run aggregation script
+      run: python importAndAnalyse.py
 
     - name: Run script to append CSV to Google Sheets
       run: |
