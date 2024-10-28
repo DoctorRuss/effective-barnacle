@@ -1,7 +1,7 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import csv
-import sys
+import os
 
 # Authenticate using service account credentials
 def authenticate_google_sheets(credentials_file):
@@ -39,4 +39,4 @@ if __name__ == "__main__":
     CSV_FILE = "output.csv"  # The CSV file generated from your script
     CREDENTIALS_FILE = "google_sheets_credentials.json"  # Path to the downloaded JSON file
     
-    update_google_sheet(CSV_FILE, sys.argv[1], sys.argv[2], CREDENTIALS_FILE)
+    update_google_sheet(CSV_FILE, os.environ['SHEET_ID'], os.environ['SHEET_NAME'], CREDENTIALS_FILE)
