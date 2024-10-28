@@ -36,8 +36,6 @@ def update_google_sheet(csv_file, sheet_id, sheet_name, credentials_file):
 if __name__ == "__main__":
     # Replace with your actual file and sheet details
     CSV_FILE = "output.csv"  # The CSV file generated from your script
-    SHEET_ID = "1sc3_QJfNOVwfgcaC0VhSEoIXlpGntyBVR5UOun_flvQ"  # The Google Sheet ID
-    SHEET_NAME = "Sheet1"  # The name of the sheet/tab within the Google Sheet
     CREDENTIALS_FILE = "google_sheets_credentials.json"  # Path to the downloaded JSON file
     
     update_google_sheet(CSV_FILE, SHEET_ID, SHEET_NAME, CREDENTIALS_FILE)
