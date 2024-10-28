@@ -1,18 +1,10 @@
 [
     {
-        "date": "07/09/24",
+        "date": "14/09/24",
         "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Port of Bristol U13 Whites",
-        "away_team": "U13 Blues",
-        "competition": "U13B"
-    },
-    {
-        "date": "07/09/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "U13 Greens",
-        "away_team": "Golden Hill Sonics U13",
+        "time": "09:00",
+        "home_team": "U13 Blues",
+        "away_team": "Brunel Bantams U13",
         "competition": "U13B"
     },
     {
@@ -21,14 +13,6 @@
         "time": "10:30",
         "home_team": "Ashley Down U12 Wanderers",
         "away_team": "U13 Greens",
-        "competition": "U13B"
-    },
-    {
-        "date": "14/09/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "U13 Blues",
-        "away_team": "Brunel Bantams U13",
         "competition": "U13B"
     },
     {
