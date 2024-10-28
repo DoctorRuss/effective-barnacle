@@ -68,7 +68,7 @@ def scrapeFixtures(url, filename):
 
             # Print the JSON data
             json_string = json.dumps(fixtures, indent=4)
-            print(json_string)
+            #print(json_string)
         else:
             print("No div element with class 'fixtures-table' found")
     else:
