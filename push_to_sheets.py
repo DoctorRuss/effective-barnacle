@@ -26,7 +26,7 @@ def update_google_sheet(csv_file, sheet_id, sheet_name, credentials_file):
      #   csv_data = list(reader)
     header_line = ["Cup","Date","Home Team","Away Team","Venue","Competition","Notes"]
     csv_data=[ header_line ]
-    with open('Sunday.csv', newline='') as csvfile:
+    with open(csv_file, newline='') as csvfile:
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
         for row in spamreader:
             csv_data.append(row)
@@ -35,8 +35,6 @@ def update_google_sheet(csv_file, sheet_id, sheet_name, credentials_file):
     sheet.update(csv_data)
 
 if __name__ == "__main__":
-    # Replace with your actual file and sheet details
-    CSV_FILE = "output.csv"  # The CSV file generated from your script
     CREDENTIALS_FILE = "google_sheets_credentials.json"  # Path to the downloaded JSON file
     
-    update_google_sheet(CSV_FILE, os.environ['SHEET_ID'], os.environ['SHEET_NAME'], CREDENTIALS_FILE)
+    update_google_sheet(os.environ['CSV_FILE'], os.environ['SHEET_ID'], os.environ['SHEET_NAME'], CREDENTIALS_FILE)
