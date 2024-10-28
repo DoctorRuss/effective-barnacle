@@ -1,0 +1,317 @@
+[
+    {
+        "date": "22/09/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Mangotsfield United Youth U13 Eagles",
+        "away_team": "U13 Blacks",
+        "competition": "U13 Div 1",
+        "notes": "Postponed"
+    },
+    {
+        "date": "22/09/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "St Vallier Youth U13 Blue",
+        "away_team": "U13 Reds",
+        "competition": "U13 Div 4",
+        "notes": "Postponed"
+    },
+    {
+        "date": "06/10/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Longwell Green Sports Youth U13",
+        "away_team": "U13 Blacks",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "06/10/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Port of Bristol Youth U13 Green",
+        "away_team": "U13 Reds",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "13/10/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Reds",
+        "away_team": "Red Falcon Club Youth U13 Colts",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "20/10/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Bristol Rovers Supporters Youth U13",
+        "away_team": "U13 Blacks",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "20/10/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Reds",
+        "away_team": "Longwell Green Sports Youth U13 Colts",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "03/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Blacks",
+        "away_team": "Purnell Sports Youth U13",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "10/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Bristol Central Youth U13",
+        "away_team": "U13 Blacks",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "10/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Warmley Rangers Youth U13 Greens",
+        "away_team": "U13 Reds",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "17/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Blacks",
+        "away_team": "Port of Bristol Youth U13 Purple",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "17/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Brislington Junior Youth U13",
+        "away_team": "U13 Reds",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "24/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Avon Athletic Youth U13",
+        "away_team": "U13 Blacks",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "24/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Reds",
+        "away_team": "Westfield Youth U13",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "01/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Blacks",
+        "away_team": "Clevedon United Junior Youth U13 Dragons",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "01/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Red Falcon Club Youth U13 Colts",
+        "away_team": "U13 Reds",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "08/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Blacks",
+        "away_team": "Mangotsfield United Youth U13 Eagles",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "08/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Reds",
+        "away_team": "St Vallier Youth U13 Blue",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "15/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "St Aldhelms Juniors Youth U13 Clarets",
+        "away_team": "U13 Blacks",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "15/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Thornbury Town Youth U13 Falcons",
+        "away_team": "U13 Reds",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "05/01/25",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Emersons Green Junior Youth U13",
+        "away_team": "U13 Reds",
+        "competition": "U13 Plate_2024 - 2025",
+        "notes": ""
+    },
+    {
+        "date": "12/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Blacks",
+        "away_team": "Longwell Green Sports Youth U13",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "12/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Reds",
+        "away_team": "Port of Bristol Youth U13 Green",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "19/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Purnell Sports Youth U13",
+        "away_team": "U13 Blacks",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "19/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Bradley Stoke Youth U13",
+        "away_team": "U13 Reds",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "26/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Blacks",
+        "away_team": "Bristol Rovers Supporters Youth U13",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "26/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Longwell Green Sports Youth U13 Colts",
+        "away_team": "U13 Reds",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "02/02/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Blacks",
+        "away_team": "Bristol Central Youth U13",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "02/02/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Reds",
+        "away_team": "Warmley Rangers Youth U13 Greens",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "09/02/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Port of Bristol Youth U13 Purple",
+        "away_team": "U13 Blacks",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "09/02/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Reds",
+        "away_team": "Brislington Junior Youth U13",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "02/03/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Blacks",
+        "away_team": "St Aldhelms Juniors Youth U13 Clarets",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "02/03/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "U13 Reds",
+        "away_team": "Thornbury Town Youth U13 Falcons",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "09/03/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Clevedon United Junior Youth U13 Dragons",
+        "away_team": "U13 Blacks",
+        "competition": "U13 Div 1",
+        "notes": ""
+    },
+    {
+        "date": "16/03/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U13 Reds",
+        "away_team": "Bradley Stoke Youth U13",
+        "competition": "U13 Div 4",
+        "notes": ""
+    }
+]
