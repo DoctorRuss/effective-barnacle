@@ -45,6 +45,24 @@
         "notes": ""
     },
     {
+        "date": "10/11/24",
+        "fixtype": "CC",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers Youth U12",
+        "away_team": "Port of Bristol Youth U12 Purple",
+        "competition": "U12 Boys (9v9)",
+        "notes": ""
+    },
+    {
+        "date": "10/11/24",
+        "fixtype": "CC",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers Youth U12 Colts",
+        "away_team": "St Nicholas Youth U12 Boys Black",
+        "competition": "U12 Boys (9v9)",
+        "notes": ""
+    },
+    {
         "date": "17/11/24",
         "fixtype": "L",
         "time": "12:15",
