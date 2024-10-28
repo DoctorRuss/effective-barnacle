@@ -1,19 +1,12 @@
 [
     {
-        "date": "21/09/24",
-        "fixtype": "Cup",
-        "time": "10:30",
-        "home_team": "U12 Blacks",
-        "away_team": "Thornbury Town U12 Falcons",
-        "competition": "U12s Cup_2024 - 2025"
-    },
-    {
         "date": "28/09/24",
         "fixtype": "Cup",
         "time": "10:30",
         "home_team": "Shirehampton Colts U12 Broncos",
         "away_team": "U12 Blacks",
-        "competition": "U12s Cup_2024 - 2025"
+        "competition": "U12s Cup_2024 - 2025",
+        "notes": ""
     },
     {
         "date": "05/10/24",
@@ -21,7 +14,8 @@
         "time": "10:30",
         "home_team": "Golden Hill Sonics U12",
         "away_team": "U12 Reds",
-        "competition": "U12A"
+        "competition": "U12A",
+        "notes": ""
     },
     {
         "date": "05/10/24",
@@ -29,7 +23,8 @@
         "time": "10:30",
         "home_team": "U12 Blacks",
         "away_team": "Bishop Road Buccaneers U12",
-        "competition": "U12s Cup_2024 - 2025"
+        "competition": "U12s Cup_2024 - 2025",
+        "notes": ""
     },
     {
         "date": "12/10/24",
@@ -37,7 +32,8 @@
         "time": "10:30",
         "home_team": "U12 Reds",
         "away_team": "4fourthefuture U12",
-        "competition": "U12A"
+        "competition": "U12A",
+        "notes": ""
     },
     {
         "date": "12/10/24",
@@ -45,7 +41,8 @@
         "time": "10:30",
         "home_team": "Wessex Wanderers U12 Colts",
         "away_team": "U12 Blacks",
-        "competition": "U12s Cup_2024 - 2025"
+        "competition": "U12s Cup_2024 - 2025",
+        "notes": ""
     },
     {
         "date": "19/10/24",
@@ -53,7 +50,8 @@
         "time": "10:30",
         "home_team": "Stoke Lane Athletic U12",
         "away_team": "U12 Reds",
-        "competition": "U12A"
+        "competition": "U12A",
+        "notes": ""
     },
     {
         "date": "19/10/24",
@@ -61,7 +59,8 @@
         "time": "10:30",
         "home_team": "Cotham Tigers U12 Indians",
         "away_team": "U12 Blacks",
-        "competition": "U12s Cup_2024 - 2025"
+        "competition": "U12s Cup_2024 - 2025",
+        "notes": ""
     },
     {
         "date": "09/11/24",
@@ -69,7 +68,8 @@
         "time": "10:30",
         "home_team": "U12 Reds",
         "away_team": "Tyrone Mings Academy U12 Gladiators",
-        "competition": "U12A"
+        "competition": "U12A",
+        "notes": ""
     },
     {
         "date": "09/11/24",
@@ -77,7 +77,8 @@
         "time": "10:30",
         "home_team": "Thornbury Town U12 Kestrels",
         "away_team": "U12 Blacks",
-        "competition": "U12C"
+        "competition": "U12C",
+        "notes": ""
     },
     {
         "date": "16/11/24",
@@ -85,7 +86,8 @@
         "time": "10:30",
         "home_team": "U12 Reds",
         "away_team": "Brunel Bantams U12 Wanderers",
-        "competition": "U12A"
+        "competition": "U12A",
+        "notes": ""
     },
     {
         "date": "16/11/24",
@@ -93,7 +95,8 @@
         "time": "10:30",
         "home_team": "Cotham Tigers U12 Indians",
         "away_team": "U12 Blacks",
-        "competition": "U12C"
+        "competition": "U12C",
+        "notes": ""
     },
     {
         "date": "23/11/24",
@@ -101,7 +104,8 @@
         "time": "10:30",
         "home_team": "Cotham Tigers U12 Siberians",
         "away_team": "U12 Reds",
-        "competition": "U12A"
+        "competition": "U12A",
+        "notes": ""
     },
     {
         "date": "23/11/24",
@@ -109,7 +113,8 @@
         "time": "10:30",
         "home_team": "U12 Blacks",
         "away_team": "Wessex Wanderers U12 Tigers",
-        "competition": "U12C"
+        "competition": "U12C",
+        "notes": ""
     },
     {
         "date": "30/11/24",
@@ -117,7 +122,8 @@
         "time": "10:30",
         "home_team": "U12 Reds",
         "away_team": "Stoke Lane Athletic U12",
-        "competition": "U12A"
+        "competition": "U12A",
+        "notes": ""
     },
     {
         "date": "07/12/24",
@@ -125,7 +131,8 @@
         "time": "10:30",
         "home_team": "U12 Blacks",
         "away_team": "Shirehampton Colts U12 Mustangs",
-        "competition": "U12C"
+        "competition": "U12C",
+        "notes": ""
     },
     {
         "date": "14/12/24",
@@ -133,7 +140,8 @@
         "time": "10:30",
         "home_team": "U12 Reds",
         "away_team": "Golden Hill Sonics U12",
-        "competition": "U12A"
+        "competition": "U12A",
+        "notes": ""
     },
     {
         "date": "14/12/24",
@@ -141,7 +149,8 @@
         "time": "10:30",
         "home_team": "Bishop Road Buccaneers U12",
         "away_team": "U12 Blacks",
-        "competition": "U12C"
+        "competition": "U12C",
+        "notes": ""
     },
     {
         "date": "11/01/25",
@@ -149,7 +158,8 @@
         "time": "10:30",
         "home_team": "4fourthefuture U12",
         "away_team": "U12 Reds",
-        "competition": "U12A"
+        "competition": "U12A",
+        "notes": ""
     },
     {
         "date": "11/01/25",
@@ -157,7 +167,8 @@
         "time": "10:30",
         "home_team": "U12 Blacks",
         "away_team": "Wessex Wanderers U12 Colts",
-        "competition": "U12C"
+        "competition": "U12C",
+        "notes": ""
     },
     {
         "date": "18/01/25",
@@ -165,7 +176,8 @@
         "time": "10:30",
         "home_team": "Tyrone Mings Academy U12 Gladiators",
         "away_team": "U12 Reds",
-        "competition": "U12A"
+        "competition": "U12A",
+        "notes": ""
     },
     {
         "date": "18/01/25",
@@ -173,7 +185,8 @@
         "time": "10:30",
         "home_team": "U12 Blacks",
         "away_team": "Thornbury Town U12 Kestrels",
-        "competition": "U12C"
+        "competition": "U12C",
+        "notes": ""
     },
     {
         "date": "25/01/25",
@@ -181,7 +194,8 @@
         "time": "10:30",
         "home_team": "Brunel Bantams U12 Wanderers",
         "away_team": "U12 Reds",
-        "competition": "U12A"
+        "competition": "U12A",
+        "notes": ""
     },
     {
         "date": "25/01/25",
@@ -189,7 +203,8 @@
         "time": "10:30",
         "home_team": "U12 Blacks",
         "away_team": "Cotham Tigers U12 Indians",
-        "competition": "U12C"
+        "competition": "U12C",
+        "notes": ""
     },
     {
         "date": "01/02/25",
@@ -197,7 +212,8 @@
         "time": "10:30",
         "home_team": "U12 Reds",
         "away_team": "Cotham Tigers U12 Siberians",
-        "competition": "U12A"
+        "competition": "U12A",
+        "notes": ""
     },
     {
         "date": "01/02/25",
@@ -205,7 +221,8 @@
         "time": "10:30",
         "home_team": "Wessex Wanderers U12 Tigers",
         "away_team": "U12 Blacks",
-        "competition": "U12C"
+        "competition": "U12C",
+        "notes": ""
     },
     {
         "date": "01/03/25",
@@ -213,7 +230,8 @@
         "time": "10:30",
         "home_team": "Shirehampton Colts U12 Mustangs",
         "away_team": "U12 Blacks",
-        "competition": "U12C"
+        "competition": "U12C",
+        "notes": ""
     },
     {
         "date": "08/03/25",
@@ -221,7 +239,8 @@
         "time": "10:30",
         "home_team": "U12 Blacks",
         "away_team": "Bishop Road Buccaneers U12",
-        "competition": "U12C"
+        "competition": "U12C",
+        "notes": ""
     },
     {
         "date": "15/03/25",
@@ -229,6 +248,7 @@
         "time": "10:30",
         "home_team": "Wessex Wanderers U12 Colts",
         "away_team": "U12 Blacks",
-        "competition": "U12C"
+        "competition": "U12C",
+        "notes": ""
     }
 ]
