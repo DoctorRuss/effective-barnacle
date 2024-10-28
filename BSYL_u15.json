@@ -1,0 +1,282 @@
+[
+    {
+        "date": "07/09/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U15 Reds",
+        "away_team": "Port of Bristol U15",
+        "competition": "U15B"
+    },
+    {
+        "date": "07/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Cotham Tigers U15",
+        "away_team": "U15 Blacks",
+        "competition": "U15s Plate_2024 - 2025"
+    },
+    {
+        "date": "14/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "U15 Blacks",
+        "away_team": "Bradley Stoke U15 Gold",
+        "competition": "U15s Plate_2024 - 2025"
+    },
+    {
+        "date": "14/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "U15 Reds",
+        "away_team": "Tyrone Mings Academy U15 Avalanche",
+        "competition": "U15s Cup_2024 - 2025"
+    },
+    {
+        "date": "21/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Bishop Road Buccaneers U15",
+        "away_team": "U15 Reds",
+        "competition": "U15s Cup_2024 - 2025"
+    },
+    {
+        "date": "21/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Portishead Town U15 Sparks",
+        "away_team": "U15 Blacks",
+        "competition": "U15s Plate_2024 - 2025"
+    },
+    {
+        "date": "28/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "U15 Blacks",
+        "away_team": "FC United U15",
+        "competition": "U15s Plate_2024 - 2025"
+    },
+    {
+        "date": "28/09/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "U15 Reds",
+        "away_team": "Port of Bristol U15",
+        "competition": "U15s Cup_2024 - 2025"
+    },
+    {
+        "date": "05/10/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U15 Reds",
+        "away_team": "Frampton Rangers U15",
+        "competition": "U15B"
+    },
+    {
+        "date": "05/10/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "U15 Blacks",
+        "away_team": "Shirehampton Colts U15",
+        "competition": "U15s Plate_2024 - 2025"
+    },
+    {
+        "date": "19/10/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Fry Club Juniors U15",
+        "away_team": "U15 Reds",
+        "competition": "U15B"
+    },
+    {
+        "date": "19/10/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Yatton Athletic U15 Rangers",
+        "away_team": "U15 Blacks",
+        "competition": "U15s Plate_2024 - 2025"
+    },
+    {
+        "date": "09/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U15 Reds",
+        "away_team": "Westbury Park Foxes U15",
+        "competition": "U15B"
+    },
+    {
+        "date": "09/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "FC United U15",
+        "away_team": "U15 Blacks",
+        "competition": "U15C"
+    },
+    {
+        "date": "16/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Port of Bristol U15",
+        "away_team": "U15 Reds",
+        "competition": "U15B"
+    },
+    {
+        "date": "16/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U15 Blacks",
+        "away_team": "Bradley Stoke U15 Gold",
+        "competition": "U15C"
+    },
+    {
+        "date": "23/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U15 Reds",
+        "away_team": "Backwell Athletic Junior U15",
+        "competition": "U15B"
+    },
+    {
+        "date": "23/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Shirehampton Colts U15",
+        "away_team": "U15 Blacks",
+        "competition": "U15C"
+    },
+    {
+        "date": "30/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Olveston United U15",
+        "away_team": "U15 Reds",
+        "competition": "U15B"
+    },
+    {
+        "date": "30/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U15 Blacks",
+        "away_team": "Cotham Tigers U15",
+        "competition": "U15C"
+    },
+    {
+        "date": "07/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U15 Reds",
+        "away_team": "Golden Hill Sonics U15",
+        "competition": "U15B"
+    },
+    {
+        "date": "07/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Portishead Town U15 Sparks",
+        "away_team": "U15 Blacks",
+        "competition": "U15C"
+    },
+    {
+        "date": "14/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Frampton Rangers U15",
+        "away_team": "U15 Reds",
+        "competition": "U15B"
+    },
+    {
+        "date": "11/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U15 Reds",
+        "away_team": "Fry Club Juniors U15",
+        "competition": "U15B"
+    },
+    {
+        "date": "11/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U15 Blacks",
+        "away_team": "Yatton Athletic U15 Rangers",
+        "competition": "U15C"
+    },
+    {
+        "date": "18/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Westbury Park Foxes U15",
+        "away_team": "U15 Reds",
+        "competition": "U15B"
+    },
+    {
+        "date": "18/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U15 Blacks",
+        "away_team": "FC United U15",
+        "competition": "U15C"
+    },
+    {
+        "date": "25/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Backwell Athletic Junior U15",
+        "away_team": "U15 Reds",
+        "competition": "U15B"
+    },
+    {
+        "date": "25/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Bradley Stoke U15 Gold",
+        "away_team": "U15 Blacks",
+        "competition": "U15C"
+    },
+    {
+        "date": "01/02/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U15 Reds",
+        "away_team": "Olveston United U15",
+        "competition": "U15B"
+    },
+    {
+        "date": "01/02/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U15 Blacks",
+        "away_team": "Shirehampton Colts U15",
+        "competition": "U15C"
+    },
+    {
+        "date": "08/02/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Golden Hill Sonics U15",
+        "away_team": "U15 Reds",
+        "competition": "U15B"
+    },
+    {
+        "date": "08/02/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Cotham Tigers U15",
+        "away_team": "U15 Blacks",
+        "competition": "U15C"
+    },
+    {
+        "date": "01/03/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "U15 Blacks",
+        "away_team": "Portishead Town U15 Sparks",
+        "competition": "U15C"
+    },
+    {
+        "date": "15/03/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Yatton Athletic U15 Rangers",
+        "away_team": "U15 Blacks",
+        "competition": "U15C"
+    }
+]
