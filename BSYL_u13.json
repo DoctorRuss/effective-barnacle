@@ -1,53 +1,5 @@
 [
     {
-        "date": "07/09/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Port of Bristol U13 Whites",
-        "away_team": "U13 Blues",
-        "competition": "U13B"
-    },
-    {
-        "date": "07/09/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "U13 Greens",
-        "away_team": "Golden Hill Sonics U13",
-        "competition": "U13B"
-    },
-    {
-        "date": "14/09/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Ashley Down U12 Wanderers",
-        "away_team": "U13 Greens",
-        "competition": "U13B"
-    },
-    {
-        "date": "14/09/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "U13 Blues",
-        "away_team": "Brunel Bantams U13",
-        "competition": "U13B"
-    },
-    {
-        "date": "21/09/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Wessex Wanderers U13",
-        "away_team": "U13 Blues",
-        "competition": "U13B"
-    },
-    {
-        "date": "21/09/24",
-        "fixtype": "Cup",
-        "time": "10:30",
-        "home_team": "U13 Greens",
-        "away_team": "Westbury Park Foxes U13 Whites",
-        "competition": "U13s Cup_2024 - 2025"
-    },
-    {
         "date": "28/09/24",
         "fixtype": "L",
         "time": "10:30",
@@ -96,11 +48,27 @@
         "competition": "U13B"
     },
     {
+        "date": "12/10/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Cotham Tigers U13 Blacks",
+        "away_team": "U13 Blues",
+        "competition": "U13s Cup_2024 - 2025"
+    },
+    {
+        "date": "12/10/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "U13 Greens",
+        "away_team": "Ashley Down U13 Athletic",
+        "competition": "U13s Cup_2024 - 2025"
+    },
+    {
         "date": "19/10/24",
         "fixtype": "L",
         "time": "10:30",
         "home_team": "U13 Blues",
-        "away_team": "Ashley Down U12 Wanderers",
+        "away_team": "Ashley Down U13 Wanderers",
         "competition": "U13B"
     },
     {
@@ -164,7 +132,7 @@
         "fixtype": "L",
         "time": "10:30",
         "home_team": "U13 Greens",
-        "away_team": "Ashley Down U12 Wanderers",
+        "away_team": "Ashley Down U13 Wanderers",
         "competition": "U13B"
     },
     {
@@ -235,7 +203,7 @@
         "date": "25/01/25",
         "fixtype": "L",
         "time": "10:30",
-        "home_team": "Ashley Down U12 Wanderers",
+        "home_team": "Ashley Down U13 Wanderers",
         "away_team": "U13 Blues",
         "competition": "U13B"
     },
