@@ -47,13 +47,13 @@ def scrapeFixtures(url, filename):
                     competition = columns[8].text.strip()  
                     notes = columns[9].text.strip()  
                     
-                    if True: #home_team.startswith('Rockleaze'):
+                    if home_team.startswith('Rockleaze') or away_team.startswith('Rockleaze'):
                         fixture = {
                             'date': date,
                             'fixtype': fixtype,
                             'time': time,
-                            'home_team': home_team.removeprefix('Rockleaze Rangers ').removeprefix('Youth '),
-                            'away_team': away_team.removeprefix('Rockleaze Rangers ').removeprefix('Youth '),
+                            'home_team': home_team,
+                            'away_team': away_team,
                             'competition': competition,
                             'notes': notes
                         }
