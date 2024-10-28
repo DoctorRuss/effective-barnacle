@@ -42,7 +42,7 @@
         "home_team": "Rockleaze Rangers Youth U11 Reds",
         "away_team": "Lydney Town Youth U11",
         "competition": "U11 Challenge Cup_2024 - 2025",
-        "notes": ""
+        "score": "X - X"
     },
     {
         "date": "09/11/24",
@@ -60,6 +60,15 @@
         "home_team": "Rockleaze Rangers Youth U11 Reds",
         "away_team": "Olveston United Youth U11 Severn",
         "competition": "U11 Pioneers 2024",
+        "notes": ""
+    },
+    {
+        "date": "30/11/24",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Brockworth Albion Youth U11 Badgers",
+        "away_team": "Rockleaze Rangers Youth U11 Reds",
+        "competition": "U11 Challenge Cup_2024 - 2025",
         "notes": ""
     },
     {
