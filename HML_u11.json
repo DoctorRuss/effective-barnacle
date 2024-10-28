@@ -60,7 +60,16 @@
         "home_team": "Mendip Broadwalk (Youth) U11 Blue Sox",
         "away_team": "Rockleaze Rangers Youth U11",
         "competition": "U11 Group 2",
-        "notes": ""
+        "score": "Postponed\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tP - P"
+    },
+    {
+        "date": "20/10/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Mendip Broadwalk (Youth) U11 Blue Sox",
+        "away_team": "Rockleaze Rangers Youth U11",
+        "competition": "U11 Group 2",
+        "notes": "Postponed"
     },
     {
         "date": "10/11/24",

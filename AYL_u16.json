@@ -108,22 +108,13 @@
         "score": "2 - 7"
     },
     {
-        "date": "13/10/24",
-        "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Rockleaze Rangers Youth U16 Colts",
-        "away_team": "Clifton United Youth U16",
-        "competition": "U16 Div 4",
-        "notes": "Postponed"
-    },
-    {
         "date": "20/10/24",
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Rockleaze Rangers Youth U16",
         "away_team": "Bitton Youth U16",
         "competition": "U16 Div 1 (White)",
-        "notes": ""
+        "score": "5 - 0"
     },
     {
         "date": "20/10/24",
@@ -132,7 +123,16 @@
         "home_team": "Whitchurch Sports Junior Yth U16 Rangers",
         "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
-        "notes": ""
+        "score": "4 - 4"
+    },
+    {
+        "date": "13/10/24",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Rockleaze Rangers Youth U16 Colts",
+        "away_team": "Clifton United Youth U16",
+        "competition": "U16 Div 4",
+        "notes": "Postponed"
     },
     {
         "date": "10/11/24",
