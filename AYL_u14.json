@@ -119,6 +119,15 @@
     {
         "date": "20/10/24",
         "fixtype": "CC",
+        "time": "12:15",
+        "home_team": "Rockleaze Rangers Youth U14 Reds",
+        "away_team": "St Aldhelms Juniors Youth U14 Clarets",
+        "competition": "U14 Boys",
+        "score": "2 - 2 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(Pens 3-4)"
+    },
+    {
+        "date": "20/10/24",
+        "fixtype": "CC",
         "time": "10:30",
         "home_team": "Rockleaze Rangers Youth U14",
         "away_team": "Bristol Rovers Supporters Youth U14",
@@ -133,15 +142,6 @@
         "away_team": "Rockleaze Rangers Youth U14 Reds",
         "competition": "U14 Div 2",
         "notes": "Postponed"
-    },
-    {
-        "date": "20/10/24",
-        "fixtype": "CC",
-        "time": "12:15",
-        "home_team": "Rockleaze Rangers Youth U14 Reds",
-        "away_team": "St Aldhelms Juniors Youth U14 Clarets",
-        "competition": "U14 Boys",
-        "notes": ""
     },
     {
         "date": "10/11/24",
