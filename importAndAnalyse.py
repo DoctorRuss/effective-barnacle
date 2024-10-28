@@ -47,24 +47,10 @@ for filename in os.listdir(directory):
                 sunday_fixtures.extend(json.load(json_file))
 
 print('\nSaturday Spreadsheet format \n')
+saturday_fixtures = [fixture for fixture in saturday_fixtures if 'score' not in fixture]
 sortAndPrintFixtures(saturday_fixtures)
 sortAndSaveFixtures(saturday_fixtures, "Saturday.csv")
 print('\nSunday Spreadsheet format \n')
+sunday_fixtures = [fixture for fixture in sunday_fixtures if 'score' not in fixture]
 sortAndPrintFixtures(sunday_fixtures)
 sortAndSaveFixtures(sunday_fixtures, "Sunday.csv")
-
-# Optional: Save the aggregated fixtures to a new JSON file
-#with open('aggregated_fixtures.json', 'w') as json_file:
-#    json.dump(all_fixtures, json_file, indent=4)
-
-#for fixture in sorted_fixtures:
-#    print(f"Date: {fixture['date']}, Home Team: {fixture['home_team']}, Away Team: {fixture['away_team']}, Fixture Type: {fixture['fixtype']} , Time: {fixture['time']}")
-    
-#for fixture in saturday_sorted_fixtures:
-#    if 'Postponed' in fixture['notes']:
-#        continue
-#    elif fixture['home_team'].startswith('Rockleaze'):
-#        print(f"Date: {fixture['date']}, Home Team: {fixture['home_team'].removeprefix('Rockleaze Rangers ').removeprefix('Youth ')}, Away Team: {fixture['away_team']}, Fixture Type: {fixture['fixtype']} , Time: {fixture['time']}")
-
-
-
