@@ -48,7 +48,8 @@ jobs:
 
     - name: Run script to append CSV to Google Sheets
       run: |
-        echo "${{ secrets.GOOGLE_SHEETS_CREDENTIALS }}" > google_sheets_credentials.json
+        echo "${{ secrets.GOOGLE_SHEETS_CREDENTIALS }}"  | sed 's/\\n/\n/g' > google_sheets_credentials.json
+        cat google_sheets_credentials.json
         python push_to_sheets.py
       env:
         SHEET_ID: "your_google_sheet_id"
