@@ -101,15 +101,6 @@
     {
         "date": "24/11/24",
         "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Saltford Youth U18",
-        "away_team": "Rockleaze Rangers Youth U17 Youth",
-        "competition": "Division 2",
-        "notes": ""
-    },
-    {
-        "date": "24/11/24",
-        "fixtype": "L",
         "time": "16:00",
         "home_team": "Rockleaze Rangers Youth U18 Youth",
         "away_team": "Wessex Wanderers Youth U18",
@@ -250,6 +241,15 @@
         "away_team": "Portishead Town (Youth) U18 Rangers",
         "competition": "Division 2",
         "notes": "Match Notes:\nGFA Cup 29-09-24"
+    },
+    {
+        "date": "16/02/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Saltford Youth U18",
+        "away_team": "Rockleaze Rangers Youth U17 Youth",
+        "competition": "Division 2",
+        "notes": "Match Notes:\nGFA Shield 24-11-24"
     },
     {
         "date": "02/03/25",
