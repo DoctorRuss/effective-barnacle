@@ -34,8 +34,11 @@ sorted_fixtures = sorted(all_fixtures, key=lambda x: datetime.strptime(x['date']
 #    print(f"Date: {fixture['date']}, Home Team: {fixture['home_team']}, Away Team: {fixture['away_team']}, Fixture Type: {fixture['fixtype']} , Time: {fixture['time']}")
     
 for fixture in sorted_fixtures:
-    if fixture['home_team'].startswith('U'):
-        print(f"Date: {fixture['date']}, Home Team: {fixture['home_team']}, Away Team: {fixture['away_team']}, Fixture Type: {fixture['fixtype']} , Time: {fixture['time']}")
+    if 'Postponed' in fixture['notes']:
+        continue
+    else:
+        if fixture['home_team'].startswith('U'):
+            print(f"Date: {fixture['date']}, Home Team: {fixture['home_team']}, Away Team: {fixture['away_team']}, Fixture Type: {fixture['fixtype']} , Time: {fixture['time']}")
 
 print('\n Spreadsheet format \n')
 
