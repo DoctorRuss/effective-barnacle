@@ -135,15 +135,6 @@
         "notes": ""
     },
     {
-        "date": "10/11/24",
-        "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Rockleaze Rangers Youth U15 Colts",
-        "away_team": "Park Knowle Youth U15",
-        "competition": "U15 Div 5",
-        "notes": "Postponed"
-    },
-    {
         "date": "17/11/24",
         "fixtype": "L",
         "time": "14:00",
@@ -186,7 +177,7 @@
         "home_team": "Rockleaze Rangers Youth U15",
         "away_team": "St Vallier Youth U15 Youth",
         "competition": "U15 Div 2",
-        "notes": ""
+        "notes": "Postponed"
     },
     {
         "date": "15/12/24",
@@ -203,6 +194,15 @@
         "time": "14:00",
         "home_team": "Mangotsfield United Youth U15",
         "away_team": "Rockleaze Rangers Youth U15 Colts",
+        "competition": "U15 Div 5",
+        "notes": ""
+    },
+    {
+        "date": "05/01/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Rockleaze Rangers Youth U15 Colts",
+        "away_team": "Park Knowle Youth U15",
         "competition": "U15 Div 5",
         "notes": ""
     },
