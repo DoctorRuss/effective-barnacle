@@ -117,24 +117,6 @@
         "score": "5 - 1"
     },
     {
-        "date": "12/10/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U13 Greens",
-        "away_team": "Brunel Bantams U13",
-        "competition": "U13B",
-        "notes": "Postponed"
-    },
-    {
-        "date": "19/10/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Wessex Wanderers U13",
-        "away_team": "Rockleaze Rangers U13 Greens",
-        "competition": "U13B",
-        "notes": "Postponed"
-    },
-    {
         "date": "02/11/24",
         "fixtype": "L",
         "time": "10:30",
@@ -329,6 +311,24 @@
         "time": "10:30",
         "home_team": "Rockleaze Rangers U13 Greens",
         "away_team": "Westbury Park Foxes U13 Whites",
+        "competition": "U13B",
+        "notes": ""
+    },
+    {
+        "date": "15/03/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U13 Greens",
+        "away_team": "Brunel Bantams U13",
+        "competition": "U13B",
+        "notes": ""
+    },
+    {
+        "date": "15/03/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Wessex Wanderers U13",
+        "away_team": "Rockleaze Rangers U13 Greens",
         "competition": "U13B",
         "notes": ""
     }

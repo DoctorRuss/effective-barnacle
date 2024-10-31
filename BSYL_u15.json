@@ -99,15 +99,6 @@
         "score": "4 - 0"
     },
     {
-        "date": "19/10/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Fry Club Juniors U15",
-        "away_team": "Rockleaze Rangers U15 Reds",
-        "competition": "U15B",
-        "notes": "Postponed"
-    },
-    {
         "date": "09/11/24",
         "fixtype": "L",
         "time": "10:30",
@@ -132,6 +123,15 @@
         "home_team": "FC United U15",
         "away_team": "Rockleaze Rangers U15 Blacks",
         "competition": "U15C",
+        "notes": ""
+    },
+    {
+        "date": "12/11/24",
+        "fixtype": "L",
+        "time": "18:30",
+        "home_team": "Fry Club Juniors U15",
+        "away_team": "Rockleaze Rangers U15 Reds",
+        "competition": "U15B",
         "notes": ""
     },
     {
