@@ -111,15 +111,6 @@
         "date": "09/11/24",
         "fixtype": "L",
         "time": "10:30",
-        "home_team": "Rockleaze Rangers U15 Reds",
-        "away_team": "Portishead Town (Youth) U14 Sparks WJL",
-        "competition": "U15B",
-        "notes": ""
-    },
-    {
-        "date": "09/11/24",
-        "fixtype": "L",
-        "time": "10:30",
         "home_team": "FC United U15",
         "away_team": "Rockleaze Rangers U15 Blacks",
         "competition": "U15C",
@@ -240,15 +231,6 @@
         "home_team": "Rockleaze Rangers U15 Blacks",
         "away_team": "Yatton Athletic U15 Rangers",
         "competition": "U15C",
-        "notes": ""
-    },
-    {
-        "date": "18/01/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Portishead Town (Youth) U14 Sparks WJL",
-        "away_team": "Rockleaze Rangers U15 Reds",
-        "competition": "U15B",
         "notes": ""
     },
     {
