@@ -103,9 +103,9 @@
         "fixtype": "L",
         "time": "16:00",
         "home_team": "Rockleaze Rangers Youth U18 Youth",
-        "away_team": "Wessex Wanderers Youth U18",
+        "away_team": "Saltford Youth U18",
         "competition": "Division 2",
-        "notes": ""
+        "notes": "Match Notes:\nSomerset Cup 20-10-24 24-11-24"
     },
     {
         "date": "24/11/24",
@@ -151,6 +151,15 @@
         "away_team": "Brislington Junior Youth U18 a",
         "competition": "Division 2",
         "notes": ""
+    },
+    {
+        "date": "15/12/24",
+        "fixtype": "L",
+        "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U18 Youth",
+        "away_team": "Wessex Wanderers Youth U18",
+        "competition": "Division 2",
+        "notes": "Match Notes:\nGFA Shield 24-11-24"
     },
     {
         "date": "12/01/25",
@@ -286,14 +295,5 @@
         "away_team": "Rockleaze Rangers Youth U18 Youth",
         "competition": "Division 2",
         "notes": ""
-    },
-    {
-        "date": "16/03/25",
-        "fixtype": "L",
-        "time": "16:00",
-        "home_team": "Rockleaze Rangers Youth U18 Youth",
-        "away_team": "Saltford Youth U18",
-        "competition": "Division 2",
-        "notes": "Match Notes:\nSomerset Cup 20-10-24"
     }
 ]
