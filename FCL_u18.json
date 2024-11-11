@@ -74,20 +74,20 @@
     {
         "date": "10/11/24",
         "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Brislington Junior Youth U18 a",
-        "away_team": "Rockleaze Rangers Youth U18 Youth",
-        "competition": "Division 2",
-        "notes": ""
-    },
-    {
-        "date": "10/11/24",
-        "fixtype": "L",
         "time": "16:00",
         "home_team": "Rockleaze Rangers Youth U17 Youth",
         "away_team": "Cotham Park Rangers Youth U18",
         "competition": "Division 2",
-        "notes": ""
+        "score": "2 - 2 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 2-2)"
+    },
+    {
+        "date": "10/11/24",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Brislington Junior Youth U18 a",
+        "away_team": "Rockleaze Rangers Youth U18 Youth",
+        "competition": "Division 2",
+        "score": "3 - 2"
     },
     {
         "date": "17/11/24",

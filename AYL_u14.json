@@ -135,22 +135,13 @@
         "score": "10 - 0 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-0)"
     },
     {
-        "date": "20/10/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Almondsbury United Youth U14 Greens",
-        "away_team": "Rockleaze Rangers Youth U14 Reds",
-        "competition": "U14 Div 2",
-        "notes": "Postponed"
-    },
-    {
         "date": "10/11/24",
         "fixtype": "L",
         "time": "10:30",
         "home_team": "Whitchurch Sports Junior Youth U14",
         "away_team": "Rockleaze Rangers Youth U14",
         "competition": "U14 Div 1",
-        "notes": ""
+        "score": "1 - 2 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-0)"
     },
     {
         "date": "10/11/24",
@@ -159,7 +150,16 @@
         "home_team": "Rockleaze Rangers Youth U14 Reds",
         "away_team": "Bromley Heath United Youth U14",
         "competition": "U14 Div 2",
-        "notes": ""
+        "score": "4 - 3"
+    },
+    {
+        "date": "20/10/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Almondsbury United Youth U14 Greens",
+        "away_team": "Rockleaze Rangers Youth U14 Reds",
+        "competition": "U14 Div 2",
+        "notes": "Postponed"
     },
     {
         "date": "17/11/24",
