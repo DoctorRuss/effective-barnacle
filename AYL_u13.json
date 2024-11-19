@@ -136,21 +136,21 @@
     },
     {
         "date": "17/11/24",
+        "fixtype": "CC",
+        "time": "10:30",
+        "home_team": "Avon Athletic Youth U13",
+        "away_team": "Rockleaze Rangers Youth U13 Blacks",
+        "competition": "U13 Boys_2024 - 2025",
+        "score": "Home Walkover\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tH - W"
+    },
+    {
+        "date": "17/11/24",
         "fixtype": "L",
         "time": "10:30",
         "home_team": "Rockleaze Rangers Youth U13 Blacks",
         "away_team": "Port of Bristol Youth U13 Purple",
         "competition": "U13 Div 1",
         "notes": "Postponed"
-    },
-    {
-        "date": "17/11/24",
-        "fixtype": "CC",
-        "time": "10:30",
-        "home_team": "Avon Athletic Youth U13",
-        "away_team": "Rockleaze Rangers Youth U13 Blacks",
-        "competition": "U13 Boys_2024 - 2025",
-        "notes": ""
     },
     {
         "date": "24/11/24",

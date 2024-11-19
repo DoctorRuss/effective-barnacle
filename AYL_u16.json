@@ -159,7 +159,7 @@
         "home_team": "Rockleaze Rangers Youth U16",
         "away_team": "Longwell Green Sports Youth U16 Athletic",
         "competition": "U16 Boys",
-        "notes": ""
+        "score": "0 - 0 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(Pens 5-4)"
     },
     {
         "date": "24/11/24",
@@ -285,6 +285,15 @@
         "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Whitchurch Sports Junior Yth U16 Rangers",
         "competition": "U16 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "26/01/25",
+        "fixtype": "CC",
+        "time": "14:00",
+        "home_team": "Hallen Youth U16",
+        "away_team": "Rockleaze Rangers Youth U16",
+        "competition": "U16 Boys",
         "notes": ""
     },
     {
