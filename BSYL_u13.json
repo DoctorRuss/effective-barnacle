@@ -155,20 +155,20 @@
     {
         "date": "23/11/24",
         "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Golden Hill Sonics U13",
-        "away_team": "Rockleaze Rangers U13 Greens",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U13 Blues",
+        "away_team": "Port of Bristol U13 Whites",
         "competition": "U13B",
-        "notes": "Postponed"
+        "notes": ""
     },
     {
         "date": "23/11/24",
         "fixtype": "L",
         "time": "10:30",
-        "home_team": "Rockleaze Rangers U13 Blues",
-        "away_team": "Port of Bristol U13 Whites",
+        "home_team": "Golden Hill Sonics U13",
+        "away_team": "Rockleaze Rangers U13 Greens",
         "competition": "U13B",
-        "notes": ""
+        "notes": "Postponed"
     },
     {
         "date": "30/11/24",

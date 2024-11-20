@@ -110,7 +110,7 @@
     {
         "date": "24/11/24",
         "fixtype": "CC",
-        "time": "14:00",
+        "time": "16:00",
         "home_team": "Bristol Central Youth U18",
         "away_team": "Rockleaze Rangers Youth U17 Youth",
         "competition": "U18 Shield",
@@ -255,6 +255,15 @@
         "date": "16/02/25",
         "fixtype": "L",
         "time": "14:00",
+        "home_team": "Rockleaze Rangers Youth U18 Youth",
+        "away_team": "Thornbury Town U18",
+        "competition": "Division 2",
+        "notes": ""
+    },
+    {
+        "date": "16/02/25",
+        "fixtype": "L",
+        "time": "14:00",
         "home_team": "Saltford Youth U18",
         "away_team": "Rockleaze Rangers Youth U17 Youth",
         "competition": "Division 2",
@@ -293,6 +302,33 @@
         "time": "14:00",
         "home_team": "Portishead Town (Youth) U18 Rangers",
         "away_team": "Rockleaze Rangers Youth U18 Youth",
+        "competition": "Division 2",
+        "notes": ""
+    },
+    {
+        "date": "16/03/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Thornbury Town U18",
+        "away_team": "Rockleaze Rangers Youth U18 Youth",
+        "competition": "Division 2",
+        "notes": ""
+    },
+    {
+        "date": "23/03/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Rockleaze Rangers Youth U17 Youth",
+        "away_team": "Thornbury Town U18",
+        "competition": "Division 2",
+        "notes": ""
+    },
+    {
+        "date": "23/03/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Thornbury Town U18",
+        "away_team": "Rockleaze Rangers Youth U17 Youth",
         "competition": "Division 2",
         "notes": ""
     }
