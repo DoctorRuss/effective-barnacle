@@ -273,15 +273,6 @@
         "date": "26/01/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "Bitton Youth U16",
-        "away_team": "Rockleaze Rangers Youth U16",
-        "competition": "U16 Div 1 (White)",
-        "notes": "Postponed"
-    },
-    {
-        "date": "26/01/25",
-        "fixtype": "L",
-        "time": "14:00",
         "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Whitchurch Sports Junior Yth U16 Rangers",
         "competition": "U16 Div 4",
@@ -365,6 +356,15 @@
         "time": "14:00",
         "home_team": "Rockleaze Rangers Youth U16",
         "away_team": "Bristol Central Youth U16",
+        "competition": "U16 Div 1 (White)",
+        "notes": ""
+    },
+    {
+        "date": "23/03/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Bitton Youth U16",
+        "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": ""
     }
