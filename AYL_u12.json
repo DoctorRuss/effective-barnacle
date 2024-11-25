@@ -141,7 +141,7 @@
         "home_team": "Longwell Green Sports Youth U12 Saints",
         "away_team": "Rockleaze Rangers Youth U12 Colts",
         "competition": "U12 Div 4",
-        "score": "1 - 1"
+        "score": "1 - 1 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-1)"
     },
     {
         "date": "24/11/24",
@@ -150,7 +150,7 @@
         "home_team": "Rockleaze Rangers Youth U12 Colts",
         "away_team": "Highridge United Youth U12 Red",
         "competition": "U12 Div 4",
-        "notes": ""
+        "score": "1 - 2 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-0)"
     },
     {
         "date": "01/12/24",
@@ -168,15 +168,6 @@
         "home_team": "Rockleaze Rangers Youth U12 Colts",
         "away_team": "Warmley Rangers Youth U12 Whites",
         "competition": "U12 Div 4",
-        "notes": ""
-    },
-    {
-        "date": "08/12/24",
-        "fixtype": "L",
-        "time": "12:15",
-        "home_team": "Rockleaze Rangers Youth U12",
-        "away_team": "St Nicholas Youth U12 Boys Black",
-        "competition": "U12 Div 2",
         "notes": ""
     },
     {
@@ -303,6 +294,15 @@
         "home_team": "Bristol Spartak Youth U12",
         "away_team": "Rockleaze Rangers Youth U12 Colts",
         "competition": "U12 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "16/03/25",
+        "fixtype": "L",
+        "time": "12:15",
+        "home_team": "Rockleaze Rangers Youth U12",
+        "away_team": "St Nicholas Youth U12 Boys Black",
+        "competition": "U12 Div 2",
         "notes": ""
     },
     {
