@@ -272,18 +272,18 @@
     {
         "date": "02/03/25",
         "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Portishead Town (Youth) U18 Rangers",
-        "away_team": "Rockleaze Rangers Youth U17 Youth",
+        "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U18 Youth",
+        "away_team": "Cotham Park Rangers Youth U18",
         "competition": "Division 2",
         "notes": ""
     },
     {
         "date": "02/03/25",
         "fixtype": "L",
-        "time": "16:00",
-        "home_team": "Rockleaze Rangers Youth U18 Youth",
-        "away_team": "Cotham Park Rangers Youth U18",
+        "time": "16:30",
+        "home_team": "Portishead Town (Youth) U18 Rangers",
+        "away_team": "Rockleaze Rangers Youth U17 Youth",
         "competition": "Division 2",
         "notes": ""
     },
@@ -299,7 +299,7 @@
     {
         "date": "09/03/25",
         "fixtype": "L",
-        "time": "14:00",
+        "time": "16:30",
         "home_team": "Portishead Town (Youth) U18 Rangers",
         "away_team": "Rockleaze Rangers Youth U18 Youth",
         "competition": "Division 2",
