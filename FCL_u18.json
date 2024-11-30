@@ -189,30 +189,21 @@
         "notes": ""
     },
     {
-        "date": "19/01/25",
-        "fixtype": "L",
-        "time": "16:00",
-        "home_team": "Wessex Wanderers Youth U18",
-        "away_team": "Rockleaze Rangers Youth U17 Youth",
-        "competition": "Division 2",
-        "notes": ""
-    },
-    {
         "date": "26/01/25",
-        "fixtype": "L",
-        "time": "16:00",
+        "fixtype": "Cup",
+        "time": "14:00",
         "home_team": "Rockleaze Rangers Youth U17 Youth",
-        "away_team": "Portishead Town (Youth) U18 Rangers",
-        "competition": "Division 2",
+        "away_team": "Avonmouth Youth U18",
+        "competition": "U18 League Cup_2024 - 2025",
         "notes": ""
     },
     {
         "date": "26/01/25",
-        "fixtype": "L",
-        "time": "16:00",
-        "home_team": "Wessex Wanderers Youth U18",
+        "fixtype": "Cup",
+        "time": "14:00",
+        "home_team": "Thornbury Town U18",
         "away_team": "Rockleaze Rangers Youth U18 Youth",
-        "competition": "Division 2",
+        "competition": "U18 League Cup_2024 - 2025",
         "notes": ""
     },
     {
@@ -270,6 +261,15 @@
         "notes": "Match Notes:\nGFA Shield 24-11-24"
     },
     {
+        "date": "23/02/25",
+        "fixtype": "L",
+        "time": "16:00",
+        "home_team": "Wessex Wanderers Youth U18",
+        "away_team": "Rockleaze Rangers Youth U18 Youth",
+        "competition": "Division 2",
+        "notes": "Match Notes:\nLeague Cup 26-01-25"
+    },
+    {
         "date": "02/03/25",
         "fixtype": "L",
         "time": "16:00",
@@ -315,13 +315,22 @@
         "notes": ""
     },
     {
+        "date": "16/03/25",
+        "fixtype": "L",
+        "time": "16:00",
+        "home_team": "Wessex Wanderers Youth U18",
+        "away_team": "Rockleaze Rangers Youth U17 Youth",
+        "competition": "Division 2",
+        "notes": ""
+    },
+    {
         "date": "23/03/25",
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Rockleaze Rangers Youth U17 Youth",
         "away_team": "Thornbury Town U18",
         "competition": "Division 2",
-        "notes": ""
+        "notes": "Match Notes:\nCheck for Double-header"
     },
     {
         "date": "23/03/25",
@@ -331,5 +340,14 @@
         "away_team": "Rockleaze Rangers Youth U17 Youth",
         "competition": "Division 2",
         "notes": ""
+    },
+    {
+        "date": "06/04/25",
+        "fixtype": "L",
+        "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U17 Youth",
+        "away_team": "Portishead Town (Youth) U18 Rangers",
+        "competition": "Division 2",
+        "notes": "Match Notes:\nLeague Cup 26-01-25"
     }
 ]
