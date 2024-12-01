@@ -153,6 +153,24 @@
         "score": "1 - 1"
     },
     {
+        "date": "30/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Brunel Bantams U13",
+        "away_team": "Rockleaze Rangers U13 Blues",
+        "competition": "U13B",
+        "score": "0 - 2 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-1)"
+    },
+    {
+        "date": "30/11/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U13 Greens",
+        "away_team": "Ashley Down U13 Wanderers",
+        "competition": "U13B",
+        "score": "6 - 0"
+    },
+    {
         "date": "23/11/24",
         "fixtype": "L",
         "time": "09:00",
@@ -169,24 +187,6 @@
         "away_team": "Rockleaze Rangers U13 Greens",
         "competition": "U13B",
         "notes": "Postponed"
-    },
-    {
-        "date": "30/11/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Brunel Bantams U13",
-        "away_team": "Rockleaze Rangers U13 Blues",
-        "competition": "U13B",
-        "notes": ""
-    },
-    {
-        "date": "30/11/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U13 Greens",
-        "away_team": "Ashley Down U13 Wanderers",
-        "competition": "U13B",
-        "notes": ""
     },
     {
         "date": "07/12/24",

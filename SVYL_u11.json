@@ -69,7 +69,7 @@
         "home_team": "Brockworth Albion Youth U11 Badgers",
         "away_team": "Rockleaze Rangers Youth U11 Reds",
         "competition": "U11 Challenge Cup_2024 - 2025",
-        "notes": ""
+        "score": "X - X"
     },
     {
         "date": "07/12/24",
@@ -105,6 +105,15 @@
         "home_team": "Ross Juniors U11 Boys",
         "away_team": "Rockleaze Rangers Youth U11 Reds",
         "competition": "U11 Pioneers 2024",
+        "notes": ""
+    },
+    {
+        "date": "01/02/25",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers Youth U11 Reds",
+        "away_team": "Malmesbury Youth FC U11 Lions",
+        "competition": "U11 Challenge Cup_2024 - 2025",
         "notes": ""
     },
     {
