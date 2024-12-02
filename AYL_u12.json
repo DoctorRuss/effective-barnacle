@@ -155,20 +155,20 @@
     {
         "date": "01/12/24",
         "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Portishead Town Youth U12 Juniors",
-        "away_team": "Rockleaze Rangers Youth U12",
-        "competition": "U12 Div 2",
-        "notes": ""
-    },
-    {
-        "date": "01/12/24",
-        "fixtype": "L",
         "time": "12:15",
         "home_team": "Rockleaze Rangers Youth U12 Colts",
         "away_team": "Warmley Rangers Youth U12 Whites",
         "competition": "U12 Div 4",
-        "notes": ""
+        "score": "2 - 0 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 1-0)"
+    },
+    {
+        "date": "01/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Portishead Town Youth U12 Juniors",
+        "away_team": "Rockleaze Rangers Youth U12",
+        "competition": "U12 Div 2",
+        "notes": "Postponed"
     },
     {
         "date": "08/12/24",

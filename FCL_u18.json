@@ -119,20 +119,20 @@
     {
         "date": "01/12/24",
         "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Bromley Heath United Youth U18",
-        "away_team": "Rockleaze Rangers Youth U18 Youth",
-        "competition": "Division 2",
-        "notes": ""
-    },
-    {
-        "date": "01/12/24",
-        "fixtype": "L",
         "time": "16:00",
         "home_team": "Rockleaze Rangers Youth U17 Youth",
         "away_team": "Henbury Youth U18",
         "competition": "Division 2",
-        "notes": ""
+        "score": "6 - 1"
+    },
+    {
+        "date": "01/12/24",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Bromley Heath United Youth U18",
+        "away_team": "Rockleaze Rangers Youth U18 Youth",
+        "competition": "Division 2",
+        "score": "2 - 6"
     },
     {
         "date": "08/12/24",
@@ -241,6 +241,15 @@
         "away_team": "Portishead Town (Youth) U18 Rangers",
         "competition": "Division 2",
         "notes": "Match Notes:\nGFA Cup 29-09-24"
+    },
+    {
+        "date": "09/02/25",
+        "fixtype": "CC",
+        "time": "14:00",
+        "home_team": "Rockleaze Rangers Youth U17 Youth",
+        "away_team": "Hallen Youth U18",
+        "competition": "U18 Shield",
+        "notes": ""
     },
     {
         "date": "16/02/25",
