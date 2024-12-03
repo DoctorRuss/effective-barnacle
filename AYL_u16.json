@@ -351,21 +351,21 @@
         "notes": ""
     },
     {
+        "date": "16/03/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Saltford Youth U16",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
+        "competition": "U16 Div 4",
+        "notes": ""
+    },
+    {
         "date": "23/03/25",
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Bitton Youth U16",
         "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Div 1 (White)",
-        "notes": ""
-    },
-    {
-        "date": "27/04/25",
-        "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Saltford Youth U16",
-        "away_team": "Rockleaze Rangers Youth U16 Colts",
-        "competition": "U16 Div 4",
         "notes": ""
     }
 ]
