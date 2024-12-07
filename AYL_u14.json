@@ -198,6 +198,15 @@
         "score": "4 - 0 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-0)"
     },
     {
+        "date": "08/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "St Nicholas Youth U14 Boys Black",
+        "away_team": "Rockleaze Rangers Youth U14",
+        "competition": "U14 Div 1",
+        "score": "-"
+    },
+    {
         "date": "01/12/24",
         "fixtype": "L",
         "time": "10:30",
@@ -214,15 +223,6 @@
         "away_team": "Rockleaze Rangers Youth U14 Reds",
         "competition": "U14 Div 2",
         "notes": "Postponed"
-    },
-    {
-        "date": "08/12/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "St Nicholas Youth U14 Boys Black",
-        "away_team": "Rockleaze Rangers Youth U14",
-        "competition": "U14 Div 1",
-        "notes": ""
     },
     {
         "date": "08/12/24",
