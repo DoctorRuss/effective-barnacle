@@ -141,7 +141,7 @@
         "home_team": "Rockleaze Rangers Youth U18 Youth",
         "away_team": "Rockleaze Rangers Youth U17 Youth",
         "competition": "Division 2",
-        "notes": ""
+        "score": "1 - 1 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 1-0)"
     },
     {
         "date": "15/12/24",
@@ -192,17 +192,17 @@
         "date": "26/01/25",
         "fixtype": "Cup",
         "time": "14:00",
-        "home_team": "Rockleaze Rangers Youth U17 Youth",
-        "away_team": "Avonmouth Youth U18",
+        "home_team": "Thornbury Town U18",
+        "away_team": "Rockleaze Rangers Youth U18 Youth",
         "competition": "U18 League Cup_2024 - 2025",
         "notes": ""
     },
     {
         "date": "26/01/25",
         "fixtype": "Cup",
-        "time": "14:00",
-        "home_team": "Thornbury Town U18",
-        "away_team": "Rockleaze Rangers Youth U18 Youth",
+        "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U17 Youth",
+        "away_team": "Avonmouth Youth U18",
         "competition": "U18 League Cup_2024 - 2025",
         "notes": ""
     },
@@ -336,19 +336,19 @@
         "date": "23/03/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "Rockleaze Rangers Youth U17 Youth",
-        "away_team": "Thornbury Town U18",
-        "competition": "Division 2",
-        "notes": "Match Notes:\nCheck for Double-header"
-    },
-    {
-        "date": "23/03/25",
-        "fixtype": "L",
-        "time": "14:00",
         "home_team": "Thornbury Town U18",
         "away_team": "Rockleaze Rangers Youth U17 Youth",
         "competition": "Division 2",
         "notes": ""
+    },
+    {
+        "date": "23/03/25",
+        "fixtype": "L",
+        "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U17 Youth",
+        "away_team": "Thornbury Town U18",
+        "competition": "Division 2",
+        "notes": "Match Notes:\nCheck for Double-header"
     },
     {
         "date": "06/04/25",
