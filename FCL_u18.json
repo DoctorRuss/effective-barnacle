@@ -183,6 +183,15 @@
         "date": "19/01/25",
         "fixtype": "L",
         "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U17 Youth",
+        "away_team": "Thornbury Town U18",
+        "competition": "Division 2",
+        "notes": ""
+    },
+    {
+        "date": "19/01/25",
+        "fixtype": "L",
+        "time": "16:00",
         "home_team": "Rockleaze Rangers Youth U18 Youth",
         "away_team": "Bromley Heath United Youth U18",
         "competition": "Division 2",
@@ -340,15 +349,6 @@
         "away_team": "Rockleaze Rangers Youth U17 Youth",
         "competition": "Division 2",
         "notes": ""
-    },
-    {
-        "date": "23/03/25",
-        "fixtype": "L",
-        "time": "16:00",
-        "home_team": "Rockleaze Rangers Youth U17 Youth",
-        "away_team": "Thornbury Town U18",
-        "competition": "Division 2",
-        "notes": "Match Notes:\nCheck for Double-header"
     },
     {
         "date": "06/04/25",
