@@ -189,15 +189,6 @@
         "notes": "Postponed"
     },
     {
-        "date": "07/12/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Westbury Park Foxes U15",
-        "away_team": "Rockleaze Rangers U15 Blacks",
-        "competition": "U15C",
-        "notes": "Postponed"
-    },
-    {
         "date": "14/12/24",
         "fixtype": "L",
         "time": "10:30",
@@ -310,6 +301,15 @@
         "fixtype": "L",
         "time": "10:30",
         "home_team": "Yatton Athletic U15 Rangers",
+        "away_team": "Rockleaze Rangers U15 Blacks",
+        "competition": "U15C",
+        "notes": ""
+    },
+    {
+        "date": "22/03/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Westbury Park Foxes U15",
         "away_team": "Rockleaze Rangers U15 Blacks",
         "competition": "U15C",
         "notes": ""
