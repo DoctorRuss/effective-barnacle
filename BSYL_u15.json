@@ -180,6 +180,15 @@
         "score": "3 - 3 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-3)"
     },
     {
+        "date": "14/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Frampton Rangers U15",
+        "away_team": "Rockleaze Rangers U15 Reds",
+        "competition": "U15B",
+        "score": "7 - 3 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 3-1)"
+    },
+    {
         "date": "07/12/24",
         "fixtype": "L",
         "time": "10:30",
@@ -187,15 +196,6 @@
         "away_team": "Golden Hill Sonics U15",
         "competition": "U15B",
         "notes": "Postponed"
-    },
-    {
-        "date": "14/12/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Frampton Rangers U15",
-        "away_team": "Rockleaze Rangers U15 Reds",
-        "competition": "U15B",
-        "notes": ""
     },
     {
         "date": "11/01/25",
