@@ -198,22 +198,13 @@
         "score": "2 - 2"
     },
     {
-        "date": "08/12/24",
-        "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Warmley Rangers Youth U16 Youth",
-        "away_team": "Rockleaze Rangers Youth U16 Colts",
-        "competition": "U16 Div 4",
-        "notes": "Postponed"
-    },
-    {
         "date": "15/12/24",
         "fixtype": "L",
         "time": "14:00",
         "home_team": "Rockleaze Rangers Youth U16",
         "away_team": "Avon Athletic Youth U16",
         "competition": "U16 Div 1 (White)",
-        "notes": ""
+        "score": "5 - 0"
     },
     {
         "date": "15/12/24",
@@ -222,7 +213,16 @@
         "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Warmley Rangers Youth U16 Spartans",
         "competition": "U16 Div 4",
-        "notes": ""
+        "score": "0 - 4"
+    },
+    {
+        "date": "08/12/24",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Warmley Rangers Youth U16 Youth",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
+        "competition": "U16 Div 4",
+        "notes": "Postponed"
     },
     {
         "date": "12/01/25",

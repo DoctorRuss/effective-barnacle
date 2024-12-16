@@ -99,6 +99,15 @@
         "score": "X - X"
     },
     {
+        "date": "15/12/24",
+        "fixtype": "L",
+        "time": "12:15",
+        "home_team": "Rockleaze Rangers Youth U11",
+        "away_team": "Coalpit Heath Youth U11",
+        "competition": "U11 Group 2",
+        "score": "X - X"
+    },
+    {
         "date": "20/10/24",
         "fixtype": "L",
         "time": "10:30",
@@ -115,15 +124,6 @@
         "away_team": "Rockleaze Rangers Youth U11",
         "competition": "U11 Group 2",
         "notes": "Postponed"
-    },
-    {
-        "date": "15/12/24",
-        "fixtype": "L",
-        "time": "12:15",
-        "home_team": "Rockleaze Rangers Youth U11",
-        "away_team": "Coalpit Heath Youth U11",
-        "competition": "U11 Group 2",
-        "notes": ""
     },
     {
         "date": "05/01/25",

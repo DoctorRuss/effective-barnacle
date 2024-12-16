@@ -207,6 +207,24 @@
         "score": "0 - 4 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-0)"
     },
     {
+        "date": "15/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers Youth U14",
+        "away_team": "Shirehampton Colts Youth U14 Panthers",
+        "competition": "U14 Div 1",
+        "score": "7 - 0 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-0)"
+    },
+    {
+        "date": "15/12/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers Youth U14 Reds",
+        "away_team": "Portishead Town Youth U14 Sparks",
+        "competition": "U14 Div 2",
+        "score": "8 - 3"
+    },
+    {
         "date": "01/12/24",
         "fixtype": "L",
         "time": "10:30",
@@ -230,24 +248,6 @@
         "time": "10:30",
         "home_team": "AEK Boco Youth U14 Juniors",
         "away_team": "Rockleaze Rangers Youth U14 Reds",
-        "competition": "U14 Div 2",
-        "notes": ""
-    },
-    {
-        "date": "15/12/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers Youth U14",
-        "away_team": "Shirehampton Colts Youth U14 Panthers",
-        "competition": "U14 Div 1",
-        "notes": ""
-    },
-    {
-        "date": "15/12/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers Youth U14 Reds",
-        "away_team": "Portishead Town Youth U14 Sparks",
         "competition": "U14 Div 2",
         "notes": ""
     },

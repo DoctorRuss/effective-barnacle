@@ -191,11 +191,11 @@
     {
         "date": "15/12/24",
         "fixtype": "L",
-        "time": "10:30",
-        "home_team": "St Aldhelms Juniors Youth U13 Clarets",
-        "away_team": "Rockleaze Rangers Youth U13 Blacks",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers Youth U13 Blacks",
+        "away_team": "St Aldhelms Juniors Youth U13 Clarets",
         "competition": "U13 Div 1",
-        "notes": ""
+        "score": "1 - 5"
     },
     {
         "date": "15/12/24",
@@ -204,7 +204,7 @@
         "home_team": "Thornbury Town Youth U13 Falcons",
         "away_team": "Rockleaze Rangers Youth U13 Reds",
         "competition": "U13 Div 4",
-        "notes": ""
+        "score": "2 - 3"
     },
     {
         "date": "05/01/25",
@@ -309,8 +309,8 @@
         "date": "02/03/25",
         "fixtype": "L",
         "time": "10:30",
-        "home_team": "Rockleaze Rangers Youth U13 Blacks",
-        "away_team": "St Aldhelms Juniors Youth U13 Clarets",
+        "home_team": "St Aldhelms Juniors Youth U13 Clarets",
+        "away_team": "Rockleaze Rangers Youth U13 Blacks",
         "competition": "U13 Div 1",
         "notes": ""
     },
