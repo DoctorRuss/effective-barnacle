@@ -160,5 +160,32 @@
         "away_team": "Bromley Heath United U10 Colts",
         "competition": "U10 Group 5",
         "notes": ""
+    },
+    {
+        "date": "09/02/25",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Bristol Rovers Supporter Yth U10 Yellows",
+        "away_team": "Rockleaze Rangers Youth U10",
+        "competition": "U10 Spring Cup_2024 - 2025",
+        "notes": ""
+    },
+    {
+        "date": "02/03/25",
+        "fixtype": "Cup",
+        "time": "12:15",
+        "home_team": "Rockleaze Rangers Youth U10",
+        "away_team": "Bath City Youth U10 Stripes",
+        "competition": "U10 Spring Cup_2024 - 2025",
+        "notes": ""
+    },
+    {
+        "date": "09/03/25",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Mangotsfield United Youth U10 United",
+        "away_team": "Rockleaze Rangers Youth U10",
+        "competition": "U10 Spring Cup_2024 - 2025",
+        "notes": ""
     }
 ]
