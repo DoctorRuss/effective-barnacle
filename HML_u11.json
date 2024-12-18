@@ -171,6 +171,33 @@
         "notes": ""
     },
     {
+        "date": "09/02/25",
+        "fixtype": "Cup",
+        "time": "12:15",
+        "home_team": "Rockleaze Rangers Youth U11",
+        "away_team": "Banwell Juniors Youth U11 United",
+        "competition": "U11 Spring Cup_2024 - 2025",
+        "notes": ""
+    },
+    {
+        "date": "02/03/25",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Port of Bristol Youth U11 Purples",
+        "away_team": "Rockleaze Rangers Youth U11",
+        "competition": "U11 Spring Cup_2024 - 2025",
+        "notes": ""
+    },
+    {
+        "date": "09/03/25",
+        "fixtype": "Cup",
+        "time": "12:15",
+        "home_team": "Rockleaze Rangers Youth U11",
+        "away_team": "St Nicholas Youth U11 Boys Black",
+        "competition": "U11 Spring Cup_2024 - 2025",
+        "notes": ""
+    },
+    {
         "date": "23/03/25",
         "fixtype": "L",
         "time": "12:15",
