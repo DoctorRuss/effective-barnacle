@@ -216,15 +216,6 @@
         "score": "0 - 4"
     },
     {
-        "date": "08/12/24",
-        "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Warmley Rangers Youth U16 Youth",
-        "away_team": "Rockleaze Rangers Youth U16 Colts",
-        "competition": "U16 Div 4",
-        "notes": "Postponed"
-    },
-    {
         "date": "12/01/25",
         "fixtype": "L",
         "time": "14:00",
@@ -366,6 +357,15 @@
         "home_team": "Bitton Youth U16",
         "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Div 1 (White)",
+        "notes": ""
+    },
+    {
+        "date": "23/03/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Warmley Rangers Youth U16 Youth",
+        "away_team": "Rockleaze Rangers Youth U16 Colts",
+        "competition": "U16 Div 4",
         "notes": ""
     }
 ]
