@@ -231,7 +231,7 @@
         "home_team": "Rockleaze Rangers Youth U14",
         "away_team": "St Aldhelms Juniors Youth U14 Clarets",
         "competition": "U14 Cup_2024 - 2025",
-        "notes": ""
+        "score": "9 - 1 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-0)"
     },
     {
         "date": "05/01/25",
@@ -240,7 +240,7 @@
         "home_team": "Rockleaze Rangers Youth U14 Reds",
         "away_team": "Mangotsfield United Youth U14 United",
         "competition": "U14 Cup_2024 - 2025",
-        "notes": ""
+        "score": "3 - 4"
     },
     {
         "date": "12/01/25",
@@ -375,6 +375,15 @@
         "home_team": "Almondsbury United Youth U14 Greens",
         "away_team": "Rockleaze Rangers Youth U14 Reds",
         "competition": "U14 Div 2",
+        "notes": ""
+    },
+    {
+        "date": "16/03/25",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers Youth U14",
+        "away_team": "Mangotsfield United Youth U14 United",
+        "competition": "U14 Cup_2024 - 2025",
         "notes": ""
     },
     {
