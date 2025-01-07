@@ -209,11 +209,11 @@
     {
         "date": "12/01/25",
         "fixtype": "L",
-        "time": "16:00",
+        "time": "14:00",
         "home_team": "Rockleaze Rangers Youth U15 Colts",
-        "away_team": "Bristol Rovers Supporters Youth U15",
+        "away_team": "Warmley Rangers Youth U15 Greens",
         "competition": "U15 Div 5",
-        "notes": "Postponed \r\n\t\t\t\t\t\t\t\t\t\t\t\n\n\n\nMatch Notes:\nChange of KO time"
+        "notes": ""
     },
     {
         "date": "19/01/25",
@@ -279,15 +279,6 @@
         "notes": ""
     },
     {
-        "date": "02/03/25",
-        "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Rockleaze Rangers Youth U15 Colts",
-        "away_team": "Warmley Rangers Youth U15 Greens",
-        "competition": "U15 Div 5",
-        "notes": ""
-    },
-    {
         "date": "09/03/25",
         "fixtype": "L",
         "time": "14:00",
@@ -295,6 +286,15 @@
         "away_team": "Rockleaze Rangers Youth U15",
         "competition": "U15 Div 2",
         "notes": ""
+    },
+    {
+        "date": "09/03/25",
+        "fixtype": "L",
+        "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U15 Colts",
+        "away_team": "Bristol Rovers Supporters Youth U15",
+        "competition": "U15 Div 5",
+        "notes": "Match Notes:\nChange of KO time"
     },
     {
         "date": "23/03/25",

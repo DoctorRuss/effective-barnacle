@@ -162,15 +162,6 @@
         "score": "4 - 2 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-1)"
     },
     {
-        "date": "07/12/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U12 Blacks",
-        "away_team": "Shirehampton Colts U12 Mustangs",
-        "competition": "U12C",
-        "score": "Home Walkover\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tH - W"
-    },
-    {
         "date": "14/12/24",
         "fixtype": "L",
         "time": "10:30",
@@ -256,15 +247,6 @@
         "fixtype": "L",
         "time": "10:30",
         "home_team": "Wessex Wanderers U12 Tigers",
-        "away_team": "Rockleaze Rangers U12 Blacks",
-        "competition": "U12C",
-        "notes": ""
-    },
-    {
-        "date": "01/03/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Shirehampton Colts U12 Mustangs",
         "away_team": "Rockleaze Rangers U12 Blacks",
         "competition": "U12C",
         "notes": ""
