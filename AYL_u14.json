@@ -249,7 +249,7 @@
         "home_team": "Hallen Youth U14",
         "away_team": "Rockleaze Rangers Youth U14",
         "competition": "U14 Div 1",
-        "notes": ""
+        "score": "1 - 5 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-0)"
     },
     {
         "date": "12/01/25",
@@ -258,7 +258,7 @@
         "home_team": "Backwell Athletic Junior Youth U14",
         "away_team": "Rockleaze Rangers Youth U14 Reds",
         "competition": "U14 Div 2",
-        "notes": ""
+        "notes": "Postponed"
     },
     {
         "date": "19/01/25",
@@ -273,10 +273,19 @@
         "date": "19/01/25",
         "fixtype": "L",
         "time": "10:30",
+        "home_team": "Bromley Heath United Youth U14",
+        "away_team": "Rockleaze Rangers Youth U14 Reds",
+        "competition": "U14 Div 2",
+        "notes": ""
+    },
+    {
+        "date": "19/01/25",
+        "fixtype": "L",
+        "time": "10:30",
         "home_team": "Rockleaze Rangers Youth U14 Reds",
         "away_team": "Avon Athletic Youth U14",
         "competition": "U14 Div 2",
-        "notes": ""
+        "notes": "Postponed"
     },
     {
         "date": "26/01/25",
@@ -303,15 +312,6 @@
         "home_team": "Rockleaze Rangers Youth U14",
         "away_team": "Whitchurch Sports Junior Youth U14",
         "competition": "U14 Div 1",
-        "notes": ""
-    },
-    {
-        "date": "02/02/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Bromley Heath United Youth U14",
-        "away_team": "Rockleaze Rangers Youth U14 Reds",
-        "competition": "U14 Div 2",
         "notes": ""
     },
     {

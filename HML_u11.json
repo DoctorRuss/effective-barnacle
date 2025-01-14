@@ -117,6 +117,15 @@
         "score": "Postponed\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tP - P"
     },
     {
+        "date": "12/01/25",
+        "fixtype": "L",
+        "time": "12:15",
+        "home_team": "Rockleaze Rangers Youth U11",
+        "away_team": "Port of Bristol Youth U11 Purples",
+        "competition": "U11 Group 2",
+        "score": "X - X"
+    },
+    {
         "date": "20/10/24",
         "fixtype": "L",
         "time": "10:30",
@@ -142,15 +151,6 @@
         "away_team": "Mendip Broadwalk (Youth) U11 Blue Sox",
         "competition": "U11 Group 2",
         "notes": "Postponed"
-    },
-    {
-        "date": "12/01/25",
-        "fixtype": "L",
-        "time": "12:15",
-        "home_team": "Rockleaze Rangers Youth U11",
-        "away_team": "Port of Bristol Youth U11 Purples",
-        "competition": "U11 Group 2",
-        "notes": ""
     },
     {
         "date": "19/01/25",
