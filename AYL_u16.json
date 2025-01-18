@@ -225,15 +225,6 @@
         "score": "1 - 0"
     },
     {
-        "date": "12/01/25",
-        "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Rockleaze Rangers Youth U16 Colts",
-        "away_team": "Yate United Youth U16",
-        "competition": "U16 Div 4",
-        "notes": "Postponed"
-    },
-    {
         "date": "19/01/25",
         "fixtype": "L",
         "time": "14:00",
@@ -365,6 +356,15 @@
         "time": "14:00",
         "home_team": "Warmley Rangers Youth U16 Spartans",
         "away_team": "Rockleaze Rangers Youth U16 Colts",
+        "competition": "U16 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "27/04/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Rockleaze Rangers Youth U16 Colts",
+        "away_team": "Yate United Youth U16",
         "competition": "U16 Div 4",
         "notes": ""
     }
