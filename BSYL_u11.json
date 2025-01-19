@@ -126,21 +126,30 @@
         "score": "X - X"
     },
     {
+        "date": "18/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U11 Blacks",
+        "away_team": "Shirehampton Colts U11 Leopards",
+        "competition": "U11C Winter Development",
+        "score": "X - X"
+    },
+    {
+        "date": "01/02/24",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U11 Blacks",
+        "away_team": "Westbury Park Foxes U11 Greens",
+        "competition": "U11C Winter Development",
+        "notes": ""
+    },
+    {
         "date": "07/12/24",
         "fixtype": "L",
         "time": "10:30",
         "home_team": "Tyrone Mings Academy U11 Lightning",
         "away_team": "Rockleaze Rangers U11 Greens",
         "competition": "U11A Winter Development",
-        "notes": "Postponed"
-    },
-    {
-        "date": "07/12/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U11 Blacks",
-        "away_team": "Westbury Park Foxes U11 Greens",
-        "competition": "U11C Winter Development",
         "notes": "Postponed"
     },
     {
@@ -153,15 +162,6 @@
         "notes": "Postponed"
     },
     {
-        "date": "11/01/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Bishop Road Buccaneers U11 Blacks",
-        "away_team": "Rockleaze Rangers U11 Blacks",
-        "competition": "U11C Winter Development",
-        "notes": "Postponed"
-    },
-    {
         "date": "18/01/25",
         "fixtype": "L",
         "time": "10:30",
@@ -171,15 +171,6 @@
         "notes": "Postponed"
     },
     {
-        "date": "18/01/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U11 Blacks",
-        "away_team": "Shirehampton Colts U11 Leopards",
-        "competition": "U11C Winter Development",
-        "notes": ""
-    },
-    {
         "date": "25/01/25",
         "fixtype": "L",
         "time": "10:30",
@@ -187,6 +178,15 @@
         "away_team": "Rockleaze Rangers U11 Greens",
         "competition": "U11A Winter Development",
         "notes": "Postponed"
+    },
+    {
+        "date": "25/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Bishop Road Buccaneers U11 Blacks",
+        "away_team": "Rockleaze Rangers U11 Blacks",
+        "competition": "U11C Winter Development",
+        "notes": ""
     },
     {
         "date": "01/02/25",

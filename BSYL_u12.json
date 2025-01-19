@@ -189,22 +189,13 @@
         "score": "3 - 3 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 3-0)"
     },
     {
-        "date": "11/01/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "4fourthefuture U12",
-        "away_team": "Rockleaze Rangers U12 Reds",
-        "competition": "U12A",
-        "notes": "Postponed"
-    },
-    {
         "date": "18/01/25",
         "fixtype": "L",
         "time": "10:30",
         "home_team": "Tyrone Mings Academy U12 Gladiators",
         "away_team": "Rockleaze Rangers U12 Reds",
         "competition": "U12A",
-        "notes": ""
+        "score": "3 - 1 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 1-0)"
     },
     {
         "date": "18/01/25",
@@ -213,7 +204,16 @@
         "home_team": "Rockleaze Rangers U12 Blacks",
         "away_team": "Thornbury Town U12 Kestrels",
         "competition": "U12C",
-        "notes": ""
+        "score": "4 - 4 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 3-3)"
+    },
+    {
+        "date": "11/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "4fourthefuture U12",
+        "away_team": "Rockleaze Rangers U12 Reds",
+        "competition": "U12A",
+        "notes": "Postponed"
     },
     {
         "date": "25/01/25",

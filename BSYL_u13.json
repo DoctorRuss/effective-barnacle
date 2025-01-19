@@ -207,13 +207,13 @@
         "score": "6 - 0"
     },
     {
-        "date": "11/01/25",
+        "date": "18/01/25",
         "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Southmead CS Athletic  U13",
-        "away_team": "Rockleaze Rangers U13 Blues",
+        "time": "11:30",
+        "home_team": "Rockleaze Rangers U13 Blues",
+        "away_team": "Golden Hill Sonics U13",
         "competition": "U13B",
-        "notes": "Postponed"
+        "score": "2 - 2"
     },
     {
         "date": "18/01/25",
@@ -222,16 +222,16 @@
         "home_team": "Brunel Bantams U13",
         "away_team": "Rockleaze Rangers U13 Greens",
         "competition": "U13B",
-        "notes": ""
+        "score": "1 - 0"
     },
     {
-        "date": "18/01/25",
+        "date": "11/01/25",
         "fixtype": "L",
-        "time": "11:30",
-        "home_team": "Rockleaze Rangers U13 Blues",
-        "away_team": "Golden Hill Sonics U13",
+        "time": "10:30",
+        "home_team": "Southmead CS Athletic  U13",
+        "away_team": "Rockleaze Rangers U13 Blues",
         "competition": "U13B",
-        "notes": ""
+        "notes": "Postponed"
     },
     {
         "date": "25/01/25",
