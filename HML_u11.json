@@ -126,6 +126,15 @@
         "score": "X - X"
     },
     {
+        "date": "19/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "St Aldhelms Juniors Youth U11 Clarets",
+        "away_team": "Rockleaze Rangers Youth U11",
+        "competition": "U11 Group 2",
+        "score": "X - X"
+    },
+    {
         "date": "20/10/24",
         "fixtype": "L",
         "time": "10:30",
@@ -151,15 +160,6 @@
         "away_team": "Mendip Broadwalk (Youth) U11 Blue Sox",
         "competition": "U11 Group 2",
         "notes": "Postponed"
-    },
-    {
-        "date": "19/01/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "St Aldhelms Juniors Youth U11 Clarets",
-        "away_team": "Rockleaze Rangers Youth U11",
-        "competition": "U11 Group 2",
-        "notes": ""
     },
     {
         "date": "26/01/25",

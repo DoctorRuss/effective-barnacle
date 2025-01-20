@@ -234,6 +234,15 @@
         "score": "2 - 1"
     },
     {
+        "date": "19/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Bradley Stoke Youth U13",
+        "away_team": "Rockleaze Rangers Youth U13 Reds",
+        "competition": "U13 Div 4",
+        "score": "1 - 3"
+    },
+    {
         "date": "12/01/25",
         "fixtype": "L",
         "time": "10:30",
@@ -250,15 +259,6 @@
         "away_team": "Port of Bristol Youth U13 Green",
         "competition": "U13 Div 4",
         "notes": "Postponed"
-    },
-    {
-        "date": "19/01/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Bradley Stoke Youth U13",
-        "away_team": "Rockleaze Rangers Youth U13 Reds",
-        "competition": "U13 Div 4",
-        "notes": ""
     },
     {
         "date": "26/01/25",
