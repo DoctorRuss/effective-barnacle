@@ -135,15 +135,6 @@
         "score": "X - X"
     },
     {
-        "date": "01/02/24",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U11 Blacks",
-        "away_team": "Westbury Park Foxes U11 Greens",
-        "competition": "U11C Winter Development",
-        "notes": ""
-    },
-    {
         "date": "07/12/24",
         "fixtype": "L",
         "time": "10:30",
@@ -183,8 +174,8 @@
         "date": "25/01/25",
         "fixtype": "L",
         "time": "10:30",
-        "home_team": "Bishop Road Buccaneers U11 Blacks",
-        "away_team": "Rockleaze Rangers U11 Blacks",
+        "home_team": "Rockleaze Rangers U11 Blacks",
+        "away_team": "Westbury Park Foxes U11 Greens",
         "competition": "U11C Winter Development",
         "notes": ""
     },
@@ -195,6 +186,15 @@
         "home_team": "Rockleaze Rangers U11 Greens",
         "away_team": "Brislington Junior U11",
         "competition": "U11A Winter Development",
+        "notes": ""
+    },
+    {
+        "date": "01/02/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Bishop Road Buccaneers U11 Blacks",
+        "away_team": "Rockleaze Rangers U11 Blacks",
+        "competition": "U11C Winter Development",
         "notes": ""
     },
     {
