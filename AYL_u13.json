@@ -288,6 +288,15 @@
         "notes": ""
     },
     {
+        "date": "02/02/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "St Vallier Youth U13 Blue",
+        "away_team": "Rockleaze Rangers Youth U13 Reds",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
         "date": "09/02/25",
         "fixtype": "L",
         "time": "10:30",
@@ -331,15 +340,6 @@
         "away_team": "Rockleaze Rangers Youth U13 Blacks",
         "competition": "U13 Div 1",
         "notes": ""
-    },
-    {
-        "date": "09/03/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "St Vallier Youth U13 Blue",
-        "away_team": "Rockleaze Rangers Youth U13 Reds",
-        "competition": "U13 Div 4",
-        "notes": "Postponed"
     },
     {
         "date": "09/03/25",
