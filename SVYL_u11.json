@@ -72,6 +72,15 @@
         "score": "X - X"
     },
     {
+        "date": "25/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Ross Juniors U11 Boys",
+        "away_team": "Rockleaze Rangers Youth U11 Reds",
+        "competition": "U11 Pioneers 2024",
+        "score": "Cancelled\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tC - C"
+    },
+    {
         "date": "18/01/25",
         "fixtype": "L",
         "time": "10:30",
@@ -79,15 +88,6 @@
         "away_team": "Cinderford Town Youth U11 Whites",
         "competition": "U11 Pioneers 2024",
         "notes": "Postponed"
-    },
-    {
-        "date": "25/01/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Ross Juniors U11 Boys",
-        "away_team": "Rockleaze Rangers Youth U11 Reds",
-        "competition": "U11 Pioneers 2024",
-        "notes": ""
     },
     {
         "date": "01/02/25",
