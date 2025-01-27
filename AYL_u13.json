@@ -243,6 +243,15 @@
         "score": "1 - 3"
     },
     {
+        "date": "26/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers Youth U13 Blacks",
+        "away_team": "Bristol Rovers Supporters Youth U13",
+        "competition": "U13 Div 1",
+        "score": "2 - 8"
+    },
+    {
         "date": "12/01/25",
         "fixtype": "L",
         "time": "10:30",
@@ -264,19 +273,10 @@
         "date": "26/01/25",
         "fixtype": "L",
         "time": "10:30",
-        "home_team": "Rockleaze Rangers Youth U13 Blacks",
-        "away_team": "Bristol Rovers Supporters Youth U13",
-        "competition": "U13 Div 1",
-        "notes": ""
-    },
-    {
-        "date": "26/01/25",
-        "fixtype": "L",
-        "time": "10:30",
         "home_team": "Longwell Green Sports Youth U13 Colts",
         "away_team": "Rockleaze Rangers Youth U13 Reds",
         "competition": "U13 Div 4",
-        "notes": ""
+        "notes": "Postponed"
     },
     {
         "date": "02/02/25",

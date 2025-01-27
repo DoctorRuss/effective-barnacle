@@ -135,6 +135,15 @@
         "score": "X - X"
     },
     {
+        "date": "26/01/25",
+        "fixtype": "L",
+        "time": "12:15",
+        "home_team": "Rockleaze Rangers Youth U11",
+        "away_team": "Mangotsfield United Youth U11 United",
+        "competition": "U11 Group 2",
+        "score": "X - X"
+    },
+    {
         "date": "20/10/24",
         "fixtype": "L",
         "time": "10:30",
@@ -160,15 +169,6 @@
         "away_team": "Mendip Broadwalk (Youth) U11 Blue Sox",
         "competition": "U11 Group 2",
         "notes": "Postponed"
-    },
-    {
-        "date": "26/01/25",
-        "fixtype": "L",
-        "time": "12:15",
-        "home_team": "Rockleaze Rangers Youth U11",
-        "away_team": "Mangotsfield United Youth U11 United",
-        "competition": "U11 Group 2",
-        "notes": ""
     },
     {
         "date": "02/02/25",

@@ -249,7 +249,7 @@
         "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Whitchurch Sports Junior Yth U16 Rangers",
         "competition": "U16 Div 4",
-        "notes": ""
+        "score": "2 - 2"
     },
     {
         "date": "26/01/25",
@@ -258,7 +258,16 @@
         "home_team": "Hallen Youth U16",
         "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Boys",
-        "notes": ""
+        "score": "Postponed\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tP - P"
+    },
+    {
+        "date": "26/01/25",
+        "fixtype": "CC",
+        "time": "14:00",
+        "home_team": "Hallen Youth U16",
+        "away_team": "Rockleaze Rangers Youth U16",
+        "competition": "U16 Boys",
+        "notes": "Postponed"
     },
     {
         "date": "02/02/25",
@@ -267,7 +276,7 @@
         "home_team": "Mangotsfield United Youth U16 Eagles",
         "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Div 1 (White)",
-        "notes": ""
+        "notes": "Postponed"
     },
     {
         "date": "02/02/25",

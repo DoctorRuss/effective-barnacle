@@ -209,20 +209,20 @@
     {
         "date": "26/01/25",
         "fixtype": "Cup",
-        "time": "14:00",
-        "home_team": "Thornbury Town U18",
-        "away_team": "Rockleaze Rangers Youth U18 Youth",
-        "competition": "U18 League Cup_2024 - 2025",
-        "notes": ""
-    },
-    {
-        "date": "26/01/25",
-        "fixtype": "Cup",
         "time": "16:00",
         "home_team": "Rockleaze Rangers Youth U17 Youth",
         "away_team": "Avonmouth Youth U18",
         "competition": "U18 League Cup_2024 - 2025",
-        "notes": ""
+        "score": "2 - 2 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(Pens 2-4, HT 2-0)"
+    },
+    {
+        "date": "26/01/25",
+        "fixtype": "Cup",
+        "time": "14:00",
+        "home_team": "Thornbury Town U18",
+        "away_team": "Rockleaze Rangers Youth U18 Youth",
+        "competition": "U18 League Cup_2024 - 2025",
+        "score": "Home Walkover\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tH - W"
     },
     {
         "date": "02/02/25",
