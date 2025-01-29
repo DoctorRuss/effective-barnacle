@@ -261,15 +261,6 @@
         "notes": "Postponed"
     },
     {
-        "date": "12/01/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers Youth U13 Reds",
-        "away_team": "Port of Bristol Youth U13 Green",
-        "competition": "U13 Div 4",
-        "notes": "Postponed"
-    },
-    {
         "date": "26/01/25",
         "fixtype": "L",
         "time": "10:30",
@@ -383,6 +374,15 @@
         "time": "10:30",
         "home_team": "Red Falcon Club Youth U13 Colts",
         "away_team": "Rockleaze Rangers Youth U13 Reds",
+        "competition": "U13 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "30/04/25",
+        "fixtype": "L",
+        "time": "19:15",
+        "home_team": "Rockleaze Rangers Youth U13 Reds",
+        "away_team": "Port of Bristol Youth U13 Green",
         "competition": "U13 Div 4",
         "notes": ""
     }
