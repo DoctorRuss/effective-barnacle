@@ -263,15 +263,6 @@
     {
         "date": "02/03/25",
         "fixtype": "L",
-        "time": "12:15",
-        "home_team": "Rockleaze Rangers Youth U12",
-        "away_team": "Warmley Rangers Youth U12 Greens",
-        "competition": "U12 Div 2",
-        "notes": "Postponed"
-    },
-    {
-        "date": "02/03/25",
-        "fixtype": "L",
         "time": "14:00",
         "home_team": "Bristol Spartak Youth U12",
         "away_team": "Rockleaze Rangers Youth U12 Colts",
@@ -321,6 +312,15 @@
         "home_team": "Ashton FC U12 Colts",
         "away_team": "Rockleaze Rangers Youth U12 Colts",
         "competition": "U12 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "06/04/25",
+        "fixtype": "L",
+        "time": "12:15",
+        "home_team": "Rockleaze Rangers Youth U12",
+        "away_team": "Warmley Rangers Youth U12 Greens",
+        "competition": "U12 Div 2",
         "notes": ""
     }
 ]
