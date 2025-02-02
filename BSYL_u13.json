@@ -243,13 +243,13 @@
         "score": "9 - 2"
     },
     {
-        "date": "11/01/25",
+        "date": "01/02/25",
         "fixtype": "L",
         "time": "10:30",
-        "home_team": "Southmead CS Athletic  U13",
-        "away_team": "Rockleaze Rangers U13 Blues",
+        "home_team": "Cotham Tigers U13 Blacks",
+        "away_team": "Rockleaze Rangers U13 Greens",
         "competition": "U13B",
-        "notes": "Postponed"
+        "score": "5 - 0 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 2-0)"
     },
     {
         "date": "01/02/25",
@@ -258,16 +258,7 @@
         "home_team": "Rockleaze Rangers U13 Blues",
         "away_team": "Westbury Park Foxes U13 Whites",
         "competition": "U13B",
-        "notes": ""
-    },
-    {
-        "date": "01/02/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Cotham Tigers U13 Blacks",
-        "away_team": "Rockleaze Rangers U13 Greens",
-        "competition": "U13B",
-        "notes": ""
+        "score": "3 - 2 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 2-2)"
     },
     {
         "date": "08/02/25",
@@ -329,6 +320,15 @@
         "time": "10:30",
         "home_team": "Westbury Park Foxes U13 Whites",
         "away_team": "Rockleaze Rangers U13 Greens",
+        "competition": "U13B",
+        "notes": ""
+    },
+    {
+        "date": "26/04/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Southmead CS Athletic  U13",
+        "away_team": "Rockleaze Rangers U13 Blues",
         "competition": "U13B",
         "notes": ""
     }

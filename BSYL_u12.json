@@ -225,22 +225,13 @@
         "score": "8 - 1 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 4-0)"
     },
     {
-        "date": "11/01/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "4fourthefuture U12",
-        "away_team": "Rockleaze Rangers U12 Reds",
-        "competition": "U12A",
-        "notes": "Postponed"
-    },
-    {
         "date": "01/02/25",
         "fixtype": "L",
         "time": "10:30",
         "home_team": "Rockleaze Rangers U12 Reds",
         "away_team": "Cotham Tigers U12 Siberians",
         "competition": "U12A",
-        "notes": ""
+        "score": "8 - 4 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-2)"
     },
     {
         "date": "01/02/25",
@@ -249,6 +240,15 @@
         "home_team": "Wessex Wanderers U12 Tigers",
         "away_team": "Rockleaze Rangers U12 Blacks",
         "competition": "U12C",
+        "notes": ""
+    },
+    {
+        "date": "01/03/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "4fourthefuture U12",
+        "away_team": "Rockleaze Rangers U12 Reds",
+        "competition": "U12A",
         "notes": ""
     },
     {
