@@ -252,6 +252,15 @@
         "score": "2 - 8"
     },
     {
+        "date": "02/02/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Bristol Central Youth U13",
+        "away_team": "Rockleaze Rangers Youth U13 Blacks",
+        "competition": "U13 Div 1",
+        "score": "1 - 0"
+    },
+    {
         "date": "26/01/25",
         "fixtype": "L",
         "time": "10:30",
@@ -263,20 +272,11 @@
     {
         "date": "02/02/25",
         "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Bristol Central Youth U13",
-        "away_team": "Rockleaze Rangers Youth U13 Blacks",
-        "competition": "U13 Div 1",
-        "notes": ""
-    },
-    {
-        "date": "02/02/25",
-        "fixtype": "L",
         "time": "14:00",
         "home_team": "St Vallier Youth U13 Blue",
         "away_team": "Rockleaze Rangers Youth U13 Reds",
         "competition": "U13 Div 4",
-        "notes": ""
+        "notes": "Postponed"
     },
     {
         "date": "09/02/25",

@@ -255,19 +255,10 @@
         "date": "02/02/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "Mangotsfield United Youth U16 Eagles",
-        "away_team": "Rockleaze Rangers Youth U16",
-        "competition": "U16 Div 1 (White)",
-        "notes": "Postponed"
-    },
-    {
-        "date": "02/02/25",
-        "fixtype": "L",
-        "time": "14:00",
         "home_team": "Ashton FC U16 Colts",
         "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
-        "notes": ""
+        "score": "0 - 2"
     },
     {
         "date": "02/02/25",
@@ -276,7 +267,16 @@
         "home_team": "Hallen Youth U16",
         "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Boys",
-        "notes": ""
+        "score": "1 - 1 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(Pens 2-3)"
+    },
+    {
+        "date": "02/02/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Mangotsfield United Youth U16 Eagles",
+        "away_team": "Rockleaze Rangers Youth U16",
+        "competition": "U16 Div 1 (White)",
+        "notes": "Postponed"
     },
     {
         "date": "09/02/25",
@@ -295,6 +295,15 @@
         "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Div 1 (White)",
         "notes": "Postponed"
+    },
+    {
+        "date": "02/03/25",
+        "fixtype": "CC",
+        "time": "14:00",
+        "home_team": "Quedgeley Wanderers Youth U16 Reds",
+        "away_team": "Rockleaze Rangers Youth U16",
+        "competition": "U16 Boys",
+        "notes": ""
     },
     {
         "date": "09/03/25",
