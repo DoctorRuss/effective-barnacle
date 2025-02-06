@@ -252,6 +252,15 @@
         "score": "2 - 8"
     },
     {
+        "date": "26/01/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Longwell Green Sports Youth U13 Colts",
+        "away_team": "Rockleaze Rangers Youth U13 Reds",
+        "competition": "U13 Div 4",
+        "score": "1 - 4"
+    },
+    {
         "date": "02/02/25",
         "fixtype": "L",
         "time": "10:30",
@@ -259,15 +268,6 @@
         "away_team": "Rockleaze Rangers Youth U13 Blacks",
         "competition": "U13 Div 1",
         "score": "1 - 0"
-    },
-    {
-        "date": "26/01/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Longwell Green Sports Youth U13 Colts",
-        "away_team": "Rockleaze Rangers Youth U13 Reds",
-        "competition": "U13 Div 4",
-        "notes": "Postponed"
     },
     {
         "date": "09/02/25",
