@@ -261,15 +261,6 @@
         "score": "0 - 2"
     },
     {
-        "date": "02/02/25",
-        "fixtype": "CC",
-        "time": "14:00",
-        "home_team": "Hallen Youth U16",
-        "away_team": "Rockleaze Rangers Youth U16",
-        "competition": "U16 Boys",
-        "score": "1 - 1 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(Pens 2-3)"
-    },
-    {
         "date": "09/02/25",
         "fixtype": "L",
         "time": "14:00",
@@ -300,7 +291,7 @@
         "date": "02/03/25",
         "fixtype": "CC",
         "time": "14:00",
-        "home_team": "Quedgeley Wanderers Youth U16 Reds",
+        "home_team": "Hallen Youth U16",
         "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Boys",
         "notes": ""
