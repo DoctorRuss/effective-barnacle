@@ -315,15 +315,6 @@
         "score": "5 - 1"
     },
     {
-        "date": "19/01/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers Youth U14 Reds",
-        "away_team": "Avon Athletic Youth U14",
-        "competition": "U14 Div 2",
-        "notes": "Postponed"
-    },
-    {
         "date": "16/02/25",
         "fixtype": "L",
         "time": "10:30",
@@ -410,6 +401,15 @@
         "time": "10:30",
         "home_team": "Keynsham Town Junior Youth U14 Juniors",
         "away_team": "Rockleaze Rangers Youth U14 Reds",
+        "competition": "U14 Div 2",
+        "notes": ""
+    },
+    {
+        "date": "23/04/25",
+        "fixtype": "L",
+        "time": "18:30",
+        "home_team": "Rockleaze Rangers Youth U14 Reds",
+        "away_team": "Avon Athletic Youth U14",
         "competition": "U14 Div 2",
         "notes": ""
     },

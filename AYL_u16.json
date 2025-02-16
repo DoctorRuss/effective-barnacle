@@ -280,15 +280,6 @@
     },
     {
         "date": "02/03/25",
-        "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Avon Athletic Youth U16",
-        "away_team": "Rockleaze Rangers Youth U16",
-        "competition": "U16 Div 1 (White)",
-        "notes": "Postponed"
-    },
-    {
-        "date": "02/03/25",
         "fixtype": "CC",
         "time": "14:00",
         "home_team": "Hallen Youth U16",
@@ -357,6 +348,15 @@
         "home_team": "Warmley Rangers Youth U16 Spartans",
         "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "27/04/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Avon Athletic Youth U16",
+        "away_team": "Rockleaze Rangers Youth U16",
+        "competition": "U16 Div 1 (White)",
         "notes": ""
     },
     {
