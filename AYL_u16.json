@@ -270,15 +270,6 @@
         "score": "3 - 2"
     },
     {
-        "date": "02/02/25",
-        "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Mangotsfield United Youth U16 Eagles",
-        "away_team": "Rockleaze Rangers Youth U16",
-        "competition": "U16 Div 1 (White)",
-        "notes": "Postponed"
-    },
-    {
         "date": "02/03/25",
         "fixtype": "CC",
         "time": "14:00",
@@ -339,6 +330,15 @@
         "home_team": "Warmley Rangers Youth U16 Youth",
         "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "30/03/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Mangotsfield United Youth U16 Eagles",
+        "away_team": "Rockleaze Rangers Youth U16",
+        "competition": "U16 Div 1 (White)",
         "notes": ""
     },
     {
