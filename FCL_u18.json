@@ -297,6 +297,15 @@
         "notes": ""
     },
     {
+        "date": "16/03/25",
+        "fixtype": "L",
+        "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U17 Youth",
+        "away_team": "Wessex Wanderers Youth U18",
+        "competition": "Division 2",
+        "notes": "Match Notes:\nGFA Shield 09-02-25"
+    },
+    {
         "date": "23/03/25",
         "fixtype": "L",
         "time": "14:00",
@@ -304,15 +313,6 @@
         "away_team": "Rockleaze Rangers Youth U17 Youth",
         "competition": "Division 2",
         "notes": ""
-    },
-    {
-        "date": "30/03/25",
-        "fixtype": "L",
-        "time": "16:00",
-        "home_team": "Rockleaze Rangers Youth U17 Youth",
-        "away_team": "Wessex Wanderers Youth U18",
-        "competition": "Division 2",
-        "notes": "Match Notes:\nGFA Shield 09-02-25"
     },
     {
         "date": "06/04/25",
