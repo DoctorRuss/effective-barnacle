@@ -262,21 +262,12 @@
     },
     {
         "date": "02/03/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Bristol Spartak Youth U12",
-        "away_team": "Rockleaze Rangers Youth U12 Colts",
-        "competition": "U12 Div 4",
-        "notes": ""
-    },
-    {
-        "date": "02/03/25",
         "fixtype": "Cup",
         "time": "10:30",
         "home_team": "Whitchurch Sports Junior Youth U12",
         "away_team": "Rockleaze Rangers Youth U12",
         "competition": "U12 Cup_2024 - 2025",
-        "notes": ""
+        "score": "5 - 1"
     },
     {
         "date": "09/03/25",
@@ -310,6 +301,15 @@
         "fixtype": "L",
         "time": "10:30",
         "home_team": "Ashton FC U12 Colts",
+        "away_team": "Rockleaze Rangers Youth U12 Colts",
+        "competition": "U12 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "30/03/25",
+        "fixtype": "L",
+        "time": "10:30",
+        "home_team": "Bristol Spartak Youth U12",
         "away_team": "Rockleaze Rangers Youth U12 Colts",
         "competition": "U12 Div 4",
         "notes": ""

@@ -171,6 +171,15 @@
         "score": "5 - 8"
     },
     {
+        "date": "02/03/25",
+        "fixtype": "Cup",
+        "time": "12:15",
+        "home_team": "Rockleaze Rangers Youth U10",
+        "away_team": "Bath City Youth U10 Stripes",
+        "competition": "U10 Spring Cup_2024 - 2025",
+        "score": "5 - 3"
+    },
+    {
         "date": "26/01/25",
         "fixtype": "L",
         "time": "10:30",
@@ -178,15 +187,6 @@
         "away_team": "Rockleaze Rangers Youth U10",
         "competition": "U10 Group 5",
         "notes": "Postponed"
-    },
-    {
-        "date": "02/03/25",
-        "fixtype": "Cup",
-        "time": "12:15",
-        "home_team": "Rockleaze Rangers Youth U10",
-        "away_team": "Bath City Youth U10 Stripes",
-        "competition": "U10 Spring Cup_2024 - 2025",
-        "notes": ""
     },
     {
         "date": "09/03/25",
