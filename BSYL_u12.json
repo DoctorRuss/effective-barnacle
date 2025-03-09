@@ -258,7 +258,7 @@
         "home_team": "Rockleaze Rangers U12 Blacks",
         "away_team": "Bishop Road Buccaneers U12",
         "competition": "U12C",
-        "notes": ""
+        "score": "4 - 3 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 3-1)"
     },
     {
         "date": "08/03/25",
@@ -267,7 +267,7 @@
         "home_team": "Thornbury Town U12 Falcons",
         "away_team": "Rockleaze Rangers U12 Reds",
         "competition": "U12s Cup_2024 - 2025",
-        "notes": ""
+        "score": "1 - 6 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-0)"
     },
     {
         "date": "15/03/25",
@@ -276,6 +276,15 @@
         "home_team": "Wessex Wanderers U12 Colts",
         "away_team": "Rockleaze Rangers U12 Blacks",
         "competition": "U12C",
+        "notes": ""
+    },
+    {
+        "date": "22/03/25",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U12 Reds",
+        "away_team": "Swiss Valley Rangers U12 Eagles",
+        "competition": "U12s Cup_2024 - 2025",
         "notes": ""
     }
 ]

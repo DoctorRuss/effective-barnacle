@@ -99,6 +99,15 @@
         "score": "X - X"
     },
     {
+        "date": "08/03/25",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Tetbury Town Youth U11 Lightning",
+        "away_team": "Rockleaze Rangers Youth U11 Reds",
+        "competition": "U11 Challenge Cup_2024 - 2025",
+        "score": "X - X"
+    },
+    {
         "date": "15/03/25",
         "fixtype": "L",
         "time": "10:30",
@@ -115,15 +124,6 @@
         "away_team": "Cinderford Town Youth U11 Whites",
         "competition": "U11 Pioneers 2024",
         "notes": "Postponed"
-    },
-    {
-        "date": "08/03/25",
-        "fixtype": "Cup",
-        "time": "10:30",
-        "home_team": "Tetbury Town Youth U11 Lightning",
-        "away_team": "Rockleaze Rangers Youth U11 Reds",
-        "competition": "U11 Challenge Cup_2024 - 2025",
-        "notes": ""
     },
     {
         "date": "29/03/25",
