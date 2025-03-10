@@ -180,6 +180,15 @@
         "score": "5 - 3"
     },
     {
+        "date": "09/03/25",
+        "fixtype": "Cup",
+        "time": "10:30",
+        "home_team": "Mangotsfield United Youth U10 United",
+        "away_team": "Rockleaze Rangers Youth U10",
+        "competition": "U10 Spring Cup_2024 - 2025",
+        "score": "4 - 2"
+    },
+    {
         "date": "26/01/25",
         "fixtype": "L",
         "time": "10:30",
@@ -189,11 +198,11 @@
         "notes": "Postponed"
     },
     {
-        "date": "09/03/25",
+        "date": "16/03/25",
         "fixtype": "Cup",
-        "time": "10:30",
-        "home_team": "Mangotsfield United Youth U10 United",
-        "away_team": "Rockleaze Rangers Youth U10",
+        "time": "12:00",
+        "home_team": "Rockleaze Rangers Youth U10",
+        "away_team": "Almondsbury United Youth U10 Whites",
         "competition": "U10 Spring Cup_2024 - 2025",
         "notes": ""
     }

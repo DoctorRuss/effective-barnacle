@@ -282,19 +282,10 @@
         "date": "09/03/25",
         "fixtype": "L",
         "time": "14:00",
-        "home_team": "Longwell Green Sports Youth U16 Athletic",
-        "away_team": "Rockleaze Rangers Youth U16",
-        "competition": "U16 Div 1 (White)",
-        "notes": "Postponed"
-    },
-    {
-        "date": "09/03/25",
-        "fixtype": "L",
-        "time": "14:00",
         "home_team": "Rockleaze Rangers Youth U16 Colts",
         "away_team": "Clifton United Youth U16",
         "competition": "U16 Div 4",
-        "notes": ""
+        "score": "4 - 3"
     },
     {
         "date": "09/03/25",
@@ -303,7 +294,16 @@
         "home_team": "Quedgeley Wanderers Youth U16 Reds",
         "away_team": "Rockleaze Rangers Youth U16",
         "competition": "U16 Boys",
-        "notes": ""
+        "score": "1 - 3"
+    },
+    {
+        "date": "09/03/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Longwell Green Sports Youth U16 Athletic",
+        "away_team": "Rockleaze Rangers Youth U16",
+        "competition": "U16 Div 1 (White)",
+        "notes": "Postponed"
     },
     {
         "date": "16/03/25",
@@ -375,6 +375,15 @@
         "home_team": "Warmley Rangers Youth U16 Spartans",
         "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
+        "notes": ""
+    },
+    {
+        "date": "06/05/25",
+        "fixtype": "CC",
+        "time": "19:00",
+        "home_team": "Rockleaze Rangers Youth U16",
+        "away_team": "Cirencester Town Youth U16 Gladiators JP",
+        "competition": "U16 Boys",
         "notes": ""
     }
 ]

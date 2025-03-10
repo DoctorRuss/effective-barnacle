@@ -348,7 +348,7 @@
         "home_team": "Rockleaze Rangers Youth U14 Reds",
         "away_team": "AEK Boco Youth U14 Juniors",
         "competition": "U14 Div 2",
-        "notes": ""
+        "score": "7 - 0"
     },
     {
         "date": "09/03/25",
@@ -357,7 +357,7 @@
         "home_team": "Longwell Green Sports Youth U14",
         "away_team": "Rockleaze Rangers Youth U14",
         "competition": "U14 Boys",
-        "notes": ""
+        "score": "0 - 9 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-0)"
     },
     {
         "date": "12/03/25",
@@ -411,6 +411,15 @@
         "home_team": "Keynsham Town Junior Youth U14 Juniors",
         "away_team": "Rockleaze Rangers Youth U14 Reds",
         "competition": "U14 Div 2",
+        "notes": ""
+    },
+    {
+        "date": "30/03/25",
+        "fixtype": "CC",
+        "time": "14:00",
+        "home_team": "Bishops Cleeve Colts Youth U14 Colts",
+        "away_team": "Rockleaze Rangers Youth U14",
+        "competition": "U14 Boys",
         "notes": ""
     },
     {
