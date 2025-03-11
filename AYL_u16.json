@@ -297,15 +297,6 @@
         "score": "1 - 3"
     },
     {
-        "date": "09/03/25",
-        "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Longwell Green Sports Youth U16 Athletic",
-        "away_team": "Rockleaze Rangers Youth U16",
-        "competition": "U16 Div 1 (White)",
-        "notes": "Postponed"
-    },
-    {
         "date": "16/03/25",
         "fixtype": "L",
         "time": "14:00",
@@ -376,6 +367,15 @@
         "away_team": "Rockleaze Rangers Youth U16 Colts",
         "competition": "U16 Div 4",
         "notes": ""
+    },
+    {
+        "date": "01/05/25",
+        "fixtype": "L",
+        "time": "18:30",
+        "home_team": "Longwell Green Sports Youth U16 Athletic",
+        "away_team": "Rockleaze Rangers Youth U16",
+        "competition": "U16 Div 1 (White)",
+        "notes": "Match Notes:\nPlease note day & KO time"
     },
     {
         "date": "06/05/25",
