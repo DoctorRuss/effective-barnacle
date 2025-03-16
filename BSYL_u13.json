@@ -288,22 +288,13 @@
         "score": "3 - 4"
     },
     {
-        "date": "08/03/25",
-        "fixtype": "L",
-        "time": "10:30",
-        "home_team": "Golden Hill Sonics U13",
-        "away_team": "Rockleaze Rangers U13 Greens",
-        "competition": "U13B",
-        "notes": "Postponed"
-    },
-    {
         "date": "15/03/25",
         "fixtype": "L",
         "time": "10:30",
         "home_team": "Rockleaze Rangers U13 Blues",
         "away_team": "Wessex Wanderers U13",
         "competition": "U13B",
-        "notes": ""
+        "score": "13 - 1"
     },
     {
         "date": "15/03/25",
@@ -312,13 +303,22 @@
         "home_team": "Rockleaze Rangers U13 Greens",
         "away_team": "Brunel Bantams U13",
         "competition": "U13B",
-        "notes": ""
+        "score": "5 - 2"
     },
     {
         "date": "22/03/25",
         "fixtype": "L",
         "time": "10:30",
         "home_team": "Westbury Park Foxes U13 Whites",
+        "away_team": "Rockleaze Rangers U13 Greens",
+        "competition": "U13B",
+        "notes": ""
+    },
+    {
+        "date": "22/04/25",
+        "fixtype": "L",
+        "time": "18:00",
+        "home_team": "Golden Hill Sonics U13",
         "away_team": "Rockleaze Rangers U13 Greens",
         "competition": "U13B",
         "notes": ""
