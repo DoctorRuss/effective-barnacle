@@ -281,11 +281,20 @@
     {
         "date": "16/03/25",
         "fixtype": "L",
+        "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U17 Youth",
+        "away_team": "Wessex Wanderers Youth U18",
+        "competition": "Division 2",
+        "score": "2 - 2 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 1-2)"
+    },
+    {
+        "date": "16/03/25",
+        "fixtype": "L",
         "time": "14:00",
         "home_team": "Rockleaze Rangers Youth U18 Youth",
         "away_team": "Thornbury Town U18",
         "competition": "Division 2",
-        "notes": "Match Notes:\nClub 16-02-25"
+        "score": "0 - 2"
     },
     {
         "date": "16/03/25",
@@ -294,16 +303,7 @@
         "home_team": "Thornbury Town U18",
         "away_team": "Rockleaze Rangers Youth U18 Youth",
         "competition": "Division 2",
-        "notes": ""
-    },
-    {
-        "date": "16/03/25",
-        "fixtype": "L",
-        "time": "16:00",
-        "home_team": "Rockleaze Rangers Youth U17 Youth",
-        "away_team": "Wessex Wanderers Youth U18",
-        "competition": "Division 2",
-        "notes": "Match Notes:\nGFA Shield 09-02-25"
+        "score": "0 - 1"
     },
     {
         "date": "23/03/25",
