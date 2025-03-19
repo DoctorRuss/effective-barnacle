@@ -286,5 +286,14 @@
         "away_team": "Swiss Valley Rangers U12 Eagles",
         "competition": "U12s Cup_2024 - 2025",
         "notes": ""
+    },
+    {
+        "date": "29/03/25",
+        "fixtype": "O",
+        "time": "10:30",
+        "home_team": "Brunel Bantams U12 Wanderers",
+        "away_team": "Rockleaze Rangers U12 Reds",
+        "competition": "U12A Play Off",
+        "notes": ""
     }
 ]

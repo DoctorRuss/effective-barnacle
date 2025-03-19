@@ -333,15 +333,6 @@
         "notes": "Match Notes:\nLeague Cup 02-03-25"
     },
     {
-        "date": "06/04/25",
-        "fixtype": "L",
-        "time": "16:00",
-        "home_team": "Rockleaze Rangers Youth U17 Youth",
-        "away_team": "Bromley Heath United Youth U18",
-        "competition": "Division 2",
-        "notes": "Match Notes:\nRovers 02-02-25 Portishead Cup 06-04-25"
-    },
-    {
         "date": "13/04/25",
         "fixtype": "L",
         "time": "16:00",
@@ -358,5 +349,14 @@
         "away_team": "Rockleaze Rangers Youth U17 Youth",
         "competition": "Division 2",
         "notes": "Match Notes:\nGFA Shield 24-11-24"
+    },
+    {
+        "date": "04/05/25",
+        "fixtype": "L",
+        "time": "16:00",
+        "home_team": "Rockleaze Rangers Youth U17 Youth",
+        "away_team": "Bromley Heath United Youth U18",
+        "competition": "Division 2",
+        "notes": "Match Notes:\nRovers 02-02-25 Portishead Cup 06-04-25"
     }
 ]
