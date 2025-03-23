@@ -132,6 +132,15 @@
         "home_team": "Ross Juniors U11 Boys",
         "away_team": "Rockleaze Rangers Youth U11 Reds",
         "competition": "U11 Pioneers 2024",
+        "score": "Cancelled\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tC - C"
+    },
+    {
+        "date": "29/03/25",
+        "fixtype": "Cup",
+        "time": "11:30",
+        "home_team": "Rockleaze Rangers Youth U11 Reds",
+        "away_team": "Cinderford Town Youth U11 Whites",
+        "competition": "U11 Challenge Cup_2024 - 2025",
         "notes": ""
     }
 ]
