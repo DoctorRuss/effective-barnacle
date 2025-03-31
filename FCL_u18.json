@@ -317,20 +317,20 @@
     {
         "date": "30/03/25",
         "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Saltford Youth U18",
-        "away_team": "Rockleaze Rangers Youth U18 Youth",
-        "competition": "Division 2",
-        "notes": "Match Notes:\nLeague Cup 02-02-25"
-    },
-    {
-        "date": "30/03/25",
-        "fixtype": "L",
         "time": "15:45",
         "home_team": "Portishead Town (Youth) U18 Rangers",
         "away_team": "Rockleaze Rangers Youth U17 Youth",
         "competition": "Division 2",
-        "notes": "Match Notes:\nLeague Cup 02-03-25"
+        "score": "2 - 2"
+    },
+    {
+        "date": "30/03/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Saltford Youth U18",
+        "away_team": "Rockleaze Rangers Youth U18 Youth",
+        "competition": "Division 2",
+        "score": "3 - 5"
     },
     {
         "date": "13/04/25",
