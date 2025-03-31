@@ -31,7 +31,7 @@ def scrapeFixtures(season, club, age):
 
     fixtures_table = scrapeData(url, table_class)
     if not fixtures_table:
-        return
+        return []
     # Find all rows in the table within the div
     rows = fixtures_table.find('table').find_all('tr')
 
