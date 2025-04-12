@@ -48,6 +48,7 @@ def scrapeFixtures(season, club, age):
             time = columns[1].find('span', class_='color-dark-grey').text.strip()  
             home_team = columns[2].text.strip()  
             away_team = columns[6].text.strip()  
+            venue = columns[7].text.strip()
             competition = columns[8].text.strip()  
             notes = columns[9].text.strip()  
             
