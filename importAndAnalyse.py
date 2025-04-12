@@ -9,6 +9,9 @@ date_format = "%d/%m/%y"
 # Directory where your JSON files are stored
 directory = '.'  # Replace with the actual directory path
 
+def isHomeGame(fixture):
+    return fixture['venue'].contains('Hillside') or fixture['home_team'].startswith('Rockleaze')
+
 def isSaturdayLeague(filename):
     return filename.startswith('BSYL') or filename.startswith('SVYL')
 
@@ -17,7 +20,7 @@ def sortAndPrintFixtures(fixtures):
     sorted_fixtures = sorted(fixtures, key=lambda x: datetime.strptime(x['date'], date_format))
     # Print the grouped fixtures by date
     for fixture in sorted_fixtures:
-        if 'Postponed' not in fixture['notes'] and fixture['home_team'].startswith('Rockleaze'):
+        if 'Postponed' not in fixture['notes'] and isHomeGame(fixture):
             print(f"{fixture['fixtype']}, {fixture['date']}, {fixture['home_team'].removeprefix('Rockleaze Rangers ').removeprefix('Youth ')}, {fixture['away_team']}, Hillside, {fixture['competition']}")        
 
 def sortAndSaveFixtures(fixtures, filename):    
@@ -28,7 +31,7 @@ def sortAndSaveFixtures(fixtures, filename):
         spamwriter = csv.writer(csvfile, delimiter=',',
                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
         for fixture in sorted_fixtures:
-            if 'Postponed' not in fixture['notes'] and fixture['home_team'].startswith('Rockleaze'):
+            if 'Postponed' not in fixture['notes'] and isHomeGame(fixture):
                 spamwriter.writerow([fixture['fixtype'], fixture['date'], fixture['home_team'].removeprefix('Rockleaze Rangers ').removeprefix('Youth '), fixture['away_team'], "Hillside", fixture['competition'], fixture['notes']])
     
 # Read each JSON file and aggregate the data
