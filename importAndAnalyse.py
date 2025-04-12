@@ -10,7 +10,7 @@ date_format = "%d/%m/%y"
 directory = '.'  # Replace with the actual directory path
 
 def isHomeGame(fixture):
-    return fixture['venue'].contains('Hillside') or fixture['home_team'].startswith('Rockleaze')
+    return 'Hillside' in fixture['venue'] or fixture['home_team'].startswith('Rockleaze')
 
 def isSaturdayLeague(filename):
     return filename.startswith('BSYL') or filename.startswith('SVYL')
