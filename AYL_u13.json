@@ -365,6 +365,7 @@
         "time": "10:30",
         "home_team": "Rockleaze Rangers Youth U13 Blacks",
         "away_team": "Longwell Green Sports Youth U13",
+        "venue": "Hillside Gardens Sports Ground - 4G, BS16 1QG",
         "competition": "U13 Div 1",
         "notes": ""
     },
@@ -374,6 +375,7 @@
         "time": "10:30",
         "home_team": "St Vallier Youth U13 Blue",
         "away_team": "Rockleaze Rangers Youth U13 Reds",
+        "venue": "Lockleaze Sports Centre, BS7 9XF",
         "competition": "U13 Div 4",
         "notes": ""
     },
@@ -383,6 +385,7 @@
         "time": "19:15",
         "home_team": "Rockleaze Rangers Youth U13 Reds",
         "away_team": "Port of Bristol Youth U13 Green",
+        "venue": "Hillside Gardens Sports Ground - 4G, BS16 1QG",
         "competition": "U13 Div 4",
         "notes": ""
     }

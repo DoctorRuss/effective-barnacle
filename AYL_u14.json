@@ -437,6 +437,7 @@
         "time": "10:30",
         "home_team": "Brislington Junior Youth U14",
         "away_team": "Rockleaze Rangers Youth U14",
+        "venue": "Iron Mould Lane PF, BS31 2AD #1",
         "competition": "U14 Div 1",
         "notes": ""
     },
@@ -446,6 +447,7 @@
         "time": "10:30",
         "home_team": "AEK Boco Youth U14 Juniors",
         "away_team": "Rockleaze Rangers Youth U14 Reds",
+        "venue": "Wilton Pavillion, Greenbank Rad, BS15 3RZ #1",
         "competition": "U14 Div 2",
         "notes": ""
     },
@@ -455,6 +457,7 @@
         "time": "13:00",
         "home_team": "Rockleaze Rangers Youth U14",
         "away_team": "Hallen Youth U14",
+        "venue": "Gloucestershire FA",
         "competition": "U14 Boys",
         "notes": ""
     }

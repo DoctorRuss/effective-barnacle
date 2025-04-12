@@ -356,6 +356,7 @@
         "time": "14:00",
         "home_team": "Avon Athletic Youth U16",
         "away_team": "Rockleaze Rangers Youth U16",
+        "venue": "Mile Straight Sports & Social Club, BS34 8QW #2",
         "competition": "U16 Div 1 (White)",
         "notes": ""
     },
@@ -365,6 +366,7 @@
         "time": "14:00",
         "home_team": "Warmley Rangers Youth U16 Spartans",
         "away_team": "Rockleaze Rangers Youth U16 Colts",
+        "venue": "Sir Bernard Lovell School PF, BS30 9TL #2",
         "competition": "U16 Div 4",
         "notes": ""
     },
@@ -374,6 +376,7 @@
         "time": "18:30",
         "home_team": "Longwell Green Sports Youth U16 Athletic",
         "away_team": "Rockleaze Rangers Youth U16",
+        "venue": "Longwell Green Community Centre, BS30 9DU #2",
         "competition": "U16 Div 1 (White)",
         "notes": "Match Notes:\nPlease note day & KO time"
     },
@@ -383,6 +386,7 @@
         "time": "19:00",
         "home_team": "Rockleaze Rangers Youth U16",
         "away_team": "Cirencester Town Youth U16 Gladiators JP",
+        "venue": "Gloucestershire FA",
         "competition": "U16 Boys",
         "notes": ""
     }

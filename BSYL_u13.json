@@ -320,6 +320,7 @@
         "time": "18:00",
         "home_team": "Golden Hill Sonics U13",
         "away_team": "Rockleaze Rangers U13 Greens",
+        "venue": "Golden Hill Sports Ground #1",
         "competition": "U13B",
         "notes": ""
     },
@@ -329,6 +330,7 @@
         "time": "10:30",
         "home_team": "Southmead CS Athletic  U13",
         "away_team": "Rockleaze Rangers U13 Blues",
+        "venue": "PEN PARK SPORTS GROUND",
         "competition": "U13B",
         "notes": ""
     }
