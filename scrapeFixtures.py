@@ -59,6 +59,7 @@ def scrapeFixtures(season, club, age):
                     'time': time,
                     'home_team': home_team,
                     'away_team': away_team,
+                    'venue': venue,
                     'competition': competition,
                     'notes': notes
                 }
