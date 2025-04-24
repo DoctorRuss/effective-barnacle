@@ -320,9 +320,8 @@
         "time": "17:45",
         "home_team": "Golden Hill Sonics U13",
         "away_team": "Rockleaze Rangers U13 Greens",
-        "venue": "UWE",
         "competition": "U13B",
-        "notes": ""
+        "score": "1 - 6 \r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\n(HT 0-0)"
     },
     {
         "date": "26/04/25",
@@ -332,6 +331,16 @@
         "away_team": "Rockleaze Rangers U13 Blues",
         "venue": "PEN PARK SPORTS GROUND",
         "competition": "U13B",
+        "notes": ""
+    },
+    {
+        "date": "26/04/25",
+        "fixtype": "O",
+        "time": "10:30",
+        "home_team": "Cotham Tigers U13 Blacks",
+        "away_team": "Rockleaze Rangers U13 Greens",
+        "venue": "Stoke Lodge Playing Fields #1",
+        "competition": "U13 Div B play Off",
         "notes": ""
     }
 ]
