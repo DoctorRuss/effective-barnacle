@@ -342,25 +342,6 @@
         "score": "2 - 5"
     },
     {
-        "date": "20/04/25",
-        "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Saltford Youth U18",
-        "away_team": "Rockleaze Rangers Youth U17 Youth",
-        "competition": "Division 2",
-        "score": "Postponed\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tP - P"
-    },
-    {
-        "date": "20/04/25",
-        "fixtype": "L",
-        "time": "14:00",
-        "home_team": "Saltford Youth U18",
-        "away_team": "Rockleaze Rangers Youth U17 Youth",
-        "venue": "SALTFORD SPORTS CLUB",
-        "competition": "Division 2",
-        "notes": "Postponed \r\n\t\t\t\t\t\t\t\t\t\t\t\n\n\n\nMatch Notes:\nGFA Shield 24-11-24"
-    },
-    {
         "date": "07/05/25",
         "fixtype": "L",
         "time": "19:45",
@@ -369,5 +350,15 @@
         "venue": "UWE BRISTOL HILLSIDE GARDENS #1",
         "competition": "Division 2",
         "notes": "Match Notes:\nRovers 02-02-25 Portishead Cup 06-04-25"
+    },
+    {
+        "date": "11/05/25",
+        "fixtype": "L",
+        "time": "14:00",
+        "home_team": "Saltford Youth U18",
+        "away_team": "Rockleaze Rangers Youth U17 Youth",
+        "venue": "SALTFORD SPORTS CLUB",
+        "competition": "Division 2",
+        "notes": "Match Notes:\nGFA Shield 24-11-24"
     }
 ]
