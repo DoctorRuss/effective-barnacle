@@ -329,9 +329,8 @@
         "time": "10:30",
         "home_team": "Southmead CS Athletic  U13",
         "away_team": "Rockleaze Rangers U13 Blues",
-        "venue": "PEN PARK SPORTS GROUND",
         "competition": "U13B",
-        "notes": ""
+        "score": "2 - 5"
     },
     {
         "date": "26/04/25",
@@ -339,8 +338,7 @@
         "time": "10:30",
         "home_team": "Cotham Tigers U13 Blacks",
         "away_team": "Rockleaze Rangers U13 Greens",
-        "venue": "Stoke Lodge Playing Fields #1",
         "competition": "U13 Div B play Off",
-        "notes": ""
+        "score": "1 - 3"
     }
 ]
