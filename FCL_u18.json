@@ -24,7 +24,7 @@
         "home_team": "Bromley Heath United Youth U18",
         "away_team": "Rockleaze Rangers Youth U17 Youth",
         "competition": "Division 2",
-        "score": "1 - 0"
+        "score": "Void\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tV - V"
     },
     {
         "date": "29/09/24",
@@ -132,7 +132,7 @@
         "home_team": "Bromley Heath United Youth U18",
         "away_team": "Rockleaze Rangers Youth U18 Youth",
         "competition": "Division 2",
-        "score": "2 - 6"
+        "score": "Void\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tV - V"
     },
     {
         "date": "08/12/24",
@@ -204,7 +204,7 @@
         "home_team": "Rockleaze Rangers Youth U18 Youth",
         "away_team": "Bromley Heath United Youth U18",
         "competition": "Division 2",
-        "score": "0 - 3"
+        "score": "Void\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tV - V"
     },
     {
         "date": "26/01/25",
@@ -347,9 +347,8 @@
         "time": "19:45",
         "home_team": "Rockleaze Rangers Youth U17 Youth",
         "away_team": "Bromley Heath United Youth U18",
-        "venue": "UWE BRISTOL HILLSIDE GARDENS #1",
         "competition": "Division 2",
-        "notes": "Match Notes:\nRovers 02-02-25 Portishead Cup 06-04-25"
+        "score": "Cancelled\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\tC - C"
     },
     {
         "date": "11/05/25",
