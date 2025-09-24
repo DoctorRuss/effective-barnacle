@@ -31,6 +31,9 @@ jobs:
 
     - name: Run scrape script
       run: python scrapeFixtures.py
+      env:
+        BSYL_FIXTURES_ID: "${{ secrets.BSYL_FIXTURES_ID }}"
+        BSYL_RESULTS_SNIPPET_ID: "${{ secrets.BSYL_RESULTS_SNIPPET_ID }}"
 
     - name: Commit and push if it changed
       run: |-
