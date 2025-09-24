@@ -29,6 +29,10 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+    - name: Debug connectivity
+      run: |
+        curl -I https://fulltime.thefa.com || true
+
     - name: Run scrape script
       run: python scrapeFixtures.py
       env:
