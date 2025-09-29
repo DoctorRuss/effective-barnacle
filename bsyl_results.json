@@ -304,5 +304,104 @@
         "away_team": "Rockleaze Rangers U11 Jaguars",
         "venue": "THE DOWNS #1 9v9",
         "score": "X - X"
+    },
+    {
+        "date": "2025-09-27",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U11 Jaguars",
+        "away_team": "Thornbury Town U11 Kestrels",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #4 9v9",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-09-27",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Ashley Down U13",
+        "away_team": "Rockleaze Rangers U13 Reds",
+        "venue": "FAIRFIELD HIGH SCHOOL (MULLER ROAD RECREATION GROUND) #1",
+        "score": "1 - 4"
+    },
+    {
+        "date": "2025-09-27",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Bath and Wilts Blues U14",
+        "away_team": "Rockleaze Rangers U14 Greens",
+        "venue": "BECKFORD PLAYING FIELDS",
+        "score": "6 - 1"
+    },
+    {
+        "date": "2025-09-27",
+        "fixtype": "Cup:",
+        "time": "10:30",
+        "home_team": "Fry Club Juniors U16",
+        "away_team": "Rockleaze Rangers U16 Blacks",
+        "venue": "SOMERDALE PAVILION",
+        "score": "3 - 4"
+    },
+    {
+        "date": "2025-09-27",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U10 Lions",
+        "away_team": "Banwell Juniors U10 Athletic",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #4 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-09-27",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U12 Blacks",
+        "away_team": "Golden Hill Sonics U12",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9",
+        "score": "2 - 3"
+    },
+    {
+        "date": "2025-09-27",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Shine Saints U10 Colts",
+        "away_team": "Rockleaze Rangers U10 Tigers",
+        "venue": "SHINE SPORTS GROUND #4 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-09-27",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Shine Saints U9 Colts",
+        "away_team": "Rockleaze Rangers U9",
+        "venue": "SHINE SPORTS GROUND #3 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-09-27",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Thornbury Town U13 Kestrels",
+        "away_team": "Rockleaze Rangers U13 Blacks",
+        "venue": "MUNDY PLAYING FIELDS #1",
+        "score": "4 - 3"
+    },
+    {
+        "date": "2025-09-27",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Tyrone Mings Academy U11 Wildfire",
+        "away_team": "Rockleaze Rangers U11 Wolves",
+        "venue": "POMPHREY HILL PLAYING FIELDS #1 9v9",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-09-27",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Wessex Wanderers U11",
+        "away_team": "Rockleaze Rangers U11 Lions",
+        "venue": "LOCKLEAZE SPORTS CENTRE #3 9v9",
+        "score": "X - X"
     }
 ]
