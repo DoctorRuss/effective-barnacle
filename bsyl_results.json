@@ -403,5 +403,77 @@
         "away_team": "Rockleaze Rangers U11 Lions",
         "venue": "LOCKLEAZE SPORTS CENTRE #3 9v9",
         "score": "X - X"
+    },
+    {
+        "date": "2025-10-04",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U10 Lions",
+        "away_team": "Brunel Bantams U10",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #5 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-10-04",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U10 Tigers",
+        "away_team": "Shirehampton Colts U10 Broncos",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #4 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-10-04",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U11 Jaguars",
+        "away_team": "Cotham Tigers U11 Black",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-10-04",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U13 Reds",
+        "away_team": "Thornbury Town U13 Falcons",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #2",
+        "score": "10 - 4"
+    },
+    {
+        "date": "2025-10-04",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U14 Greens",
+        "away_team": "Clevedon United U14 Dragons",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #1",
+        "score": "2 - 3"
+    },
+    {
+        "date": "2025-10-04",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U16 Blacks",
+        "away_team": "Westbury Park Foxes U16",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #3",
+        "score": "0 - 2"
+    },
+    {
+        "date": "2025-10-04",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Shirehampton Colts U10 Mustangs",
+        "away_team": "Rockleaze Rangers U10 Pumas",
+        "venue": "SEAMILLS RECREATION GROUND #2 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-10-04",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Southmead U11",
+        "away_team": "Rockleaze Rangers U11 Lions",
+        "venue": "PEN PARK SPORTS GROUND #2 9v9",
+        "score": "X - X"
     }
 ]
