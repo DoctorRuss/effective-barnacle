@@ -186,6 +186,14 @@
     {
         "date": "2025-11-22",
         "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U11 Lions",
+        "away_team": "Tyrone Mings Academy U11 Warriors",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #4 9v9"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
         "time": "10:30",
         "home_team": "Bishop Road Buccaneers U9",
         "away_team": "Rockleaze Rangers U9",
@@ -230,14 +238,6 @@
         "home_team": "Rockleaze Rangers U10 Tigers",
         "away_team": "Shine Saints U10",
         "venue": "COOMBE DINGLE SPORTS COMPLEX #5 7v7"
-    },
-    {
-        "date": "2025-11-22",
-        "fixtype": "",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U11 Lions",
-        "away_team": "Tyrone Mings Academy U11 Warriors",
-        "venue": "UWE BRISTOL HILLSIDE GARDENS #4 9v9"
     },
     {
         "date": "2025-11-22",
@@ -362,6 +362,14 @@
     {
         "date": "2025-12-06",
         "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U11 Jaguars",
+        "away_team": "Cotham Tigers U11 Orange",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #1"
+    },
+    {
+        "date": "2025-12-06",
+        "fixtype": "",
         "time": "10:30",
         "home_team": "4fourthefuture U13",
         "away_team": "Rockleaze Rangers U13 Reds",
@@ -398,14 +406,6 @@
         "home_team": "Portishead Town U16 Sparks",
         "away_team": "Rockleaze Rangers U16 Blacks",
         "venue": "PORTISHEAD FOOTBALL CLUB #2"
-    },
-    {
-        "date": "2025-12-06",
-        "fixtype": "",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U11 Jaguars",
-        "away_team": "Cotham Tigers U11 Orange",
-        "venue": "COOMBE DINGLE SPORTS COMPLEX #1"
     },
     {
         "date": "2025-12-06",
