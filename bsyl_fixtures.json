@@ -194,6 +194,14 @@
     {
         "date": "2025-11-22",
         "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U11 Wolves",
+        "away_team": "Port of Bristol U11",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #1"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
         "time": "10:30",
         "home_team": "Bishop Road Buccaneers U9",
         "away_team": "Rockleaze Rangers U9",
@@ -243,14 +251,6 @@
         "date": "2025-11-22",
         "fixtype": "",
         "time": "10:30",
-        "home_team": "Rockleaze Rangers U11 Wolves",
-        "away_team": "Port of Bristol U11",
-        "venue": "COOMBE DINGLE SPORTS COMPLEX #1"
-    },
-    {
-        "date": "2025-11-22",
-        "fixtype": "",
-        "time": "10:30",
         "home_team": "Rockleaze Rangers U12 Blacks",
         "away_team": "Shirehampton Colts U12 Leopards",
         "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9"
@@ -290,18 +290,18 @@
     {
         "date": "2025-11-29",
         "fixtype": "",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U11 Jaguars",
-        "away_team": "Bristol Pirates U11",
-        "venue": "UWE BRISTOL HILLSIDE GARDENS #4 9v9"
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U11 Wolves",
+        "away_team": "Cotham Tigers U11 Black",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9"
     },
     {
         "date": "2025-11-29",
         "fixtype": "",
         "time": "10:30",
-        "home_team": "Rockleaze Rangers U11 Wolves",
-        "away_team": "Cotham Tigers U11 Black",
-        "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9"
+        "home_team": "Rockleaze Rangers U11 Jaguars",
+        "away_team": "Bristol Pirates U11",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #4 9v9"
     },
     {
         "date": "2025-11-29",
