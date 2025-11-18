@@ -18,6 +18,14 @@
     {
         "date": "2025-11-22",
         "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U12 Blacks",
+        "away_team": "Shirehampton Colts U12 Leopards",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #2 9v9"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
         "time": "10:30",
         "home_team": "Bishop Road Buccaneers U9",
         "away_team": "Rockleaze Rangers U9",
@@ -62,14 +70,6 @@
         "home_team": "Rockleaze Rangers U10 Tigers",
         "away_team": "Shine Saints U10",
         "venue": "COOMBE DINGLE SPORTS COMPLEX #5 7v7"
-    },
-    {
-        "date": "2025-11-22",
-        "fixtype": "",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U12 Blacks",
-        "away_team": "Shirehampton Colts U12 Leopards",
-        "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9"
     },
     {
         "date": "2025-11-22",
