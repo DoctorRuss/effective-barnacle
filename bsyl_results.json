@@ -871,5 +871,122 @@
         "away_team": "Rockleaze Rangers U11 Lions",
         "venue": "SHINE SPORTS GROUND #2 9v9",
         "score": "X - X"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U11 Lions",
+        "away_team": "Tyrone Mings Academy U11 Warriors",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #4 9v9",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U11 Wolves",
+        "away_team": "Port of Bristol U11",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U12 Blacks",
+        "away_team": "Shirehampton Colts U12 Leopards",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #2 9v9",
+        "score": "5 - 2"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Bishop Road Buccaneers U9",
+        "away_team": "Rockleaze Rangers U9",
+        "venue": "ASHTON PARK SPORTS CENTRE #4 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Brunel Bantams U10",
+        "away_team": "Rockleaze Rangers U10 Pumas",
+        "venue": "BAWA LEISURE #7 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Cotham Tigers U13 Bengals",
+        "away_team": "Rockleaze Rangers U13 Blacks",
+        "venue": "NETHAM PARK #2",
+        "score": "2 - 7"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Port of Bristol U14",
+        "away_team": "Rockleaze Rangers U14 Blues",
+        "venue": "PORT OF BRISTOL SPORTS AND COMMUNITY HUB #2",
+        "score": "3 - 2"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U10 Lions",
+        "away_team": "Sefton Park Scorpions U10",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #4 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U10 Tigers",
+        "away_team": "Shine Saints U10",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #5 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U13 Reds",
+        "away_team": "Swiss Valley Rangers U13",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #2",
+        "score": "7 - 1"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U14 Greens",
+        "away_team": "Bath and Wilts Blues U14",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #3",
+        "score": "1 - 14"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "Cup:",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U16 Blacks",
+        "away_team": "Shirehampton Colts U16",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #1",
+        "score": "0 - 1"
+    },
+    {
+        "date": "2025-11-22",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Shine Saints U11 Colts",
+        "away_team": "Rockleaze Rangers U11 Jaguars",
+        "venue": "SHINE SPORTS GROUND #2 9v9",
+        "score": "X - X"
     }
 ]
