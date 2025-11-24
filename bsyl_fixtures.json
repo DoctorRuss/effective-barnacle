@@ -171,6 +171,14 @@
         "date": "2025-12-13",
         "fixtype": "",
         "time": "10:30",
+        "home_team": "Rockleaze Rangers U12 Blacks",
+        "away_team": "Wessex Wanderers U12",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #1"
+    },
+    {
+        "date": "2025-12-13",
+        "fixtype": "",
+        "time": "10:30",
         "home_team": "Rockleaze Rangers U14 Blues",
         "away_team": "Hanham Athletic U14 Whites",
         "venue": "UWE BRISTOL HILLSIDE GARDENS #3"
@@ -198,6 +206,14 @@
         "home_team": "Ashley Down U14",
         "away_team": "Rockleaze Rangers U14 Blues",
         "venue": "CANFORD PARK TENNIS COURTS #1"
+    },
+    {
+        "date": "2026-01-10",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Bishop Road Buccaneers U12 Blacks",
+        "away_team": "Rockleaze Rangers U12 Blacks",
+        "venue": "WELLINGTON HILL PLAYING FIELD"
     },
     {
         "date": "2026-01-10",
@@ -299,6 +315,14 @@
         "date": "2026-01-24",
         "fixtype": "",
         "time": "10:30",
+        "home_team": "Rockleaze Rangers U12 Blacks",
+        "away_team": "Shirehampton Colts U12 Jaguars",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #4 9v9"
+    },
+    {
+        "date": "2026-01-24",
+        "fixtype": "",
+        "time": "10:30",
         "home_team": "Tyrone Mings Academy U13 Gladiators",
         "away_team": "Rockleaze Rangers U13 Reds",
         "venue": "EMERSONS GREEN (JOHNSON ROAD)"
@@ -358,6 +382,14 @@
         "home_team": "Cotham Tigers U14 Blacks",
         "away_team": "Rockleaze Rangers U14 Greens",
         "venue": "NETHAM PARK #1"
+    },
+    {
+        "date": "2026-02-07",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U12 Blacks",
+        "away_team": "Sefton Park Scorpions U12",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9"
     },
     {
         "date": "2026-02-07",
@@ -435,6 +467,14 @@
         "date": "2026-03-07",
         "fixtype": "",
         "time": "10:30",
+        "home_team": "Rockleaze Rangers U12 Blacks",
+        "away_team": "Nailsea Athletic U12",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #4 9v9"
+    },
+    {
+        "date": "2026-03-07",
+        "fixtype": "",
+        "time": "10:30",
         "home_team": "Rockleaze Rangers U13 Blacks",
         "away_team": "Wessex Wanderers U13 Tigers",
         "venue": "UWE BRISTOL HILLSIDE GARDENS #3"
@@ -446,6 +486,14 @@
         "home_team": "Thornbury Town U13 Falcons",
         "away_team": "Rockleaze Rangers U13 Reds",
         "venue": "MUNDY PLAYING FIELDS #1"
+    },
+    {
+        "date": "2026-03-14",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Golden Hill Sonics U12",
+        "away_team": "Rockleaze Rangers U12 Blacks",
+        "venue": "GOLDEN HILL SPORTS #3 9v9"
     },
     {
         "date": "2026-03-14",
@@ -494,6 +542,14 @@
         "home_team": "Tyrone Mings Academy U14 Tornadoes",
         "away_team": "Rockleaze Rangers U14 Greens",
         "venue": "WINTERBOURNE ACADEMY SPORTS FIELD #2"
+    },
+    {
+        "date": "2026-03-21",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Westbury Park Foxes U12 Green",
+        "away_team": "Rockleaze Rangers U12 Blacks",
+        "venue": "OAKLANDS (NORTH BRISTOL RFC)"
     },
     {
         "date": "2026-04-25",
