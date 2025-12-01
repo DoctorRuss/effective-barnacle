@@ -988,5 +988,95 @@
         "away_team": "Rockleaze Rangers U11 Jaguars",
         "venue": "SHINE SPORTS GROUND #2 9v9",
         "score": "2 - 3"
+    },
+    {
+        "date": "2025-11-29",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U11 Jaguars",
+        "away_team": "Bristol Pirates U11",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #4 9v9",
+        "score": "8 - 0"
+    },
+    {
+        "date": "2025-11-29",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U11 Wolves",
+        "away_team": "Cotham Tigers U11 Black",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-11-29",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U14 Blues",
+        "away_team": "Brunel Bantams U14",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #3",
+        "score": "2 - 0"
+    },
+    {
+        "date": "2025-11-29",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U10 Tigers",
+        "away_team": "Rockleaze Rangers U10 Pumas",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #5 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-11-29",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U13 Blacks",
+        "away_team": "Thornbury Town U13 Kestrels",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #1",
+        "score": "3 - 2"
+    },
+    {
+        "date": "2025-11-29",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U16 Blacks",
+        "away_team": "Cotham Tigers U16",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #1",
+        "score": "1 - 1"
+    },
+    {
+        "date": "2025-11-29",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Shine Saints U10 Colts",
+        "away_team": "Rockleaze Rangers U10 Lions",
+        "venue": "SHINE SPORTS GROUND #4 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-11-29",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Shirehampton Colts U11 Sharks",
+        "away_team": "Rockleaze Rangers U11 Lions",
+        "venue": "SEAMILLS RECREATION GROUND #1 9v9",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-11-29",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Shirehampton Colts U14 Broncos",
+        "away_team": "Rockleaze Rangers U14 Greens",
+        "venue": "ST BEDES CATHOLIC COLLEGE #3",
+        "score": "4 - 2"
+    },
+    {
+        "date": "2025-11-29",
+        "fixtype": "Cup:",
+        "time": "10:30",
+        "home_team": "Stoke Lane Athletic U13",
+        "away_team": "Rockleaze Rangers U13 Reds",
+        "venue": "MIKE GALLIVAN MEMORIAL FIELD",
+        "score": "2 - 1"
     }
 ]
