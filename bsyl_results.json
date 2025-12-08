@@ -1087,5 +1087,95 @@
         "away_team": "Rockleaze Rangers U9",
         "venue": "POMPHREY HILL PLAYING FIELDS #2 7v7",
         "score": "C - C"
+    },
+    {
+        "date": "2025-12-06",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U11 Jaguars",
+        "away_team": "Cotham Tigers U11 Orange",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #1",
+        "score": "11 - 2"
+    },
+    {
+        "date": "2025-12-06",
+        "fixtype": "",
+        "time": "09:15",
+        "home_team": "Westbury Park Foxes U11 Olympic",
+        "away_team": "Rockleaze Rangers U11 Wolves",
+        "venue": "THE DOWNS #1 9v9",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-12-06",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "4fourthefuture U13",
+        "away_team": "Rockleaze Rangers U13 Reds",
+        "venue": "ROSE GREEN SPORTS LEISURE #1",
+        "score": "A - W"
+    },
+    {
+        "date": "2025-12-06",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Bishop Road Buccaneers U13",
+        "away_team": "Rockleaze Rangers U13 Blacks",
+        "venue": "ASHTON PARK SPORTS CENTRE #2",
+        "score": "2 - 2"
+    },
+    {
+        "date": "2025-12-06",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Cotham Tigers U10",
+        "away_team": "Rockleaze Rangers U10 Lions",
+        "venue": "COTHAM SCHOOL #2 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-12-06",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Nailsea Athletic U12",
+        "away_team": "Rockleaze Rangers U12 Blacks",
+        "venue": "SCOTCH HORN LEISURE CENTRE",
+        "score": "1 - 0"
+    },
+    {
+        "date": "2025-12-06",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U10 Pumas",
+        "away_team": "Golden Hill Sonics U10",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #4 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-12-06",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U11 Lions",
+        "away_team": "Hanham Athletic U11",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-12-06",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U14 Greens",
+        "away_team": "Bristol Palace U14",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #2",
+        "score": "A - W"
+    },
+    {
+        "date": "2025-12-06",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Shine Saints U10",
+        "away_team": "Rockleaze Rangers U10 Tigers",
+        "venue": "SHINE SPORTS GROUND #4 7v7",
+        "score": "X - X"
     }
 ]
