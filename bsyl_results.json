@@ -354,6 +354,15 @@
         "date": "2025-09-27",
         "fixtype": "",
         "time": "10:30",
+        "home_team": "Rockleaze Rangers U10 Pumas",
+        "away_team": "Tyrone Mings Academy U10 Blaze",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #5 7v7",
+        "score": "H - W"
+    },
+    {
+        "date": "2025-09-27",
+        "fixtype": "",
+        "time": "10:30",
         "home_team": "Rockleaze Rangers U12 Blacks",
         "away_team": "Golden Hill Sonics U12",
         "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9",
@@ -1177,5 +1186,95 @@
         "away_team": "Rockleaze Rangers U10 Tigers",
         "venue": "SHINE SPORTS GROUND #4 7v7",
         "score": "X - X"
+    },
+    {
+        "date": "2025-12-13",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U12 Blacks",
+        "away_team": "Wessex Wanderers U12",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #4 9v9",
+        "score": "0 - 4"
+    },
+    {
+        "date": "2025-12-13",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U14 Blues",
+        "away_team": "Hanham Athletic U14 Whites",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #3",
+        "score": "1 - 3"
+    },
+    {
+        "date": "2025-12-13",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Ashley Down U10",
+        "away_team": "Rockleaze Rangers U10 Tigers",
+        "venue": "BRISTOL CIVIL SERVICE SPORTS CLUB #2 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-12-13",
+        "fixtype": "Cup:",
+        "time": "10:30",
+        "home_team": "Port of Bristol U16",
+        "away_team": "Rockleaze Rangers U16 Blacks",
+        "venue": "PORT OF BRISTOL SPORTS AND COMMUNITY HUB #1",
+        "score": "5 - 0"
+    },
+    {
+        "date": "2025-12-13",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U10 Pumas",
+        "away_team": "Shirehampton Colts U10 Broncos",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #4 7v7",
+        "score": "1 - 0"
+    },
+    {
+        "date": "2025-12-13",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U10 Pumas",
+        "away_team": "Shirehampton Colts U10 Broncos",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #4 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-12-13",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U11 Jaguars",
+        "away_team": "Clifton United U11",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9",
+        "score": "6 - 4"
+    },
+    {
+        "date": "2025-12-13",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Shine Saints U9",
+        "away_team": "Rockleaze Rangers U9",
+        "venue": "SHINE SPORTS GROUND #4 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-12-13",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Tyrone Mings Academy U11 Wildfire",
+        "away_team": "Rockleaze Rangers U11 Wolves",
+        "venue": "POMPHREY HILL PLAYING FIELDS #1 9v9",
+        "score": "X - X"
+    },
+    {
+        "date": "2025-12-13",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Wessex Wanderers U13 Colts",
+        "away_team": "Rockleaze Rangers U13 Blacks",
+        "venue": "LOCKLEAZE SPORTS CENTRE #2",
+        "score": "2 - 7"
     }
 ]
