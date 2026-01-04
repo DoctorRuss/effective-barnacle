@@ -97,6 +97,14 @@
     },
     {
         "date": "2026-01-17",
+        "fixtype": "Cup:",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U12 Blacks",
+        "away_team": "Sefton Park Scorpions U12",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #4 9v9"
+    },
+    {
+        "date": "2026-01-17",
         "fixtype": "",
         "time": "10:30",
         "home_team": "Rockleaze Rangers U13 Blacks",
@@ -174,6 +182,14 @@
         "home_team": "Backwell Athletic Junior U16",
         "away_team": "Rockleaze Rangers U16 Blacks",
         "venue": "BACKWELL SCHOOL"
+    },
+    {
+        "date": "2026-01-31",
+        "fixtype": "Cup:",
+        "time": "10:30",
+        "home_team": "Brislington Junior U12",
+        "away_team": "Rockleaze Rangers U12 Blacks",
+        "venue": "BRISLINGTON JUNIOR FOOTBALL CLUB #2 9v9"
     },
     {
         "date": "2026-01-31",
@@ -286,6 +302,14 @@
         "home_team": "Rockleaze Rangers U16 Blacks",
         "away_team": "Bradley Stoke U16 Gold",
         "venue": "UWE BRISTOL HILLSIDE GARDENS #2"
+    },
+    {
+        "date": "2026-02-28",
+        "fixtype": "Cup:",
+        "time": "10:30",
+        "home_team": "Swiss Valley Rangers U12 Dragons",
+        "away_team": "Rockleaze Rangers U12 Blacks",
+        "venue": "CLEVEDON SCHOOL SPORTS CENTRE #1"
     },
     {
         "date": "2026-03-07",
