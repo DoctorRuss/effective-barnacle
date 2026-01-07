@@ -2,6 +2,14 @@
     {
         "date": "2026-01-10",
         "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U14 Greens",
+        "away_team": "Hanham Athletic U14 Blacks",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #3"
+    },
+    {
+        "date": "2026-01-10",
+        "fixtype": "",
         "time": "10:30",
         "home_team": "Ashley Down U14",
         "away_team": "Rockleaze Rangers U14 Blues",
@@ -38,14 +46,6 @@
         "home_team": "Rockleaze Rangers U13 Blacks",
         "away_team": "Shirehampton Colts U13 Broncos",
         "venue": "UWE BRISTOL HILLSIDE GARDENS #2"
-    },
-    {
-        "date": "2026-01-10",
-        "fixtype": "",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U14 Greens",
-        "away_team": "Hanham Athletic U14 Blacks",
-        "venue": "UWE BRISTOL HILLSIDE GARDENS #3"
     },
     {
         "date": "2026-01-10",
