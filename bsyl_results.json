@@ -1230,16 +1230,7 @@
         "home_team": "Rockleaze Rangers U10 Pumas",
         "away_team": "Shirehampton Colts U10 Broncos",
         "venue": "COOMBE DINGLE SPORTS COMPLEX #4 7v7",
-        "score": "1 - 0"
-    },
-    {
-        "date": "2025-12-13",
-        "fixtype": "",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U10 Pumas",
-        "away_team": "Shirehampton Colts U10 Broncos",
-        "venue": "COOMBE DINGLE SPORTS COMPLEX #4 7v7",
-        "score": "V - V"
+        "score": "X - X"
     },
     {
         "date": "2025-12-13",
@@ -1276,5 +1267,77 @@
         "away_team": "Rockleaze Rangers U13 Blacks",
         "venue": "LOCKLEAZE SPORTS CENTRE #2",
         "score": "2 - 7"
+    },
+    {
+        "date": "2026-01-10",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U14 Greens",
+        "away_team": "Hanham Athletic U14 Blacks",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #3",
+        "score": "1 - 5"
+    },
+    {
+        "date": "2026-01-10",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Ashley Down U14",
+        "away_team": "Rockleaze Rangers U14 Blues",
+        "venue": "CANFORD PARK TENNIS COURTS #1",
+        "score": "1 - 5"
+    },
+    {
+        "date": "2026-01-10",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Bishop Road Buccaneers U12 Blacks",
+        "away_team": "Rockleaze Rangers U12 Blacks",
+        "venue": "WELLINGTON HILL PLAYING FIELD",
+        "score": "0 - 0"
+    },
+    {
+        "date": "2026-01-10",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Cotham Tigers U10",
+        "away_team": "Rockleaze Rangers U10 Pumas",
+        "venue": "COTHAM SCHOOL #2 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2026-01-10",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U10 Lions",
+        "away_team": "Shirehampton Colts U10 Broncos",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #5 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2026-01-10",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U13 Blacks",
+        "away_team": "Shirehampton Colts U13 Broncos",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #2",
+        "score": "12 - 1"
+    },
+    {
+        "date": "2026-01-10",
+        "fixtype": "Cup:",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U16 Blacks",
+        "away_team": "Westbury Park Foxes U16",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #1",
+        "score": "2 - 2"
+    },
+    {
+        "date": "2026-01-10",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Swiss Valley Rangers U13",
+        "away_team": "Rockleaze Rangers U13 Reds",
+        "venue": "BROADSTONE PLAYING FIELD",
+        "score": "1 - 7"
     }
 ]
