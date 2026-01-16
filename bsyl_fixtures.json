@@ -113,6 +113,14 @@
     },
     {
         "date": "2026-01-24",
+        "fixtype": "Cup:",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U14 Blues",
+        "away_team": "Portishead Town U14 Rangers",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #2"
+    },
+    {
+        "date": "2026-01-24",
         "fixtype": "",
         "time": "10:30",
         "home_team": "Shine Saints U9 Colts",
