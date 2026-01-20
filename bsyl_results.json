@@ -1339,5 +1339,95 @@
         "away_team": "Rockleaze Rangers U13 Reds",
         "venue": "BROADSTONE PLAYING FIELD",
         "score": "1 - 7"
+    },
+    {
+        "date": "2026-01-17",
+        "fixtype": "Cup:",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U12 Blacks",
+        "away_team": "Sefton Park Scorpions U12",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #4 9v9",
+        "score": "0 - 1"
+    },
+    {
+        "date": "2026-01-17",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Cotham Tigers U10",
+        "away_team": "Rockleaze Rangers U10 Tigers",
+        "venue": "COTHAM SCHOOL #2 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2026-01-17",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U10 Pumas",
+        "away_team": "Banwell Juniors U10 Athletic",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #5 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2026-01-17",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U13 Blacks",
+        "away_team": "Cotham Tigers U13 Bengals",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #3",
+        "score": "3 - 1"
+    },
+    {
+        "date": "2026-01-17",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U13 Reds",
+        "away_team": "Ashley Down U13",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #2",
+        "score": "8 - 0"
+    },
+    {
+        "date": "2026-01-17",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U16 Blacks",
+        "away_team": "Shirehampton Colts U16",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #1",
+        "score": "5 - 1"
+    },
+    {
+        "date": "2026-01-17",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U9",
+        "away_team": "Bishop Road Buccaneers U9",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #4 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2026-01-17",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Shine Saints U10 Colts",
+        "away_team": "Rockleaze Rangers U10 Lions",
+        "venue": "SHINE SPORTS GROUND #4 7v7",
+        "score": "X - X"
+    },
+    {
+        "date": "2026-01-17",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Westbury Park Foxes U14",
+        "away_team": "Rockleaze Rangers U14 Greens",
+        "venue": "ST BEDES CATHOLIC COLLEGE #2",
+        "score": "4 - 1"
+    },
+    {
+        "date": "2026-01-24",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Shirehampton Colts U10 Broncos",
+        "away_team": "Rockleaze Rangers U10 Lions",
+        "venue": "SEAMILLS RECREATION GROUND #2 7v7",
+        "score": "X - X"
     }
 ]
