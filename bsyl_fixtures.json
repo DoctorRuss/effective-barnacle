@@ -1,19 +1,19 @@
 [
     {
         "date": "2026-02-07",
+        "fixtype": "Cup:",
+        "time": "09:00",
+        "home_team": "Brunel Bantams U13 Albion",
+        "away_team": "Rockleaze Rangers U13 Blacks",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #3"
+    },
+    {
+        "date": "2026-02-07",
         "fixtype": "",
         "time": "10:30",
         "home_team": "Brunel Bantams U10",
         "away_team": "Rockleaze Rangers U10 Lions",
-        "venue": "BAWA LEISURE #7 7v7"
-    },
-    {
-        "date": "2026-02-07",
-        "fixtype": "Cup:",
-        "time": "10:30",
-        "home_team": "Brunel Bantams U13 Albion",
-        "away_team": "Rockleaze Rangers U13 Blacks",
-        "venue": "BAWA LEISURE #3"
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #6 7v7 3G"
     },
     {
         "date": "2026-02-07",
@@ -29,7 +29,7 @@
         "time": "10:30",
         "home_team": "Portishead Town U14 Wanderers",
         "away_team": "Rockleaze Rangers U14 Blues",
-        "venue": "PORTISHEAD FOOTBALL CLUB #3"
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #3"
     },
     {
         "date": "2026-02-07",
@@ -275,17 +275,17 @@
         "date": "2026-03-21",
         "fixtype": "",
         "time": "10:30",
-        "home_team": "Tyrone Mings Academy U10 Blaze",
-        "away_team": "Rockleaze Rangers U10 Lions",
-        "venue": "POMPHREY HILL PLAYING FIELDS #2 7v7"
+        "home_team": "Tyrone Mings Academy U14 Tornadoes",
+        "away_team": "Rockleaze Rangers U14 Greens",
+        "venue": "WINTERBOURNE ACADEMY SPORTS FIELD #2"
     },
     {
         "date": "2026-03-21",
         "fixtype": "",
         "time": "10:30",
-        "home_team": "Tyrone Mings Academy U14 Tornadoes",
-        "away_team": "Rockleaze Rangers U14 Greens",
-        "venue": "WINTERBOURNE ACADEMY SPORTS FIELD #2"
+        "home_team": "Wessex Wanderers U13 Tigers",
+        "away_team": "Rockleaze Rangers U13 Blacks",
+        "venue": "LOCKLEAZE SPORTS CENTRE #2"
     },
     {
         "date": "2026-03-21",
@@ -355,6 +355,14 @@
         "date": "2026-04-25",
         "fixtype": "",
         "time": "10:30",
+        "home_team": "Brunel Bantams U13 Wanderers",
+        "away_team": "Rockleaze Rangers U13 Reds",
+        "venue": "BAWA LEISURE #3"
+    },
+    {
+        "date": "2026-04-25",
+        "fixtype": "",
+        "time": "10:30",
         "home_team": "Chew Valley U16",
         "away_team": "Rockleaze Rangers U16 Blacks",
         "venue": "PENSFORD RECREATION GROUND"
@@ -366,6 +374,14 @@
         "home_team": "Rockleaze Rangers U14 Blues",
         "away_team": "Southmead U14",
         "venue": "UWE BRISTOL HILLSIDE GARDENS #3"
+    },
+    {
+        "date": "2026-04-25",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Tyrone Mings Academy U10 Blaze",
+        "away_team": "Rockleaze Rangers U10 Lions",
+        "venue": "POMPHREY HILL PLAYING FIELDS #2 7v7"
     },
     {
         "date": "2026-05-02",
