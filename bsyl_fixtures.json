@@ -74,6 +74,14 @@
     {
         "date": "2026-03-07",
         "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U13 Blacks",
+        "away_team": "Wessex Wanderers U13 Tigers",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #3"
+    },
+    {
+        "date": "2026-03-07",
+        "fixtype": "",
         "time": "10:30",
         "home_team": "Cotham Tigers U16",
         "away_team": "Rockleaze Rangers U16 Blacks",
@@ -115,14 +123,6 @@
         "date": "2026-03-07",
         "fixtype": "",
         "time": "10:30",
-        "home_team": "Rockleaze Rangers U13 Blacks",
-        "away_team": "Wessex Wanderers U13 Tigers",
-        "venue": "UWE BRISTOL HILLSIDE GARDENS #3"
-    },
-    {
-        "date": "2026-03-07",
-        "fixtype": "",
-        "time": "10:30",
         "home_team": "Rockleaze Rangers U14 Blues",
         "away_team": "Port of Bristol U14",
         "venue": "UWE BRISTOL HILLSIDE GARDENS #1"
@@ -134,6 +134,14 @@
         "home_team": "Westbury Park Foxes U10",
         "away_team": "Rockleaze Rangers U10 Tigers",
         "venue": "THE DOWNS #3 7v7"
+    },
+    {
+        "date": "2026-03-14",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U11 Jaguars",
+        "away_team": "Thornbury Town U11 Phoenix",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9"
     },
     {
         "date": "2026-03-14",
@@ -166,14 +174,6 @@
         "home_team": "Rockleaze Rangers U10 Tigers",
         "away_team": "Banwell Juniors U10 Athletic",
         "venue": "COOMBE DINGLE SPORTS COMPLEX #4 7v7"
-    },
-    {
-        "date": "2026-03-14",
-        "fixtype": "",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U11 Jaguars",
-        "away_team": "Thornbury Town U11 Phoenix",
-        "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9"
     },
     {
         "date": "2026-03-14",
