@@ -1681,5 +1681,68 @@
         "away_team": "Rockleaze Rangers U12 Blacks",
         "venue": "CLEVEDON SCHOOL SPORTS CENTRE #2",
         "score": "7 - 1"
+    },
+    {
+        "date": "2026-03-07",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U13 Blacks",
+        "away_team": "Wessex Wanderers U13 Tigers",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #3",
+        "score": "12 - 3"
+    },
+    {
+        "date": "2026-03-07",
+        "fixtype": "",
+        "time": "09:00",
+        "home_team": "Rockleaze Rangers U14 Blues",
+        "away_team": "Port of Bristol U14",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #1",
+        "score": "1 - 2"
+    },
+    {
+        "date": "2026-03-07",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Cotham Tigers U16",
+        "away_team": "Rockleaze Rangers U16 Blacks",
+        "venue": "CANFORD PARK TENNIS COURTS #2",
+        "score": "1 - 0"
+    },
+    {
+        "date": "2026-03-07",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U11 Jaguars",
+        "away_team": "Rockleaze Rangers U11 Wolves",
+        "venue": "COOMBE DINGLE SPORTS COMPLEX #1",
+        "score": "X - X"
+    },
+    {
+        "date": "2026-03-07",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U11 Lions",
+        "away_team": "Tyrone Mings Academy U11 Warriors",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #5 9v9",
+        "score": "X - X"
+    },
+    {
+        "date": "2026-03-07",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Rockleaze Rangers U12 Blacks",
+        "away_team": "Nailsea Athletic U12",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #4 9v9",
+        "score": "7 - 1"
+    },
+    {
+        "date": "2026-03-07",
+        "fixtype": "",
+        "time": "10:30",
+        "home_team": "Westbury Park Foxes U10",
+        "away_team": "Rockleaze Rangers U10 Tigers",
+        "venue": "THE DOWNS #3 7v7",
+        "score": "X - X"
     }
 ]
