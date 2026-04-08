@@ -18,24 +18,6 @@
         "score": "X - X"
     },
     {
-        "date": "2025-09-13",
-        "fixtype": "",
-        "time": "10:30",
-        "home_team": "Fry Club Juniors U16",
-        "away_team": "Rockleaze Rangers U16 Blacks",
-        "venue": "SOMERDALE PAVILION",
-        "score": "2 - 1"
-    },
-    {
-        "date": "2025-09-13",
-        "fixtype": "",
-        "time": "10:30",
-        "home_team": "Rockleaze Rangers U10 Tigers",
-        "away_team": "Ashley Down U10",
-        "venue": "COOMBE DINGLE SPORTS COMPLEX #5 7v7",
-        "score": "X - X"
-    },
-    {
         "date": "2025-09-20",
         "fixtype": "",
         "time": "09:00",
@@ -1789,5 +1771,23 @@
         "away_team": "Rockleaze Rangers U14 Greens",
         "venue": "POMPHREY HILL SPORTS FIELD #2",
         "score": "7 - 0"
+    },
+    {
+        "date": "2026-04-01",
+        "fixtype": "",
+        "time": "19:00",
+        "home_team": "Westbury Park Foxes U16",
+        "away_team": "Rockleaze Rangers U16 Blacks",
+        "venue": "UWE BRISTOL HILLSIDE GARDENS #1",
+        "score": "2 - 3"
+    },
+    {
+        "date": "2026-04-02",
+        "fixtype": "",
+        "time": "18:00",
+        "home_team": "Golden Hill Sonics U14",
+        "away_team": "Rockleaze Rangers U14 Blues",
+        "venue": "GOLDEN HILL SPORTS #2",
+        "score": "4 - 1"
     }
 ]

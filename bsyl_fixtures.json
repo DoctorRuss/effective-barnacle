@@ -1,21 +1,5 @@
 [
     {
-        "date": "2026-04-01",
-        "fixtype": "",
-        "time": "19:00",
-        "home_team": "Westbury Park Foxes U16",
-        "away_team": "Rockleaze Rangers U16 Blacks",
-        "venue": "UWE BRISTOL HILLSIDE GARDENS #1"
-    },
-    {
-        "date": "2026-04-02",
-        "fixtype": "",
-        "time": "18:00",
-        "home_team": "Golden Hill Sonics U14",
-        "away_team": "Rockleaze Rangers U14 Blues",
-        "venue": "GOLDEN HILL SPORTS #2"
-    },
-    {
         "date": "2026-04-18",
         "fixtype": "",
         "time": "10:30",
@@ -56,6 +40,14 @@
         "venue": "POMPHREY HILL SPORTS FIELD #3"
     },
     {
+        "date": "2026-04-23",
+        "fixtype": "",
+        "time": "18:00",
+        "home_team": "Cotham Tigers U14 Blacks",
+        "away_team": "Rockleaze Rangers U14 Greens",
+        "venue": "ST BEDES CATHOLIC COLLEGE #2"
+    },
+    {
         "date": "2026-04-25",
         "fixtype": "",
         "time": "09:00",
@@ -78,14 +70,6 @@
         "home_team": "Chew Valley U16",
         "away_team": "Rockleaze Rangers U16 Blacks",
         "venue": "PENSFORD RECREATION GROUND"
-    },
-    {
-        "date": "2026-04-25",
-        "fixtype": "",
-        "time": "10:30",
-        "home_team": "Cotham Tigers U14 Blacks",
-        "away_team": "Rockleaze Rangers U14 Greens",
-        "venue": "NETHAM PARK #1"
     },
     {
         "date": "2026-04-25",
